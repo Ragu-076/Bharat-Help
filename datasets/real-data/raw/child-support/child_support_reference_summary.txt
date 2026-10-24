@@ -1,0 +1,22 @@
+CHILD SUPPORT — PARAPHRASED PROJECT REFERENCE
+
+Checked: 23 October 2026
+This is a project-created collection reference. It is not an official NCPCR/WCD publication or a complete child-rights dataset.
+
+OFFICIAL SOURCES
+Child Helpline: https://www.wcd.gov.in/child/child-helpline
+Child Helpline SOP: https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf
+NCPCR complaint portal: https://ncpcr.gov.in/ebaalnidan/
+Register: https://ncpcr.gov.in/index_ebaalnidan.php/main/complaint
+Track: https://ncpcr.gov.in/index_ebaalnidan.php/main/track-complaint
+Online safety: https://www.cert-in.org.in/PDF/Cyber_Smart_Kids_Suraksha_Guide.pdf
+
+COLLECTION NOTES
+- The official WCD page describes Child Helpline 1098, round-the-clock state/district services and integration with ERSS. The SOP is dated 31 March 2023; keep current service verification separate from the document's publication date.
+- The SOP supplies initial child-protection assistance/referral information, including abuse, missing children, labour and some abandonment/trafficking situations. Detailed rights and current local contacts still require additional verification.
+- NCPCR's eBaalNidan portal provides public Register Complaint and Track Complaint routes for child-rights complaints.
+- The registration form requests complainant/contact and child information, location, complaint details and case-status declarations. It includes CAPTCHA and supporting-evidence options.
+- The tracking form requests a registered email/mobile, complaint ID and CAPTCHA. Do not collect actual complaint credentials, identities or case files into the application dataset.
+- CERT-In's Cyber Smart Kids: Suraksha Guide (October 2025) is an awareness reference for privacy, phishing, online relationships and safer internet use.
+
+Retain source URLs and verification dates when turning these sources into reviewed assistance records. These reference files do not automatically update the running API.

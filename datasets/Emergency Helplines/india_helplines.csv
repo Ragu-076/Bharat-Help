@@ -1,0 +1,33 @@
+helpline_name,number,category,description,availability,source_url
+National Emergency (ERSS),112,emergency,Unified emergency number for police/fire/ambulance,24x7,erss.gov.in
+Police,100,emergency,Police emergency response,24x7,police.gov.in
+Fire,101,emergency,Fire service emergency,24x7,india.gov.in
+Ambulance,102,medical,National ambulance service,24x7,india.gov.in
+Emergency Ambulance,108,medical,Emergency ambulance service (most states),24x7,india.gov.in
+Women Helpline,181,women,Women in distress helpline,24x7,ncw.nic.in
+Women Helpline (Domestic),1091,women,Women domestic abuse helpline,24x7,ncw.nic.in
+National Commission for Women,7827170170,women,NCW complaint helpline,Office hours,ncw.nic.in
+Childline India,1098,child,Emergency helpline for children in distress,24x7,childlineindia.org
+Cyber Crime Helpline,1930,cyber,Financial fraud and cyber crime reporting,24x7,cybercrime.gov.in
+Cyber Crime Portal,cybercrime.gov.in,cyber,Online complaint filing for cyber crimes,Online,cybercrime.gov.in
+Senior Citizen Helpline,14567,elderly,Elder abuse and senior citizen support,24x7,india.gov.in
+Railway Helpline,139,transport,Railway enquiry and emergency,24x7,indianrailways.gov.in
+Road Accident Emergency,1073,medical,Road accident emergency,24x7,india.gov.in
+Ayushman Bharat Helpline,14555,health-scheme,PMJAY health insurance helpline,24x7,pmjay.gov.in
+Blood Bank Helpline,104,medical,Blood bank and health advisory,24x7,india.gov.in
+Mental Health Helpline (Vandrevala),18602662345,mental-health,24x7 mental health crisis helpline,24x7,vandrevalafoundation.com
+Mental Health Helpline (iCall TISS),9152987821,mental-health,Counselling helpline by TISS Mumbai,Mon-Sat 8am-10pm,icallhelpline.org
+NIMHANS Helpline,08046110007,mental-health,NIMHANS psychiatric helpline,24x7,nimhans.ac.in
+Disaster Management,1070,emergency,National disaster management helpline,24x7,ndma.gov.in
+Anti-Poison Helpline,1066,medical,Poison control and anti-poison info,24x7,india.gov.in
+Missing Persons / Anti-Trafficking,1094,child,Anti-human trafficking helpline,24x7,mha.gov.in
+LPG Emergency,1906,emergency,Gas leak emergency,24x7,india.gov.in
+Tourist Helpline,1363,tourism,Tourist assistance and safety,24x7,tourism.gov.in
+Kisan Call Centre,18001801551,agriculture,Agriculture and farmer helpline,6am-10pm,farmer.gov.in
+Consumer Helpline,1915,consumer,Consumer complaint helpline,9:30am-5:30pm,consumerhelpline.gov.in
+PMAY Housing Helpline,18001116163,housing,Pradhan Mantri Awas Yojana helpline,Office hours,pmaymis.gov.in
+SHe-Box Portal,shebox.nic.in,women,Online workplace sexual harassment complaints,Online,shebox.nic.in
+TrackChild Portal,trackthemissingchild.gov.in,child,Missing and found children tracking,Online,trackthemissingchild.gov.in
+CERT-In,cert-in.org.in,cyber,Cyber security incident response,Online,cert-in.org.in
+RBI Complaint Portal,cms.rbi.org.in,cyber,Banking fraud and RBI complaints,Online,rbi.org.in
+National Scholarship Portal,scholarships.gov.in,education,Central and state scholarship schemes,Online,scholarships.gov.in

@@ -1,0 +1,14 @@
+{
+  "name": "bharat-help",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "dev:api": "npm --prefix backend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run preview",
+    "test": "npm --prefix frontend test",
+    "test:api": "npm --prefix backend test",
+    "lint": "npm --prefix frontend run lint"
+  }
+}

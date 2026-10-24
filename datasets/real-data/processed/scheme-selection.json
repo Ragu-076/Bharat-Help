@@ -1,0 +1,564 @@
+{
+  "reviewedOn": "2026-10-24",
+  "rawFile": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+  "rawRecordCount": 4693,
+  "selectedRecordCount": 10,
+  "method": "Selected actual raw CSV rows, then rewrote concise guidance against the listed primary sources. The parsed eligibility_* fields are not used for eligibility decisions.",
+  "verificationLimits": [
+    "myScheme URLs were opened, but the browser text reader exposed only the JavaScript page shell. Scheme facts were checked against original departmental pages, official guidelines and government releases instead.",
+    "The community snapshot is not an official government export. These are curated starting records, not a complete scheme catalogue or an automated eligibility service.",
+    "Application windows, available training batches, state additions, local documentation requirements and individual approval must be checked with the administering authority.",
+    "CMCHIS eligibility was readable in the official search index; the live site returned no extractable body text.",
+    "Language variants are authored summaries and require native-speaker review before wider public use."
+  ],
+  "excludedExamples": [
+    {
+      "slug": "mgnrega",
+      "reason": "Raw snapshot describes the older Act. Official 2026 material reports the replacement VB-G RAM G Act; excluded rather than publishing outdated work entitlements."
+    },
+    {
+      "slug": "pmay-u",
+      "reason": "This starter set prioritises rural housing; the older raw label also needs migration to PMAY-U 2.0 before an urban record is added."
+    }
+  ],
+  "selections": [
+    {
+      "id": "government-schemes/ab-pmjay",
+      "csvDataRecord": 490,
+      "raw": {
+        "slug": "ab-pmjay",
+        "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana",
+        "description": "AB PM-JAY is a health insurance scheme for low-income families in rural and urban areas. The scheme aims to provide affordable healthcare facilities to the Poor. It is the largest health assurance scheme in the world which aims at providing a health cover of ₹5,00,000/- per family per year.",
+        "ministry": "Ministry Of Health & Family Welfare",
+        "department": "Department of Health and Family Welfare",
+        "state": "Central",
+        "category": "Health & Wellness",
+        "beneficiary_type": "Family",
+        "benefits": "> **Financial Health Insurance Cover:**\n\n- **Annual Hospitalization Coverage:** Cashless coverage up to ₹5,00,000/- per family per year.- **Comprehensive Treatment Costs:** Covers consultation, medicines, diagnostics, surgery, ICU, implants, accommodation, and food.- **Pre and Post Hospitalization Support:** Covers 3 days pre-hospitalization and 15 days post-hospitalization expenses.- **Treatment Complication Coverage:** Covers complications arising during treatment.\n> **Coverage Features:**\n\n- **Pre-Existing Disease Coverage:** Covers all pre-existing diseases from day one.- **No Family Size Limit:** No restriction on age, gender, or family size.- **Nationwide Portability:** Benefits available across India in empanelled hospitals.- **Wide Procedure Coverage:** Covers approximately 1,929 medical procedures.\n<br>",
+        "eligibility_text": "> **Rural Beneficiaries**\n\nOut of the total seven deprivation criteria for rural areas, PM-JAY covered all such families who fall into at least one of the following six deprivation criteria and automatic inclusion(Destitute/ living on alms, manual scavenger households, primitive tribal group, legally released bonded labour) criteria:\n\n1. Only one room with kucha walls and kucha roof\n1. No adult member between ages 16 to 59\n1. Households with no adult male member between ages 16 to 59\n1. Disabled member and no able-bodied adult member\n1. SC/ST households\n1. Landless households deriving a major part of their income from manual casual labour\n\n- Automatically includedHouseholds without shelter\n\n1. Destitute/ living on alms,\n1. Manual scavenger families,\n1. Primitive tribal groups,\n1. Legally released bonded labour.\n\n> **Urban Beneficiaries**\n\nFor urban areas, the following 11 occupational categories of workers are eligible for the scheme:\n\n1. Ragpicker\n1. Beggar\n1. Domestic worker\n1. Street vendor/ Cobbler/hawker / other service provider working on streets\n1. Construction worker/ Plumber/ Mason/ Labour/ Painter/ Welder/ Security guard/ Coolie and other head-load worker\n1. Sweeper/ Sanitation worker/ Mali\n1. Home-based worker/ Artisan/ Handicrafts worker/ Tailor\n1. Transport worker/ Driver/ Conductor/ Helper to drivers and conductors/ Cart puller/ Rickshaw puller\n1. Shop worker/ Assistant/ Peon in small establishment/ Helper/Delivery assistant / Attendant/ Waiter\n1. Electrician/ Mechanic/ Assembler/ Repair worker\n1. Washer-man/ Chowkidar\n\n<br>",
+        "application_process": "[Offline]\nThe Arogya Mitra searches the available list of beneficiaries using details such as name, location, ration card number, mobile number, or the RSBY URN of the beneficiary. After this, the beneficiary is searched for in the BIS. The individual is identified and the scanned valid ID documents are then uploaded.\nTo get a PMJAY e-card for themselves and their family, a potential beneficiary needs to visit either a hospital or a Community Service Centre (CSC) for identification and follow the steps mentioned below:\nStep 1: Potential AB-PMJAY beneficiaries are to submit the PM letter/ RSBY URN/ RC Number/ Mobile Number - The operator (commonly known as the Arogya Mitra) searches the available list of beneficiaries. The operator does this by entering details such as name, location, Ration Card number, mobile number, or even RSBY URN of the beneficiary.\nStep 2: Search in the BIS Application - The operator searches for the potential beneficiary in the entitled SECC, RSBY, State Health Scheme, Additional Data Collection Drive databases.\nStep 3: Individual Identification - The identification process is carried out if the name is found in the list. For this, documents like Aadhaar or any government ID and a Ration Card or an alternative family ID are required to validate against the details available in the system. Scanned documents are then uploaded.\nStep 4: Family Identification - The Arogya Mitra then identifies the family records through the ration card and the scanned documents are then uploaded. The Arogya Mitra then submits the individual and family records to the trust/insurance company for approval.\nStep 5: Approval or Rejection - The Health insurance company or trust may then approve or recommend rejection for the submitted beneficiaries. The cases that are recommended for rejection will be finally verified for approval or rejection by the State Health Agency (SHA).\nStep 6: E-card Issuance - On approval by SHA/insurance company/trust, an e-card will be issued to the beneficiary.\n\n[Online]\nStep 1: Register on the UMANG Portal- Visit the official website of UMANG. In the top right corner of the landing page, click \"Register.\" You will be taken to the Registration Page.\nStep 2: Mobile Number Verification and MPIN Creation- You will be redirected to the mobile number verification page. Enter your mobile number and get it verified via OTP. Create an MPIN to complete the registration process. You will be taken to the UMANG homepage. Login using your Mobile Number and MPIN.\nStep 3: Accessing Services on UMANG- In the tabs provided at the bottom of the page, click on the \"All Services\" tab. Select the service you want to apply for. You will be taken to the Online Application Form.\nStep 5: Completing the Application- In the application form, fill in all the mandatory fields and upload all the required documents in the specified format and size.\nStep 6: Review and Confirmation- Carefully review all the information provided and the documents uploaded. Make any necessary corrections, if required. Acknowledge and agree to the terms and conditions, declaration, and privacy policy, if any.\nStep 7: Submitting the Application- Click the \"Submit\" or \"Apply\" button to submit your application. You'll receive a confirmation message upon successful submission of the application.",
+        "documents_required": "1.\tAge & Identity Proof (Aadhaar Card / PAN Card).\n2.\tProof of Address.\n3.\tContact details (Mobile, e-mail).\n4.\tCaste Certificate.\n5.\tIncome Certificate.\n6.\tDocument Proof of the Current Status of the Family (Joint or Nuclear).\n7. Aadhaar Card.",
+        "apply_url": "https://www.pmjay.gov.in/about/pmjay",
+        "official_url": "https://www.myscheme.gov.in/schemes/ab-pmjay",
+        "eligibility_age_min": "null",
+        "eligibility_age_max": "null",
+        "eligibility_gender": "all",
+        "eligibility_caste": "[]",
+        "eligibility_income_max": "null",
+        "eligibility_residence": "both",
+        "eligibility_state": "[\"All\"]",
+        "eligibility_disability": "false",
+        "eligibility_bpl": "false",
+        "scraped_at": "2026-07-05 10:08:54.337+00"
+      },
+      "runtimeKeywords": [
+        "Health Insurance"
+      ],
+      "validationSources": [
+        {
+          "title": "Social Justice Ministry parliamentary reply: PM-JAY cover and senior-citizen enrolment",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2110780&lang=2&reg=3",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "Family hospitalisation cover and separate 70-plus enrolment route."
+          ],
+          "publishedOn": "2025-03-12"
+        },
+        {
+          "title": "National Health Authority: senior citizen cover",
+          "url": "https://nha.gov.in/img/resources/Press_Release.pdf"
+        }
+      ]
+    },
+    {
+      "id": "government-schemes/cmchis",
+      "csvDataRecord": 716,
+      "raw": {
+        "slug": "cmchis",
+        "name": "Chief Minister's Comprehensive Health Insurance Scheme",
+        "description": "Chief Minister Comprehensive Health Insurance Scheme  provides quality health care to the eligible person through empanelled government and private hospitals to reduce the financial hardship to the enrolled families and move towards universal health coverage by effectively linking with public",
+        "ministry": "null",
+        "department": "Planning, Development and Special Initiatives Department",
+        "state": "Tamil Nadu",
+        "category": "Health & Wellness",
+        "beneficiary_type": "null",
+        "benefits": "Extensive Coverage for Medical Emergencies: The Chief Minister Comprehensive Health Insurance Scheme is designed to provide financial support to families who are not financially equipped to handle medical emergencies due to the high costs of healthcare treatments in India. The scheme offers access to high-end medical treatments without the worry of incurring a significant financial burdens.\nLarge Network of Hospitals: One of the significant advantages of the Chief Minister Comprehensive Health Insurance Scheme is that it has a vast network of hospitals that are empanelled to provide medical treatment. This ensures that beneficiaries can access medical facilities quickly, even in remote areas.\nComprehensive Coverage for Multiple Treatments: The scheme provides coverage for numerous treatments, thereby reducing the likelihood of beneficiaries having to pay for medical treatments from their pocket. This ensures that beneficiaries can avail of any treatment covered under the policy free of cost, making healthcare more affordable.\nHigh Sum Insured: The Chief Minister Comprehensive Health Insurance Scheme provides high coverage of up to Rs. 5 lahks per family for each policy year. This amount is sufficient to avail of most minor healthcare treatments, and it provides significant relief to families who cannot afford healthcare expenses.\nCoverage for Additional Medical Procedures: Unlike typical health insurance policies, the Chief Minister Comprehensive Health Insurance Scheme also provides coverage for follow-up treatments and diagnostic procedures. This eliminates the need for beneficiaries to spend extra money on carrying out these procedures, thus providing additional financial relief.",
+        "eligibility_text": "The Chief Minister’s Comprehensive Health Insurance Scheme is intended for the residents of Tamil Nadu who meet the specified eligibility criteria. To qualify for benefits under the scheme, the applicant&#39;s name must be present in the family card, and their family&#39;s annual income should be less than Rs.1,20,000/- per annum. This eligibility can be confirmed by producing necessary documents, such as the family card, Aadhar card, and income certificate issued by the VAO/Revenue Authorities, along with a self-declaration from the head of the family.\n<br>\n\nUnder this scheme, the definition of family includes the eligible member, their legal spouse, their children, and their dependent parents. By ensuring that these individuals meet the necessary criteria, they can access the benefits of the scheme and receive quality healthcare services without financial burden.",
+        "application_process": "[Offline]\nStep 1: Obtain an income certificate from the Village Administrative Officer or Revenue authorities.\nStep 2: Gather all the necessary documents such as Aadhar card, ration card, and income certificate and proceed to the enrollment center.\nStep 3: Present your documents to the kiosk operator for verification.\nStep 4: Provide your biometric details such as fingerprints, photograph, and eye scan.\nStep 5: Your details will be verified and the e-card will be issued to you.",
+        "documents_required": "Income certificate from the Village Administrative Officer/Revenue authorities\nRation Card (both original and photocopy)\nSelf-declaration from the head of the family\nProof of identity\nAddress proof\nAadhar card\nPAN card (optional)",
+        "apply_url": "null",
+        "official_url": "https://www.myscheme.gov.in/schemes/cmchis",
+        "eligibility_age_min": "null",
+        "eligibility_age_max": "null",
+        "eligibility_gender": "all",
+        "eligibility_caste": "[]",
+        "eligibility_income_max": "120000",
+        "eligibility_residence": "both",
+        "eligibility_state": "[\"Tamil Nadu\"]",
+        "eligibility_disability": "false",
+        "eligibility_bpl": "false",
+        "scraped_at": "2026-07-05 09:45:06.414+00"
+      },
+      "runtimeKeywords": [
+        "Health Insurance"
+      ],
+      "validationSources": [
+        {
+          "title": "CMCHIS official general-category eligibility and enrolment",
+          "url": "https://cmchistn.com/eligibility",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "General-category income threshold, residence/family-card evidence and enrolment documents."
+          ],
+          "verificationNote": "Official eligibility page is JavaScript-only in the text reader; criteria corroborated by the official 2022 scheme guidelines indexed on the same domain."
+        },
+        {
+          "title": "CMCHIS official scheme portal",
+          "url": "https://www.cmchistn.com/"
+        },
+        {
+          "title": "Government of Tamil Nadu: CMCHIS Guidelines 2022, enclosure 2, clause 3",
+          "url": "https://www.cmchistn.com/Tender%20document%202022.pdf",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "Tamil Nadu resident identification and general-category annual family income below ₹1,20,000."
+          ],
+          "verificationNote": "Official document text available in the search index; direct text extraction returned an empty body."
+        }
+      ]
+    },
+    {
+      "id": "government-schemes/csss-cus",
+      "csvDataRecord": 3279,
+      "raw": {
+        "slug": "csss-cus",
+        "name": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University students",
+        "description": "A scholarship scheme by the Dept. of Higher Education to provide financial assistance to meritorious students from poor families to meet a part of their day-to-day expenses while pursuing higher studies. The scholarships are awarded on the basis of results of Higher Secondary / Class 12th Board Exam",
+        "ministry": "Ministry of Education",
+        "department": "Department Of Higher Education",
+        "state": "Central",
+        "category": "Education & Learning",
+        "beneficiary_type": "Individual",
+        "benefits": "**Rate of Scholarship**\n\n- ₹12,000/-per annum at the Graduation level for the first three years of College and University courses.\n- ₹20,000 per annum at the Post-graduation level.\n- ₹20,000/-per annum in the 4th and 5th year to the Students pursuing professional courses, in case, where the duration of the course is five (5) years/Integrated course.\n- Students pursuing technical courses such as B.Tech, B.Engg. will get scholarship up to graduation level only i.e. ₹12,000 p.a. for 1st, 2nd, and 3rd year and ₹20,000 in the 4th year.\n\n﻿\n**Mode of Disbursal**\nThe scholarship will be disbursed directly into the Aadhar seeded bank accounts of the beneficiaries through Direct Benefit Transfer (DBT).\n<br>",
+        "eligibility_text": "- The applicant must be above the 80th percentile of successful candidates in the relevant stream from the respective Board of Examination in Class 12th of 10+2 pattern or equivalent.\n  - The applicant must be pursuing regular degree courses.\n  - The applicant must be pursuing courses at colleges/ institutions recognized by the All India Council for Technical Education and the respective Regulatory Bodies concerned.\n  - The gross parental/ family income of the applicant should not exceed ₹4,50,000/- per annum.\n  - For renewal of scholarship in each year of study, besides getting at least 50% marks in the Annual Examination, maintenance of adequate attendance should be at least 75%.\n  - The students are required to have Aadhaar seeded bank accounts opened in their name.\n\n<br>",
+        "application_process": "[Online]\nOne Time Registration (OTR)\nStep 1: Visit the National Scholarships Portal (NSP) One Time Registration page and Click on “Apply for OTR”\nStep 2: Guidelines for OTR will appear. Scroll to the bottom. Read carefully the undertaking. Accept the Terms. Click “Next”.\nStep 3: Register your active mobile number in the OTR registration form. All correspondence/communication will be done on the submitted mobile/e-mail only. \nStep 4: Complete Aadhaar e-KYC by entering Parent/Legal Guardian/Student Aadhaar number. Submit the OTP received and Click “verify”\nStep 5: Enter details on the next page and click “Finish”. You will receive a Reference Number. Download the NSP OTR App and the Aadhaar FaceRD App from Google Play Store and complete face authentication for generating OTR.\nStep 6: On successful face authentication, your 14-digit OTR number will be generated and sent via SMS.\nFresh Application\nStep 1: Visit the Applicant Login page of the National Scholarships Portal. Select “OTR Login” and enter your OTR number and password.\nStep 2: Type the Captcha and click “Login”.\nStep 3: On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen. Create a new password and confirm.\nStep 4: Click “Submit”. You will be directed to the “Applicant’s Dashboard”.\nStep 5: On the left pane, click “Application Form”. The fields marked as * are compulsory. Fill in the details and upload the documents. The verification of credentials of the students (caste, educational qualifications etc.) will be done through the DIGILOCKER facility of the MeitY, Govt. of India. \nStep 6: You can either click on “Save as Draft” to complete the application later. Else, click “Final Submit” to apply.\nTrack Payment Status\nThe student can track their payment status from the template “Know Your Payment” in the Public Financial Management System (PFMS) Portal either by indicating their Aadhaar Number, Bank Account number or NSP Application ID.\nNOTE 1: The National Scholarships Portal will provide the timelines for opening & closing of the portal.\nNOTE 2: Online applications will be verified at two levels i.e. by the Institute, where the student is studying and thereafter by the concerned State Higher Education Department or any other Agency/ Official nominated by the State as State Nodal Agency (both for fresh and renewal applicants).\nNOTE 3: Students will not be permanently debarred for scholarships due to delay in renewal or verification. However, students will have to submit renewal applications within a cut-off date. Renewal for that year will not be allowed if an applicant misses this deadline. However, students can apply for renewal in the following year if they meet the eligibility conditions.﻿\nGrievance Redressal\nIn case of any grievances/complaints regarding the above scheme, the same may be registered to the following link: http://pgportal.gov.in/grievancenew.aspx other than to the Nodal Officer whose email is available on the NSP portal (Services Tab).",
+        "documents_required": "The following documents need to be uploaded on the Portal at the time of application:\na. FRESH: 12th Mark Sheet, Family Income Certificate, Category/ caste Certification for reserved category students, Disability Certificate (if applicable)\nb. RENEWAL: Previous Year Mark Sheet\nThe copy of above-mentioned documents must be provided to the institutes at the time of verification, if sought for by the Institute Nodal Officer (INO).",
+        "apply_url": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+        "official_url": "https://www.myscheme.gov.in/schemes/csss-cus",
+        "eligibility_age_min": "null",
+        "eligibility_age_max": "null",
+        "eligibility_gender": "all",
+        "eligibility_caste": "[]",
+        "eligibility_income_max": "450000",
+        "eligibility_residence": "both",
+        "eligibility_state": "[\"All\"]",
+        "eligibility_disability": "false",
+        "eligibility_bpl": "false",
+        "scraped_at": "2026-07-05 09:35:33.623+00"
+      },
+      "runtimeKeywords": [
+        "Education"
+      ],
+      "validationSources": [
+        {
+          "title": "PM-USP CSSS guidelines on the National Scholarship Portal",
+          "url": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "Class XII percentile, regular course, family-income ceiling and scholarship rates."
+          ]
+        },
+        {
+          "title": "NSP current academic-year application instructions",
+          "url": "https://scholarships.gov.in/"
+        }
+      ]
+    },
+    {
+      "id": "government-schemes/pmay-g",
+      "csvDataRecord": 3223,
+      "raw": {
+        "slug": "pmay-g",
+        "name": "Pradhan Mantri Awaas Yojana - Gramin",
+        "description": "Launch on 1st April 2016, Pradhan Mantri Awaas Yojana Gramin (PMAY-G) is centre's flagship mission by the Ministry of Rural Development (MoRD), implemented by the Ministry of Housing and Urban Affairs (MoHUA). PMAY-G addresses the rural housing shortage and bridges the housing deficit in rural areas",
+        "ministry": "Ministry Of Rural Development",
+        "department": "Department of Rural Development",
+        "state": "Central",
+        "category": "Housing & Shelter",
+        "beneficiary_type": "Family",
+        "benefits": "1. Financial Assistance of ₹ 1,20,000 per unit for plain areas; and ₹ 1,30,000 per unit for hilly areas, difficult areas, and IAP districts (Himalayan states, North-Eastern states, and Union Territories of Jammu &amp; Kashmir).\n1. A willing beneficiary can avail of institutional finance (loan) of up to ₹ 70,000 at 3% lower interest rate, to build a permanent house. The maximum principal amount for which subsidy can be sought is ₹ 2,00,000.\n1. The minimum size of the house shall be is 25 sq m including a dedicated area for hygienic cooking.\n1. In convergence with Swachh Bharat Mission-Gramin (SBM-G), the beneficiaries get financial assistance of up to ₹ 12,000 for the construction of toilets.\n1. In convergence with MGNREGA, the beneficiary is entitled to employment as unskilled labor (Rural Mason Training) at ₹ 90.95 per day for 95 days.\n1. In convergence with Pradhan Mantri Ujjwala Yojana, one LPG connection per house is provided.\n1. Convergence with different government programmes for piped drinking water, electricity connection, clean &amp; efficient cooking fuel, treatment of social and liquid waste, etc.\n1. Payments are made electronically directly to bank accounts or post office accounts that are linked to Aadhaar.\n\n**Note:** Beneficiaries are identified using the &quot;Housing Deprivation Parameters&quot; from the Socio-Economic and Caste Census (SECC) 2011, further verified by the Gram Sabhas.\n<br>",
+        "eligibility_text": "The universe of eligible beneficiaries under PMAY-G will include all the houseless households living in zero, one, or two-room houses with kutcha walls and kutcha roofs (as per SECC data, and subject to the exclusion process).\n> **Criteria for Automatic/Compulsory Inclusion -** \n\n1.\tHouseholds without shelter\n2.\tDestitute/ living on alms\n3.\tManual scavengers\n4.\tPrimitive Tribal Groups\n5.\tLegally released bonded laborer\n> **Prioritisation within the Universe**\n\ni.  There will be multilayered prioritization within the universe of eligible PMAY-G beneficiaries. Priority will first be assigned on the basis of parameters reflecting housing deprivation in each category viz., SC/ST, Minorities, and Others. \nii.  To begin with, households will be prioritized based on houselessness followed by the number of rooms; zero, one, and two rooms, in that order. \niii.  In a particular social category viz., SC/ST, Minorities, and Others, households that are houseless or living in houses with a lower number of rooms shall not be ranked below households living in houses with a higher number of rooms.\nWithin the above priority groups, households that fulfill the criteria of &quot;compulsory inclusion&quot;, will be further elevated. Automatically included households shall not rank lower than other households within a priority group. Inter-se priority within the two subgroups viz. households which are automatically included and otherwise will be determined based on their cumulative deprivation scores. \nThe scores will be calculated from the socio-economic parameters given below with each having equal weight:\ni.\tHouseholds with no adult member between ages 16 to 59\nii.\tFemale-headed households with no adult male member between ages 16 to 59\niii.\tHouseholds with no literate adult above 25 years\niv.\tHouseholds with any disabled member and no able-bodied adult member\nv.\tLandless Households deriving the major part of their income from manual casual labor\nvi. Households with higher deprivation scores will be ranked higher within the subgroups.\n**Note:** _To ensure that assistance is targeted at those who are genuinely deprived and that the selection is objective and verifiable, the housing deprivation parameters in the SECC data will be used for identifying households and then verified by the Gram Sabhas._\n> ***Earmarking of Targets -*** \n\n**For SC/ST:**\n60% of the target allocated to each State/ UT should be earmarked for SC/STs, subject to the availability of eligible beneficiaries. Within earmarked targets, the proportion of SC and ST is to be decided from time to time by the respective States/UTs. Further, the States/ UTs would be allowed to interchange targets between SC and ST if there are no eligible beneficiaries from either of the category and it is certified as such. In case all eligible SC and ST households are covered, the State/ UT targets would be allocated to beneficiaries from the &#39;Other&#39; categories included in the Permanent Wait List drawn from SECC 2011.\n**For Minorities:**\nFurther, as far as possible, 15% of the total fund would be earmarked for Minorities at the National Level for households. The allocation of targets for Minorities among the States/UTs will be on the basis of the proportionate rural population of Minorities in the respective State/UT as per Census 2011 data. Minorities notified under Section 2(c) of the National Commission for Minorities Act, 1992 are to be considered eligible for receiving benefits against Minority earmarks.\n**For PwDs:**\nAccordingly, in the scheme of PMAY-G, while deciding the inter-se priority among the beneficiaries who are to be provided assistance, households with any disabled member and no able-bodied adult member have been accorded additional deprivation score so that such households are given priority while allotting the houses. Keeping in view the provisions of the Persons with Disabilities Act, of 1995, the States to the extent possible, may ensure that 3% of beneficiaries at the State Level are from among persons with disabilities.\n> **Tie Breaker**\n\nIn case there is a tie with more than one household within a subgroup having the same deprivation score, the households will be ranked according to priority on the basis of the following parameters:\ni.\tHouseholds with widows and next-of-kin of members of defence/paramilitary/police forces killed in action.\nii.\tHouseholds where a member is suffering from leprosy or cancer and People living with HIV (PLHIV).\niii.\tHouseholds with a single girl child.\niv.\tBeneficiary families of the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, commonly known as the Forest Rights Act.\nv.\tTransgender persons.",
+        "application_process": "[Online]\nBeneficiary Registration Manual - https://pmayg.nic.in/netiayHome/Document/Document-PMAYG-Registratio-Manual.pdf\nThere are four sections to the beneficiary registration process:\nPersonal details, Bank account details, Convergence details, and Details from the concerned office.\nTo successfully register or add the beneficiary, follow the steps given below:\nVisit the official website for login PMAY-G.\nFill in the details required in the personal details section (such as gender, mobile number, Aadhaar number, etc.)\nUpload the consent form required to use the Aadhaar number.\nClick on the search button to find the beneficiary name, PMAY ID, and priority.\n Click on ‘'Select to Register’'.\nThe beneficiary details will be automatically generated and displayed.\nThe remaining beneficiary details can now be filled in, such as ownership type, relation, Aadhaar number, etc.\nUpload the consent form required to use the Aadhaar number on behalf of the beneficiary\nIn the next section, add the beneficiary account details in the required fields, such as beneficiary name, bank account number, etc.\nIf the beneficiary wants to avail a loan, select ‘'Yes’' and enter the required loan amount.\nIn the next section, enter the MGNREGA job card number and Swachh Bharat Mission (SBM) number of the beneficiary\nThe next section will be filled in by the concerned office.",
+        "documents_required": "Aadhaar number and a self-attested copy of the Aadhaar Card (If the applicant is illiterate, then in such case a consent letter has to be obtained along with the thumbprint of the applicant)\nJob Card (duly registered with MGNREGA)\nBank account details – both originals and duplicates.\nSwachh Bharat Mission (SBM) number.\nAffidavit stating the beneficiaries, or their family members do not own a pucca house.",
+        "apply_url": "https://pmayg.dord.gov.in/netiayHome/Uploaded/Guidelines-Hindi_book_final.pdf",
+        "official_url": "https://www.myscheme.gov.in/schemes/pmay-g",
+        "eligibility_age_min": "null",
+        "eligibility_age_max": "null",
+        "eligibility_gender": "all",
+        "eligibility_caste": "[]",
+        "eligibility_income_max": "null",
+        "eligibility_residence": "rural",
+        "eligibility_state": "[\"All\"]",
+        "eligibility_disability": "false",
+        "eligibility_bpl": "false",
+        "scraped_at": "2026-07-05 10:08:15.08+00"
+      },
+      "runtimeKeywords": [
+        "Housing"
+      ],
+      "validationSources": [
+        {
+          "title": "Rural Development: PMAY-G scope and current programme",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+          "publishedOn": "2026-01-01",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "Rural housing scope; survey inclusion is subject to eligibility and verification."
+          ]
+        },
+        {
+          "title": "Department of Rural Development AwaasPlus survey and verification SOP",
+          "url": "https://pmayg.dord.gov.in/netiay/writereaddata/Circulars/SOP_AwaasPlus2024.pdf"
+        }
+      ]
+    },
+    {
+      "id": "government-schemes/pmkvy-stt",
+      "csvDataRecord": 3239,
+      "raw": {
+        "slug": "pmkvy-stt",
+        "name": "Pradhan Mantri Kaushal Vikas Yojana 4.0 - Short-Term Training",
+        "description": "The scheme aims to provide demand-driven, employability-focused skill training. Through this scheme, free NSQF-aligned training, On-the-Job Training, certification, and allowances are provided to Indian youth.",
+        "ministry": "Ministry Of Skill Development And Entrepreneurship",
+        "department": "null",
+        "state": "Central",
+        "category": "Business & Entrepreneurship, Skills & Employment",
+        "beneficiary_type": "Individual",
+        "benefits": "1. The scheme provides free NSQF-aligned skill training ranging between 300 and 600 hours; courses of higher duration based on industry/sectoral demand can also be offered, and training in higher-level NSQF job roles (level 5, 6 and above) is also imparted.\n1. On-the-Job Training (OJT) is provided as an inherent component to give candidates practical exposure and a live-work environment, with the duration guided by the approved Qualification Pack.\n1. An induction kit consisting of a T-shirt (male) or Jacket (female) and a bag is provided; the uniform, induction kit, and participant handbook are covered up to a maximum of ₹500 per candidate.\n1. Assessment and Certification is provided, with a pay-out of ₹600 per candidate per assessment given to the Sector Skill Councils (SSCs) / Awarding Bodies for overseeing and facilitating final assessments.\n1. Every candidate is offered one chance of re-assessment free of cost, with the fees borne from the scheme.\n1. Accidental Insurance with one year of coverage is provided to every certified candidate, as per prevalent rates (₹14.16).\n1. Boarding and Lodging along with transport facilities are provided to special groups (women and Persons with Disability) and Special Areas as defined in Common Norms, and may also be extended to Aspirational, Border, Tribal-dominated, and LWE-affected districts.\n1. Conveyance/Transportation cost is permissible for women and Persons with Disability (PwD) in case of non-residential training, as per Common Norms.\n1. Additional support of ₹5,000 towards assistive devices, aids, and appliances is provided to all PwD candidates.\n1. A free printed certificate is provided, along with a QR-code-based digital certificate issued through DigiLocker, an email/phone download link, and the Skill India Digital profile; a convocation ceremony is also held for passed-out candidates.\n1. Post-certification, candidates are tracked for one year, linked with Rojgar Melas and Apprenticeship Melas, and given access through Skill India Digital to jobs, apprenticeship opportunities, and other facilities including loans for entrepreneurship; a post-certification tracking allowance of up to ₹50 per certified candidate is utilised for this purpose.\n1. On passing the assessment, the candidate is awarded a graded certificate: for NSQF Level 1, 2, 3 — Grade A (85% and above), Grade B (70% to less than 85%), Grade C (50% to 70%); for NSQF Level 4 and above — Grade A (85% and above), Grade B (70% to less than 85%).\n1. More than 70% biometric (AEBAS) attendance is required for each candidate to appear in the assessment.\n1. The indicative average per-candidate cost is ₹9,540 for a 300-hour STT course (including Skill Hubs) and ₹13,724 for a 450-hour STT course, derived considering a base training cost of ₹27.89 per hour.\n1. Funds are released to Training Providers / Training Centres / Skill Hubs in three tranches: Tranche 1 — 30% on commencement of training; Tranche 2 — 30% on the batch achieving 70% AEBAS attendance once and 50% of training being over; Tranche 3 — 40% on certification (passed candidates only). The accidental insurance coverage is valid for one year, and post-certification tracking is conducted for one year from the date of certification.\n\n<br>",
+        "eligibility_text": "1. The applicant should be an Indian national.\n1. The applicant should possess a valid Aadhaar.\n1. The applicant should be in the age group of 15 to 45 years.\n1. The applicant should fulfil the eligibility criteria of the respective job role, as defined in the course curriculum of the job role to be offered.\n1. The applicant may be a candidate looking for fresh skilling, re-skilling, or upskilling.\n1. The applicant may be an out-of-education candidate, a school/college dropout, or an unemployed youth.\n1. The applicant should not be enrolled again in the same job role in which he/she was already trained earlier.\n1. The applicant, if already certified once under PMKVY, opting for a lower NSQF-level course in the same sector, shall be discouraged; however, a higher job role in the same sector is permitted.\n1. The applicant may enrol not more than twice for training in the same sector, with the second time being for a higher NSQF-aligned job role only, and with a six-month gap between the certification date of the first course and the batch start date of the subsequent course.\n\n<br>",
+        "application_process": "[Online]\nStep 1: The applicant first registers on the Skill India Digital (SID) platform or the mobile application developed for the purpose; profile verification is completed through mobile-based OTP (eKYC), and a de-duplication check is carried out against the SID database to prevent re-enrolment in the same job role.\nStep 2: During registration, candidate profiling is done, with existing details fetched from other portals such as e-Shram and the National Career Services (NCS).\nStep 3: Online counselling is offered through SID to help the candidate select an appropriate course and Training Centre; the candidate may select the nearest Training Centre based on the availability of the preferred job role and the quality of training infrastructure (rating, centre profile).\nStep 4: On enrolment, the candidate is informed of the training programme details and facilities on the profile page and through a downloadable link sent to the registered number (or at the centre).\nStep 5: The applicant then completes the training lifecycle — classroom/blended/online training as per the approved Qualification Pack, applicable On-the-Job Training (OJT), and assessment by the NCVET-approved Awarding Bodies and Assessment Agencies.\nStep 6: On passing the assessment, the QR-code-based digital certificate is issued through DigiLocker, an email/phone download link, and the SID profile page, and a free printed certificate is provided by the Training Provider.",
+        "documents_required": "Aadhaar Card (for eKYC and mobile-based One-Time Password (OTP) profile verification).",
+        "apply_url": "https://xn--o1bna6ezc1cxc.xn--11b7cb3a6a.xn--h2brj9c/offerings/schemes-and-services/details/pradhan-mantri-kaushal-vikas-yojana-4-0-pmkvy-4-0-2021-ITO3ATMtQWa",
+        "official_url": "https://www.myscheme.gov.in/schemes/pmkvy-stt",
+        "eligibility_age_min": "15",
+        "eligibility_age_max": "45",
+        "eligibility_gender": "all",
+        "eligibility_caste": "[]",
+        "eligibility_income_max": "null",
+        "eligibility_residence": "both",
+        "eligibility_state": "[\"All\"]",
+        "eligibility_disability": "false",
+        "eligibility_bpl": "false",
+        "scraped_at": "2026-07-05 09:59:40.39+00"
+      },
+      "runtimeKeywords": [
+        "Employment"
+      ],
+      "validationSources": [
+        {
+          "title": "MSDE PMKVY 4.0 guidelines",
+          "url": "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "Short-term training age range, Aadhaar and job-role prerequisites."
+          ]
+        },
+        {
+          "title": "MSDE: PMKVY implementation and FY2026-27 funding",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2297203&lang=2&reg=48",
+          "publishedOn": "2026-08-10"
+        },
+        {
+          "title": "Ministry of Labour National Career Service",
+          "url": "https://www.ncs.gov.in/",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "NCS registration, job application and interview processing are free; users should not pay employers."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "government-schemes/pm-kisan",
+      "csvDataRecord": 3242,
+      "raw": {
+        "slug": "pm-kisan",
+        "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+        "description": "With a view to provide income support to all landholding farmers’ families in the country, having cultivable land, the Central Government has implemented a Central Sector Scheme, namely, “Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)”.",
+        "ministry": "Ministry Of Agriculture and Farmers Welfare",
+        "department": "Department of Agriculture and Cooperation",
+        "state": "Central",
+        "category": "Agriculture,Rural & Environment, Social welfare & Empowerment",
+        "beneficiary_type": "Individual, Family",
+        "benefits": "- **Financial Assistance:** An amount of ₹6,000/- per year in 3 equal installments of ₹2,000/- every four months is provided to each eligible family.\n<br>",
+        "eligibility_text": "- All landholding farmers&#39; families, which have cultivable land holding in their names are eligible to get benefit under the scheme.\n\n<br>",
+        "application_process": "[Online]\nStep 1: Visit the PM-KISAN Portal.\nStep 2: Click on \"New Farmer Registration\" option.\nStep 3: Enter Your Aadhaar Number and Mobile Number.\nStep 4: Enter the received OTP to authenticate your Aadhaar with UIDAI.\nStep 5: Fill in the required information and upload the mandatory documents.\nStep 6: Click on \"Submit\".\nKnow Your Status: Click here.\n\n[Online - via CSC]\nStep 1: Visit the nearest CSC Centres.\nStep 2: The VLE will fill in the complete details of farmer registration details like State, district, subdistrict block, and village, key in the Aadhaar number, Name of the beneficiary, category, Bank detail, Land Registration ID, and Date of birth as printed on the Aadhaar card for authentication..\nStep 3: The VLE will fill in the Land details like Survey/ Kahta No., Khasra No., and area of land as mentioned in the Land Holding papers. \nStep 4: Upload the supporting documents like Land, Aadhar, and Bank passbook.\nStep 5: Self-declaration needs to be accepted.\nStep 6: After saving the application form, make the payment through CSC ID.\nKnow Your Status: Click here.",
+        "documents_required": "Aadhaar Card.\nLandholding papers.\nSavings Bank Account.",
+        "apply_url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf ",
+        "official_url": "https://www.myscheme.gov.in/schemes/pm-kisan",
+        "eligibility_age_min": "null",
+        "eligibility_age_max": "null",
+        "eligibility_gender": "all",
+        "eligibility_caste": "[]",
+        "eligibility_income_max": "null",
+        "eligibility_residence": "both",
+        "eligibility_state": "[\"All\"]",
+        "eligibility_disability": "false",
+        "eligibility_bpl": "false",
+        "scraped_at": "2026-07-05 10:10:29.658+00"
+      },
+      "runtimeKeywords": [
+        "Agriculture"
+      ],
+      "validationSources": [
+        {
+          "title": "Department of Agriculture PM-KISAN eligibility and exclusions",
+          "url": "https://www.pmkisan.gov.in/",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "Landholding-family income support, annual instalments and verification requirements."
+          ],
+          "verificationNote": "Current benefit, e-KYC and land-record checks corroborated by the Agriculture Ministry release dated 20 June 2026; individual approval remains with the state authority."
+        },
+        {
+          "title": "Agriculture Ministry: PM-KISAN benefit and verification requirements",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275744&lang=1&reg=3",
+          "publishedOn": "2026-06-20",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "₹6,000 annually in three instalments; land records, Aadhaar-linked banking and e-KYC verification."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "government-schemes/pm-sym",
+      "csvDataRecord": 3275,
+      "raw": {
+        "slug": "pm-sym",
+        "name": "Pradhan Mantri Shram Yogi Maan-dhan",
+        "description": "The scheme aims to ensure old age protection for unorganised workers. It provides a minimum assured pension of ₹3,000/- per month and family pension benefits to unorganised workers aged 18 to 40 years who earn less than ₹15,000/- monthly, supported by matching government contributions.",
+        "ministry": "Ministry Of Labour and Employment",
+        "department": "null",
+        "state": "Central",
+        "category": "Social welfare & Empowerment, Banking,Financial Services and Insurance",
+        "beneficiary_type": "Individual",
+        "benefits": "- A **minimum assured pension of ₹3,000/- per month** is provided to the subscriber after attaining the age of 60 years.- A matching contribution is provided by the Central Government on a 50:50 basis, where an equal amount to the subscriber&#39;s age-specific contribution (ranging from ₹55/- to ₹200/-) is credited to the pension account.\n\n<br>\n\n****   During the receipt of the pension, if the subscriber dies:*** The spouse of the beneficiary shall be entitled to receive a family pension equal to 50% of the pension received by the beneficiary.\n****   If a beneficiary has given regular contributions and died due to any cause before the age of 60 years:*** _Their spouse will be entitled to join and continue the scheme subsequently by the payment of regular contributions._\n****   If a beneficiary has given regular contributions and died due to any cause before the age of 60 years, and the spouse decides to exit:*** _The beneficiary&#39;s contribution along with accumulated interest as actually earned by the fund or at the savings bank interest rate (whichever is higher) will be returned._\n****   If the subscriber exits the scheme within a period of less than 10 years:*** _The beneficiary&#39;s share of contribution only will be returned to them with the savings bank interest rate._\n****   If the subscriber exits after a period of 10 years or more but before the superannuation age of 60 years:*** _The beneficiary&#39;s share of contribution along with accumulated interest as actually earned by the fund or at the savings bank interest rate, whichever is higher, will be returned._\n<br>",
+        "eligibility_text": "1. The applicant must be an unorganised worker.\n1. The applicant must have an entry age between 18 and 40 years.\n1. The applicant must have a monthly income of ₹15,000/- or less.\n1. The applicant must possess a Savings Bank Account or Jan Dhan account number with an Indian Financial System Code.\n1. The applicant must possess a mobile phone.\n\n<br>",
+        "application_process": "[Online - via CSC]\nStep 1: The interested eligible person must visit the nearest Common Services Centre (CSC) to initiate the registration and enrollment process.\nStep 2: The Village Level Entrepreneur (VLE) present at the CSC will key in the Aadhaar number, the exact name of the subscriber as printed on the Aadhaar card, and the date of birth into the system. These details will subsequently be instantly verified with the UIDAI database.\nStep 3: The VLE will capture further details of the applicant, including Bank Account details, Mobile Number, Email-id, spouse, and nominee details into the registration portal. A self-certification verifying the required eligibility conditions will also be successfully completed in the system during this step.\nStep 4: The system will automatically calculate the exact monthly contribution payable according to the entry age of the subscriber. The subscriber must then pay the full amount of the first subscription in cash to the VLE, who will generate a receipt and hand it over to the subscriber.\nStep 5: An Enrolment Form cum Auto Debit mandate will be printed and must be physically signed by the subscriber. The VLE must then scan the signed enrolment cum auto debit mandate and safely upload it into the system.\nStep 6: A unique Shram Yogi Pension Account Number will be instantly generated, and a Shram Yogi Card will be printed directly at the CSC. The subscriber will leave the center with the printed Shram Yogi Card and a signed copy of the enrolment form for their personal records.\nNext StepsStep 1: The subscriber will regularly receive SMS notifications on their registered mobile phone regarding the activation of the auto-debit facility. An additional mini-statement message will be automatically sent to the mobile device upon every successful monthly deduction of the contribution.\nStep 2: The mandatory monthly subscription shall be automatically debited on a fixed date every single month from the subscriber's linked saving account or Jan-Dhan account. The subscriber must proactively maintain sufficient funds in their account to ensure the contribution, along with any applicable penalty or interest, is successfully processed.\nGRIEVANCE REDRESSAL AND HELP SUPPORTA dedicated Call Centre and Project Management Unit actively administer the scheme, supervised tightly by the National Social Security Board. To address any grievances related to the scheme, subscribers can directly contact the official customer care number 1800 267 6888 on a 24*7 basis.\nThe dedicated web portal and mobile application will also have a specific built-in facility specifically for registering complaints and raising issues digitally.\n\n[Online]\nStep 1: The subscriber must visit the official Pradhan Mantri Shram Yogi Maan-dhan web portal or adequately download the dedicated mobile application on their personal device. This online facility allows the subscriber to conveniently manage their registration digitally.\nStep 2: The subscriber must independently self-register using their Aadhaar number and their savings bank account or Jan-Dhan account number on a self-certification basis. This action digitally captures the necessary financial details to authorize the automated monthly contributions strictly required by the scheme.\nNext StepsStep 1: The subscriber will regularly receive SMS notifications on their registered mobile phone regarding the activation of the auto-debit facility. An additional mini-statement message will be automatically sent to the mobile device upon every successful monthly deduction of the contribution.\nStep 2: The mandatory monthly subscription shall be automatically debited on a fixed date every single month from the subscriber's linked saving account or Jan-Dhan account. The subscriber must proactively maintain sufficient funds in their account to ensure the contribution, along with any applicable penalty or interest, is successfully processed.\nGRIEVANCE REDRESSAL AND HELP SUPPORTA dedicated Call Centre and Project Management Unit actively administer the scheme, supervised tightly by the National Social Security Board. To address any grievances related to the scheme, subscribers can directly contact the official customer care number 1800 267 6888 on a 24*7 basis.\nThe dedicated web portal and mobile application will also have a specific built-in facility specifically for registering complaints and raising issues digitally.",
+        "documents_required": "Aadhaar Card\nSavings Bank Account Passbook / Jan-Dhan Account Passbook\nMobile Number\nSelf-Certification (At the time of enrollment)\nAny other documents as required",
+        "apply_url": "https://maandhan.in/showfile.php?lang=1&level=1&ls_id=171&lid=260&page=101",
+        "official_url": "https://www.myscheme.gov.in/schemes/pm-sym",
+        "eligibility_age_min": "18",
+        "eligibility_age_max": "40",
+        "eligibility_gender": "all",
+        "eligibility_caste": "[]",
+        "eligibility_income_max": "null",
+        "eligibility_residence": "both",
+        "eligibility_state": "[\"All\"]",
+        "eligibility_disability": "false",
+        "eligibility_bpl": "false",
+        "scraped_at": "2026-07-05 09:36:43.071+00"
+      },
+      "runtimeKeywords": [
+        "Pension"
+      ],
+      "validationSources": [
+        {
+          "title": "Labour Ministry PM-SYM eligibility, enrolment and contributions FAQ",
+          "url": "https://labour.gov.in/FAQ-0",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "Entry age and income limits, exclusions and contributory pension structure."
+          ],
+          "verificationNote": "The Ministry FAQ text was readable in the official search index; its direct page returned no extractable body."
+        },
+        {
+          "title": "e-Shram social-security welfare schemes",
+          "url": "https://eshram.gov.in/social-security-welfare-schemes?change_theme=1"
+        }
+      ]
+    },
+    {
+      "id": "government-schemes/nsap-ignoaps",
+      "csvDataRecord": 2940,
+      "raw": {
+        "slug": "nsap-ignoaps",
+        "name": "NSAP - Indira Gandhi National Old Age Pension Scheme",
+        "description": "\"Indira Gandhi National Old Age Pension Scheme\" is one of the five sub-schemes of the National Social Assistance Programme. Under IGNOAPS, citizens living Below Poverty Line and 60 years or above in age are eligible to apply. A monthly pension of ₹ 200 up to 79 years and ₹ 500 thereafter.",
+        "ministry": "Ministry Of Rural Development",
+        "department": "Department of Rural Development",
+        "state": "Central",
+        "category": "Social welfare & Empowerment, Banking,Financial Services and Insurance",
+        "beneficiary_type": "Individual",
+        "benefits": "- ₹200 per month for beneficiaries aged 60–79 years.\n- ₹500 per month for beneficiaries aged 80 years and above.\n\n> **Note:** At present old age beneficiaries are getting anywhere between ₹200/- to ₹1000/- depending on the State Contribution.\n\n<br>",
+        "eligibility_text": "1. The applicant should be a citizen of India.\n1. The applicant should belong to a Below Poverty Line (BPL) household.\n1. The applicant should be 60 years of age or above.\n\n<br>",
+        "application_process": "[Online]\nStep 01: One can download UMANG App or visit the website https://web.umang.gov.in/web_new/home \nStep 02: The citizen can log in using their mobile number and OTP.\nStep 03: Once logged in, the citizen can search for NSAP.\nStep 04: Click on “Apply Online”\nStep 05: Fill in the basic details, choose the mode of payment of pension, upload photo and click on \"Submit.\"",
+        "documents_required": "Passport-size Photo\nDomicile Certificate                                                                                                  \nResidential Proof (Voter card/Electricity Bill/Aadhar Card)                                                    \nAge Proof (Birth Certificate issued by the School last attended or Municipal authority or SHO or through the medical board)\nAadhaar Number                                                                                            \nBank Passbook                                                                                                                \nRation Card                                                                                                                        \nAffidavit duly attested by Judicial Magistrate/Executive Magistrate that she/he is not in receipt of any pension/financial assistance from any other source",
+        "apply_url": "https://nsap.dord.gov.in/Guidelines/social_audit_guidelines.pdf",
+        "official_url": "https://www.myscheme.gov.in/schemes/nsap-ignoaps",
+        "eligibility_age_min": "60",
+        "eligibility_age_max": "null",
+        "eligibility_gender": "all",
+        "eligibility_caste": "[]",
+        "eligibility_income_max": "null",
+        "eligibility_residence": "both",
+        "eligibility_state": "[\"All\"]",
+        "eligibility_disability": "false",
+        "eligibility_bpl": "true",
+        "scraped_at": "2026-07-05 10:07:26.047+00"
+      },
+      "runtimeKeywords": [
+        "Pension"
+      ],
+      "validationSources": [
+        {
+          "title": "Rural Development: current NSAP eligibility and central contributions",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+          "publishedOn": "2026-01-01",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "BPL age criteria and central pension contribution; state top-ups vary."
+          ]
+        },
+        {
+          "title": "Nagaland Social Welfare: national NSAP component eligibility",
+          "url": "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/"
+        },
+        {
+          "title": "Narmadapuram district: example of local pension application route",
+          "url": "https://narmadapuram.nic.in/en/scheme/indira-gandhi-national-old-age-pension-scheme/"
+        },
+        {
+          "title": "Social Justice Ministry: current IGNOAPS central pension amounts",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226202&lang=1&reg=1",
+          "publishedOn": "2026-02-11"
+        }
+      ]
+    },
+    {
+      "id": "government-schemes/igndps",
+      "csvDataRecord": 1852,
+      "raw": {
+        "slug": "igndps",
+        "name": "Indira Gandhi National Disability Pension Scheme",
+        "description": "The scheme aims to provide social security pensions to divyangjans aged 18 and above who belong to a poor family (BPL) in society.",
+        "ministry": "Ministry Of Rural Development",
+        "department": "Department of Rural Development",
+        "state": "Central",
+        "category": "Social welfare & Empowerment",
+        "beneficiary_type": "Individual",
+        "benefits": "- A pension of ₹300/- per month is provided to Divyangjan between 18-79 years. \n- A pension of ₹500/- per month will be provided to Divyangjan aged 80 years and above. \n\n<br>",
+        "eligibility_text": "1. The age of the applicant should be 18 years and above.\n1. The applicant should be a resident of India.\n1. The applicant should be a physically or mentally disabled person.\n1. The applicant’s disability should be more than 80%.\n1. Dwarfs are also eligible for this scheme.\n1. The applicant should belong to the below poverty line.\n\n<br>",
+        "application_process": "[Online]\nStep 01: Applicants can apply online through the UMANG App or the official National Social Assistance Programme (NSAP) Portal. \nStep 02: Login using the registered mobile number and OTP/MPIN.\nStep 03: Search for “NSAP” or “Indira Gandhi National Disability Pension Scheme (IGNDPS)”.\nStep 04: Click on “Apply Online”.\nStep 05: Fill in the required details such as personal information, Aadhaar number, bank account details, and disability-related information.\nStep 06: Choose the preferred mode of pension payment.\nStep 07: Upload the required documents and photograph.\nStep 08: Review the application details and click on “Submit” to complete the application process.\nStep 09: Applicants may also track the application and beneficiary payment status through the UMANG platform.\n\n[Offline]\nIndividuals can submit completely filled applications to the Gram Panchayat / Block Office in the rural area and the Municipality / Municipal Council in the urban area, as per eligibility.\nA Verification Officer or Verification Team under an authorized officer verifies the applications with reference to facts related to eligibility\nThe Verification Officer make the necessary recommendation for sanction or rejection with reasons.\nThe list of applicants with the recommendations of the Verifying Authority is discussed in the Gram Sabha in rural areas or Ward Sabha / Area Sabha as designated by the State Government in urban areas and thereafter in the Gram Panchayats and Municipalities.\nIf the time limits are not adhered to by Gram Sabha / Ward Sabhas, Gram Panchayats / Municipalities the Verification Officer directly submits his recommendations to the Sanctioning Authority under intimation to the Gram Panchayat / Municipality.\nAfter receipt of applications which are verified and recommended by the Gram Sabha / Ward Committee / Area Sabha, the Sanctioning Authority convey approval to the applicant in the form of a Sanction Order with a copy to Gram Panchayat / Municipality concerned.\nThe Sanctioning Authority issues Sanction Order under his seal\nEvery beneficiary who has been sanctioned pension under schemes of NSAP are issued a Pension Passbook. The Passbook contain details of the Sanction Order, particulars of the pensioner and disbursement details\nThe list of beneficiaries to whom sanctions are issued is displayed at the Gram Panchayat / Ward / Municipal Office and updated every three months. \nThe Pension amount is directly paid to the beneficiaries through the Direct Benefit Transfer (DBT) process to their post office or bank account.",
+        "documents_required": "BPL Card\nAadhaar card\nAge Proof - For age, the birth certificate or school certificate may be relied on. In their absence ration card and EPIC may be considered. If there is no valid document, any Medical Officer of any government hospital may be authorized to issue the age certificate.\nDisability certificate:- Disability certificate (80% and More) issued from Chief Medical Officer, Community Health Centre or Primary Health Centre will be accepted.\nPassport Size Photographs.",
+        "apply_url": "https://nsap.dord.gov.in/Guidelines/dps.pdf",
+        "official_url": "https://www.myscheme.gov.in/schemes/igndps",
+        "eligibility_age_min": "18",
+        "eligibility_age_max": "null",
+        "eligibility_gender": "all",
+        "eligibility_caste": "[]",
+        "eligibility_income_max": "null",
+        "eligibility_residence": "both",
+        "eligibility_state": "[\"All\"]",
+        "eligibility_disability": "true",
+        "eligibility_bpl": "true",
+        "scraped_at": "2026-07-05 09:36:22.489+00"
+      },
+      "runtimeKeywords": [
+        "Disability Support"
+      ],
+      "validationSources": [
+        {
+          "title": "Rural Development: current NSAP disability pension rules",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+          "publishedOn": "2026-01-01",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "BPL disability and age criteria; central contribution varies by age."
+          ]
+        },
+        {
+          "title": "CAG: audit of NSAP implementation and benefit eligibility",
+          "url": "https://saiindia.gov.in/webroot/uploads/download_audit_report/2024/AG-Report-NSAP-Eng-067f8b2d369c876.27877078.pdf"
+        },
+        {
+          "title": "Nagaland Social Welfare: national disability pension component eligibility",
+          "url": "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/"
+        }
+      ]
+    },
+    {
+      "id": "government-schemes/nfbs",
+      "csvDataRecord": 2807,
+      "raw": {
+        "slug": "nfbs",
+        "name": "National Family Benefit Scheme",
+        "description": "A family welfare scheme under the umbrella scheme ‘National Social Assistance Programme’ (NSAP) by MoRD. In this scheme, financial assistance is provided to the bereaved households in case of the death of the primary breadwinner irrespective of the cause of death.",
+        "ministry": "Ministry Of Rural Development",
+        "department": "Department of Rural Development",
+        "state": "Central",
+        "category": "Social welfare & Empowerment",
+        "beneficiary_type": "Family",
+        "benefits": "**₹ 20000/** - will be given as a lump sum assistance to such surviving member of the household of the deceased poor, who after local inquiry, is found to be the head of the household.\n**The assistance would be given to every case of death of breadwinner in a family.**",
+        "eligibility_text": "1. The applicant must be a citizen of India.\n1. The family of the applicant must be living Below Poverty Line (BPL).\n1. The primary breadwinner of the applicant&#39;s family must have been deceased.\n1. The age of the deceased breadwinner must have been more than 18 years and less than 60 years.\n1. The applicant must be the succeeding primary breadwinner of the family.",
+        "application_process": "[Offline]\nStep 1: Take a print of the application form given in Annexure-III (page no. 47) of the scheme guidelines - \nhttps://nsap.nic.in/Guidelines/nsap_guidelines_oct2014.pdf \n(The application forms are available with the District Social Welfare Officer (DSWO) or Tehsil Social Welfare Officer (TSWO) free of cost.) \nStep 2: The duly filled-in Application forms along with the required documents are to be submitted to the designated officer appointed by the respective state governments. The applicant has to complete the application form and enclose proof regarding age, income, status, address, and death certificate. Complete case is to be submitted to the concerned TSWO which consolidates the lists and forwards to the Block Level Sanctioning Committee. The cases are then submitted to DSWO for accord of sanction by District level sanctioning committee headed by the Director General, Social Welfare Department.\n\n[Online]\nOne can download UMANG App or visit website https://web.umang.gov.in/web_new/home \nThe citizen can login using mobile number and OTP.\nOnce logged In, citizen can search for NSAP.\nClick on “Apply Online”\nFill the basic details, choose the mode of payment of pension, upload photo and click on “Submit”.",
+        "documents_required": "Documents related to the Deceased Breadwinner - \nDeath Certificate.\nProof of Identity.\nProof of Address.\nBPL Card / Ration Card of the Family.\nFamily ID / Member ID.\nDocuments related to the Family Member to be provided Assistance - \nProof of Identity.\nProof of Address.\nProof of Age.\nFamily ID / Member ID.\nDetails of the AADHAAR Seeded Bank Account / Post Office Account.\nPassport Size Photo",
+        "apply_url": "https://nsap.nic.in/Guidelines/nsap_guidelines_oct2014.pdf",
+        "official_url": "https://www.myscheme.gov.in/schemes/nfbs",
+        "eligibility_age_min": "18",
+        "eligibility_age_max": "60",
+        "eligibility_gender": "all",
+        "eligibility_caste": "[]",
+        "eligibility_income_max": "null",
+        "eligibility_residence": "both",
+        "eligibility_state": "[\"All\"]",
+        "eligibility_disability": "false",
+        "eligibility_bpl": "true",
+        "scraped_at": "2026-07-05 10:08:54.269+00"
+      },
+      "runtimeKeywords": [
+        "Financial Aid"
+      ],
+      "validationSources": [
+        {
+          "title": "Rural Development: NFBS amount and eligible household circumstances",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+          "publishedOn": "2026-01-01",
+          "reviewedOn": "2026-10-24",
+          "checkedFacts": [
+            "Bereaved BPL household criteria, breadwinner age and one-time benefit."
+          ]
+        },
+        {
+          "title": "CAG: National Family Benefit Scheme eligibility and implementation",
+          "url": "https://saiindia.gov.in/webroot/uploads/download_audit_report/2024/AG-Report-NSAP-Eng-067f8b2d369c876.27877078.pdf"
+        },
+        {
+          "title": "Maharashtra Social Justice: NFBS national benefit and age criteria",
+          "url": "https://sjsa.maharashtra.gov.in/en/scheme/national-family-benefit-scheme/"
+        },
+        {
+          "title": "Patan district: National Family Benefit Scheme eligibility and one-time assistance",
+          "url": "https://patan.nic.in/scheme/national-family-benefit-scheme-nfbs-sankatmochan/"
+        }
+      ]
+    }
+  ],
+  "reviewSummary": {
+    "reviewedOn": "2026-10-24",
+    "coveredClues": [
+      "Health Insurance",
+      "Education",
+      "Housing",
+      "Employment",
+      "Agriculture",
+      "Pension",
+      "Disability Support",
+      "Financial Aid"
+    ],
+    "missingClues": [],
+    "eligibilityDecision": "No automated eligibility decision is made. The records explain criteria and refer the user to the administering authority.",
+    "catalogueScope": "Ten selected schemes, covering the eight existing Government Schemes clues. Financial Aid is specifically bereavement aid; Employment includes skills and NCS job search. This is not an exhaustive scheme catalogue."
+  }
+}

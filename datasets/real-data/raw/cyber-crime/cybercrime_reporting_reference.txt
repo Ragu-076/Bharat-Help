@@ -1,0 +1,27 @@
+CYBERCRIME REPORTING AND PAYMENT SAFETY — PROJECT REFERENCE
+
+Reviewed: 24 October 2026
+This is a paraphrased collection reference, not a government-issued document or approved application dataset.
+
+OFFICIAL SOURCES
+National Cyber Crime Reporting Portal: https://cybercrime.gov.in/
+Reporting FAQs: https://cybercrime.gov.in/Webform/FAQ.aspx
+Complaint checklist: https://www.cybercrime.gov.in/webform/Crime_AuthoLogin.aspx
+MHA financial-fraud reference: https://mrm-ncrp.mha.gov.in/restoration/
+NPCI fraud awareness: https://www.npci.org.in/fraud-awareness
+Digital-payment customer brochure: https://www.csk.gov.in/documents/brochure-for-customers.pdf
+
+SOURCE STATUS
+Reporting and NPCI summaries were checked against official search-indexed guidance. Some live pages required JavaScript or timed out. Recheck current portal forms and contact details before publishing assistance records.
+
+REPORTING REFERENCE
+- The National Cyber Crime Reporting Portal provides reporting routes for online fraud, hacking and other cybercrimes. Financial cyber fraud can also be reported through 1930, according to the MHA reference.
+- Use the portal's relevant reporting category and current instructions. The special Women/Child route has a restricted content-related scope; anonymous reporting must not be offered as a universal option for harassment or other complaints.
+- Prepare incident information and relevant evidence. Financial cases may require bank/wallet details, transaction references, dates and amounts.
+- Keep reporting and tracking on the official portal. Bharat Help's public dataset should contain guidance and source links, without citizens' account details, identities, credentials or evidence files.
+
+PAYMENT-SAFETY REFERENCE
+- NPCI warns about fake cashback links, deceptive QR requests, unknown applications, fake investments, impersonation and threatening messages.
+- Entering a UPI PIN authorises a payment; it is not required to receive money. Check the intended recipient before approving a payment.
+
+Keep source URLs, geographic scope and verification dates with extracted records. The downloadable brochure has no publication date identified during checking.

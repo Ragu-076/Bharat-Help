@@ -1,0 +1,525 @@
+{
+  "checkedOn": "2026-10-24",
+  "scope": "First focused Chennai batch: five hospital locations, three OSC entries and ten curated scheme summaries. Not the whole Chennai directory.",
+  "hospitalLocations": [
+    {
+      "location": "Government General Hospital",
+      "recordIds": [
+        "hospital-8302c76ab27bd658"
+      ],
+      "sourceUrl": "https://chennai.nic.in/public-utility-category/hospitals/",
+      "checkedFields": [
+        "identity",
+        "address",
+        "listed public phone"
+      ],
+      "limitation": "Web-source check only; not a call test or confirmation of emergency capability. Same-location variants retained pending authoritative identifier reconciliation."
+    },
+    {
+      "location": "CSI Kalyani Hospital, Mylapore",
+      "recordIds": [
+        "hospital-ed8d90b5a197d5b1",
+        "hospital-1080c196595902dc",
+        "hospital-66e86a0d6490eb19",
+        "hospital-6d90e92f4ca02d58"
+      ],
+      "sourceUrl": "https://csikalyanihospital.com/contact.html",
+      "checkedFields": [
+        "identity",
+        "address",
+        "listed public phone"
+      ],
+      "limitation": "Web-source check only; not a call test or confirmation of emergency capability. Same-location variants retained pending authoritative identifier reconciliation."
+    },
+    {
+      "location": "Billroth Hospital, Shenoy Nagar",
+      "recordIds": [
+        "hospital-93706ef8259e6925",
+        "hospital-8d8adc5983c6a909",
+        "hospital-6aa1fc21d3348f19"
+      ],
+      "sourceUrl": "https://chennai.nic.in/public-utility-category/hospitals/",
+      "checkedFields": [
+        "identity",
+        "address",
+        "listed public phone"
+      ],
+      "limitation": "Web-source check only; not a call test or confirmation of emergency capability. Same-location variants retained pending authoritative identifier reconciliation."
+    },
+    {
+      "location": "Dr. Mehta’s Hospital, Chetpet",
+      "recordIds": [
+        "hospital-dcb2d9fbaf541f80"
+      ],
+      "sourceUrl": "https://chennai.nic.in/public-utility-category/hospitals/",
+      "checkedFields": [
+        "identity",
+        "address",
+        "listed public phone"
+      ],
+      "limitation": "Web-source check only; not a call test or confirmation of emergency capability. Same-location variants retained pending authoritative identifier reconciliation."
+    },
+    {
+      "location": "Apollo Hospital, Greams Road",
+      "recordIds": [
+        "hospital-1f75e29c97de6ba6",
+        "hospital-e74d9bd9edf51c88",
+        "hospital-2a36cd6e95e25435",
+        "hospital-f481e5ef134216e1",
+        "hospital-2602f8e668c74c31"
+      ],
+      "sourceUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+      "checkedFields": [
+        "identity",
+        "address",
+        "listed public phone"
+      ],
+      "limitation": "Web-source check only; not a call test or confirmation of emergency capability. Same-location variants retained pending authoritative identifier reconciliation."
+    }
+  ],
+  "centreReviews": [
+    {
+      "id": "osc-30aa8665ad0d4d23",
+      "name": "One Stop Centre — Chennai-A",
+      "status": "conflicting-official-lists",
+      "sourceUrl": "https://www.whl.tnsw.in/sakhi-one-stop-centres.html",
+      "finding": "North Chennai number corroborated; other Chennai contacts differ across official lists."
+    },
+    {
+      "id": "osc-4731b95037561d52",
+      "name": "One Stop Centre — Chennai-B",
+      "status": "conflicting-official-lists",
+      "sourceUrl": "https://www.whl.tnsw.in/sakhi-one-stop-centres.html",
+      "finding": "Downloaded WCD listing and state helpline contact list differ; keep historical listing and ask 181 for routing."
+    },
+    {
+      "id": "osc-15e0a4c89cbac76b",
+      "name": "One Stop Centre — Chennai",
+      "status": "conflicting-official-lists",
+      "sourceUrl": "https://www.whl.tnsw.in/sakhi-one-stop-centres.html",
+      "finding": "Downloaded WCD listing and state helpline contact list differ; keep historical listing and ask 181 for routing."
+    }
+  ],
+  "schemeReviews": [
+    {
+      "id": "government-schemes/ab-pmjay",
+      "name": "Ayushman Bharat PM-JAY",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2110780&lang=2&reg=3",
+      "checkedOn": "2026-10-24",
+      "status": "summary-source-checked",
+      "factsChecked": "Family cover and separate senior-citizen enrolment route.",
+      "limitation": "Summary check only. Not approval, individual eligibility, current application-window confirmation or verification of every field in the bulk snapshot."
+    },
+    {
+      "id": "government-schemes/cmchis",
+      "name": "Tamil Nadu Chief Minister's Comprehensive Health Insurance Scheme",
+      "sourceUrl": "https://cmchistn.com/eligibility",
+      "checkedOn": "2026-10-24",
+      "status": "summary-source-checked",
+      "factsChecked": "General-category income threshold and enrolment evidence; page is indexed but direct extraction is empty.",
+      "limitation": "Summary check only. Not approval, individual eligibility, current application-window confirmation or verification of every field in the bulk snapshot."
+    },
+    {
+      "id": "government-schemes/csss-cus",
+      "name": "PM-USP scholarship for college and university students",
+      "sourceUrl": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+      "checkedOn": "2026-10-24",
+      "status": "summary-source-checked",
+      "factsChecked": "Academic and income criteria, regular degree conditions and scholarship rates.",
+      "limitation": "Summary check only. Not approval, individual eligibility, current application-window confirmation or verification of every field in the bulk snapshot."
+    },
+    {
+      "id": "government-schemes/pmay-g",
+      "name": "PMAY-G rural housing assistance",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+      "checkedOn": "2026-10-24",
+      "status": "summary-source-checked",
+      "factsChecked": "Rural housing programme and selection/authority-verification boundary; no claim an urban Chennai household qualifies.",
+      "limitation": "Summary check only. Not approval, individual eligibility, current application-window confirmation or verification of every field in the bulk snapshot."
+    },
+    {
+      "id": "government-schemes/pmkvy-stt",
+      "name": "PMKVY 4.0 skills and employment guidance",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2297203&lang=2&reg=48",
+      "checkedOn": "2026-10-24",
+      "status": "summary-source-checked",
+      "factsChecked": "PMKVY 4.0 training remains described in August 2026; course prerequisites and batch availability still require checking.",
+      "limitation": "Summary check only. Not approval, individual eligibility, current application-window confirmation or verification of every field in the bulk snapshot."
+    },
+    {
+      "id": "government-schemes/pm-kisan",
+      "name": "PM-KISAN farmer income support",
+      "sourceUrl": "https://www.nic.gov.in/project/pm-kisan/",
+      "checkedOn": "2026-10-24",
+      "status": "summary-source-checked",
+      "factsChecked": "Annual benefit, instalments and e-KYC; exclusions checked against official PM-KISAN indexed content.",
+      "limitation": "Summary check only. Not approval, individual eligibility, current application-window confirmation or verification of every field in the bulk snapshot."
+    },
+    {
+      "id": "government-schemes/pm-sym",
+      "name": "PM-SYM contributory pension for unorganised workers",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2293891&lang=1&reg=3",
+      "checkedOn": "2026-10-24",
+      "status": "summary-source-checked",
+      "factsChecked": "August 2026 eligibility, contributory nature, future pension and CSC/self-enrolment.",
+      "limitation": "Summary check only. Not approval, individual eligibility, current application-window confirmation or verification of every field in the bulk snapshot."
+    },
+    {
+      "id": "government-schemes/nsap-ignoaps",
+      "name": "IGNOAPS old-age social assistance",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+      "checkedOn": "2026-10-24",
+      "status": "summary-source-checked",
+      "factsChecked": "National BPL age criteria and central share; Tamil Nadu total and local application route not established.",
+      "limitation": "Summary check only. Not approval, individual eligibility, current application-window confirmation or verification of every field in the bulk snapshot."
+    },
+    {
+      "id": "government-schemes/igndps",
+      "name": "IGNDPS disability social assistance",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+      "checkedOn": "2026-10-24",
+      "status": "summary-source-checked",
+      "factsChecked": "BPL, age and disability criteria and central contribution; no universal disability entitlement.",
+      "limitation": "Summary check only. Not approval, individual eligibility, current application-window confirmation or verification of every field in the bulk snapshot."
+    },
+    {
+      "id": "government-schemes/nfbs",
+      "name": "National Family Benefit Scheme: bereavement assistance",
+      "sourceUrl": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=155928&id=155928&lang=2&reg=3",
+      "checkedOn": "2026-10-24",
+      "status": "summary-source-checked",
+      "factsChecked": "Bereavement circumstances, breadwinner age and one-time support; local documents require authority confirmation.",
+      "limitation": "Summary check only. Not approval, individual eligibility, current application-window confirmation or verification of every field in the bulk snapshot."
+    }
+  ],
+  "corrections": [
+    {
+      "id": "hospital-8302c76ab27bd658",
+      "type": "hospitals",
+      "address": "Poonamallee High Road, Park Town, Chennai 600003",
+      "phones": [
+        "04425305000"
+      ],
+      "sourceUrl": "https://chennai.nic.in/public-utility-category/hospitals/",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "Government General Hospital",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-ed8d90b5a197d5b1",
+      "type": "hospitals",
+      "address": "15, Dr. Radha Krishnan Salai, Mylapore, Chennai 600004",
+      "phones": [
+        "04428470505",
+        "04428476199",
+        "04428476433"
+      ],
+      "sourceUrl": "https://csikalyanihospital.com/contact.html",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "15, Dr. Radhakrishnan Salai, Mylapore",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-1080c196595902dc",
+      "type": "hospitals",
+      "address": "15, Dr. Radha Krishnan Salai, Mylapore, Chennai 600004",
+      "phones": [
+        "04428470505",
+        "04428476199",
+        "04428476433"
+      ],
+      "sourceUrl": "https://csikalyanihospital.com/contact.html",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "15, Dr.Radha Krishnan Salai, Mylapore",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-66e86a0d6490eb19",
+      "type": "hospitals",
+      "address": "15, Dr. Radha Krishnan Salai, Mylapore, Chennai 600004",
+      "phones": [
+        "04428470505",
+        "04428476199",
+        "04428476433"
+      ],
+      "sourceUrl": "https://csikalyanihospital.com/contact.html",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "No.15, Dr.Radha Krishnan Salai",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-6d90e92f4ca02d58",
+      "type": "hospitals",
+      "address": "15, Dr. Radha Krishnan Salai, Mylapore, Chennai 600004",
+      "phones": [
+        "04428470505",
+        "04428476199",
+        "04428476433"
+      ],
+      "sourceUrl": "https://csikalyanihospital.com/contact.html",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "15, Dr.Radha Krishnan Salai",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-93706ef8259e6925",
+      "type": "hospitals",
+      "address": "43, Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030",
+      "phones": [
+        "04426641777"
+      ],
+      "sourceUrl": "https://chennai.nic.in/public-utility-category/hospitals/",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "43, Lakshmi Talkies Road,Shenoy Ngr., Opposite Poonamallee High Road",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-8d8adc5983c6a909",
+      "type": "hospitals",
+      "address": "43, Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030",
+      "phones": [
+        "04426641777"
+      ],
+      "sourceUrl": "https://chennai.nic.in/public-utility-category/hospitals/",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "43, Lakshmi Talkies Road, Shenoy Nagar",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-6aa1fc21d3348f19",
+      "type": "hospitals",
+      "address": "43, Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030",
+      "phones": [
+        "04426641777"
+      ],
+      "sourceUrl": "https://chennai.nic.in/public-utility-category/hospitals/",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "43, Lakshmi Talkies Road",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-dcb2d9fbaf541f80",
+      "type": "hospitals",
+      "address": "2, McNichols Road, 3rd Lane, Chetpet, Chennai 600031",
+      "phones": [
+        "04442271001"
+      ],
+      "sourceUrl": "https://chennai.nic.in/public-utility-category/hospitals/",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "No.2 (E), Mcnichols Road, 3 Lane, Chetpet",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-1f75e29c97de6ba6",
+      "type": "hospitals",
+      "address": "21, Greams Lane, Greams Road, Thousand Lights, Chennai 600006",
+      "phones": [
+        "08069049756"
+      ],
+      "sourceUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "21, Greams Lane, Off. Greams Road",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-e74d9bd9edf51c88",
+      "type": "hospitals",
+      "address": "21, Greams Lane, Greams Road, Thousand Lights, Chennai 600006",
+      "phones": [
+        "08069049756"
+      ],
+      "sourceUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "21, Off Greams Road, Greams Lane",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-2a36cd6e95e25435",
+      "type": "hospitals",
+      "address": "21, Greams Lane, Greams Road, Thousand Lights, Chennai 600006",
+      "phones": [
+        "08069049756"
+      ],
+      "sourceUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "21, Greams Road, Off.Greams Lane",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-f481e5ef134216e1",
+      "type": "hospitals",
+      "address": "21, Greams Lane, Greams Road, Thousand Lights, Chennai 600006",
+      "phones": [
+        "08069049756"
+      ],
+      "sourceUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "22, Greams Road",
+        "phones": []
+      }
+    },
+    {
+      "id": "hospital-2602f8e668c74c31",
+      "type": "hospitals",
+      "address": "21, Greams Lane, Greams Road, Thousand Lights, Chennai 600006",
+      "phones": [
+        "08069049756"
+      ],
+      "sourceUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official webpage checked; phone response, current services and availability have not been confirmed.",
+        "hi": "आधिकारिक वेबपृष्ठ जाँचा गया; फोन का उत्तर, वर्तमान सेवाएँ और उपलब्धता की पुष्टि नहीं हुई है।",
+        "ta": "அதிகாரப்பூர்வ இணையப்பக்கம் சரிபார்க்கப்பட்டது; தொலைபேசி பதில், தற்போதைய சேவைகள் மற்றும் கிடைக்கும் வசதிகள் உறுதிசெய்யப்படவில்லை."
+      },
+      "original": {
+        "address": "21, Greams Road",
+        "phones": []
+      }
+    },
+    {
+      "id": "osc-30aa8665ad0d4d23",
+      "type": "centres",
+      "sourceUrl": "https://www.whl.tnsw.in/sakhi-one-stop-centres.html",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official contact lists differ. Call Women Helpline 181 to confirm the correct centre and contact before travelling.",
+        "hi": "आधिकारिक संपर्क सूचियों में अंतर है। जाने से पहले सही केंद्र और संपर्क की पुष्टि के लिए महिला हेल्पलाइन 181 पर कॉल करें।",
+        "ta": "அதிகாரப்பூர்வ தொடர்புப் பட்டியல்களில் வேறுபாடுகள் உள்ளன. செல்லும் முன் சரியான மையம் மற்றும் தொடர்பை உறுதிசெய்ய மகளிர் உதவி எண் 181-ஐ அழையுங்கள்."
+      },
+      "contactReview": "conflicting-official-lists",
+      "original": {
+        "address": "Peripheral Hospital, Tondairpet, Chennai",
+        "phones": [
+          "8428719559"
+        ]
+      }
+    },
+    {
+      "id": "osc-4731b95037561d52",
+      "type": "centres",
+      "sourceUrl": "https://www.whl.tnsw.in/sakhi-one-stop-centres.html",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official contact lists differ. Call Women Helpline 181 to confirm the correct centre and contact before travelling.",
+        "hi": "आधिकारिक संपर्क सूचियों में अंतर है। जाने से पहले सही केंद्र और संपर्क की पुष्टि के लिए महिला हेल्पलाइन 181 पर कॉल करें।",
+        "ta": "அதிகாரப்பூர்வ தொடர்புப் பட்டியல்களில் வேறுபாடுகள் உள்ளன. செல்லும் முன் சரியான மையம் மற்றும் தொடர்பை உறுதிசெய்ய மகளிர் உதவி எண் 181-ஐ அழையுங்கள்."
+      },
+      "contactReview": "conflicting-official-lists",
+      "original": {
+        "address": "Government Services Home, No.8, Judge Colony, Home Road, Tambaram Sanitorium, Chennai-47",
+        "phones": [
+          "8072443934"
+        ]
+      }
+    },
+    {
+      "id": "osc-15e0a4c89cbac76b",
+      "type": "centres",
+      "sourceUrl": "https://www.whl.tnsw.in/sakhi-one-stop-centres.html",
+      "sourceCheckedOn": "2026-10-24",
+      "reviewNotice": {
+        "en": "Official contact lists differ. Call Women Helpline 181 to confirm the correct centre and contact before travelling.",
+        "hi": "आधिकारिक संपर्क सूचियों में अंतर है। जाने से पहले सही केंद्र और संपर्क की पुष्टि के लिए महिला हेल्पलाइन 181 पर कॉल करें।",
+        "ta": "அதிகாரப்பூர்வ தொடர்புப் பட்டியல்களில் வேறுபாடுகள் உள்ளன. செல்லும் முன் சரியான மையம் மற்றும் தொடர்பை உறுதிசெய்ய மகளிர் உதவி எண் 181-ஐ அழையுங்கள்."
+      },
+      "contactReview": "conflicting-official-lists",
+      "original": {
+        "address": "One Stop Centre, Deptt.of Social Welfare, Government Service Home, 8, Home Road, Judge Colony, Tambram Sanatorium,Chennai-600047",
+        "phones": [
+          "04422233355"
+        ]
+      }
+    }
+  ]
+}

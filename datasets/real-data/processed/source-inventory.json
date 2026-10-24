@@ -1,0 +1,464 @@
+{
+  "sources": [
+    {
+      "file": "datasets/real-data/raw/child-support/child_helpline_sop.pdf",
+      "bytes": 1560253,
+      "sha256": "6a33b7a09778b4df183f39954f803c071419bd675bad1e32d69529f28da2f1ef",
+      "pages": 37,
+      "extractedCharacters": 134475,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "child-support/child-abuse-protection",
+        "child-support/child-labour-referral",
+        "child-support/missing-or-separated-child",
+        "child-support/education-access-complaint",
+        "child-support/abandoned-or-unaccompanied-child",
+        "child-support/suspected-child-trafficking",
+        "child-support/child-online-safety-and-grooming"
+      ],
+      "sourceUrls": [
+        "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/child-support/child_support_reference_summary.txt",
+      "bytes": 1949,
+      "sha256": "452ee3761af97fdca027313cc4631799a8a6978d286fefb8bae6c46aff399aaf",
+      "kind": "reference-summary",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "child-support/child-abuse-protection",
+        "child-support/child-labour-referral",
+        "child-support/education-access-complaint",
+        "child-support/child-online-safety-and-grooming"
+      ],
+      "sourceUrls": [
+        "https://ncpcr.gov.in/ebaalnidan/"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/child-support/cyber_smart_kids_suraksha_guide.pdf",
+      "bytes": 3351561,
+      "sha256": "d32142fe4ad13354c601955e8aa233740cf205a87b0e803f3ef31ad69cfd54a1",
+      "pages": 11,
+      "extractedCharacters": 17936,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "child-support/child-online-safety-and-grooming"
+      ],
+      "sourceUrls": [
+        "https://www.cert-in.org.in/PDF/Cyber_Smart_Kids_Suraksha_Guide.pdf"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/common-health/common_illness_cho_reference_2022.pdf",
+      "bytes": 2387197,
+      "sha256": "cf6432fac69aa39b1f55f25d621f33788b43c0e72690bb8ce4947caeeb4e3316",
+      "pages": 96,
+      "extractedCharacters": 139425,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "common-health/common-cold",
+        "common-health/diarrhoea",
+        "common-health/occasional-acidity"
+      ],
+      "sourceUrls": [
+        "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/common-health/headache_selfcare_nhs.pdf",
+      "bytes": 89722,
+      "sha256": "f8ac815ec4f5fcbfd726d6b93ce09f834201fbc56b1b660f8596348d726bbb12",
+      "pages": 4,
+      "extractedCharacters": 3737,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "common-health/mild-headache"
+      ],
+      "sourceUrls": [
+        "https://www.nhs.uk/symptoms/headaches/"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/cyber-crime/cyber_security_awareness.pdf",
+      "bytes": 5174032,
+      "sha256": "8709d68342a4824b39d61d7720ebd060e5d698980612c4aa80b7929dc807cea2",
+      "pages": 17,
+      "extractedCharacters": 16935,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "cyber-crime/financial-fraud",
+        "cyber-crime/phishing",
+        "cyber-crime/hacked-account",
+        "cyber-crime/identity-misuse",
+        "cyber-crime/online-abuse-threats"
+      ],
+      "sourceUrls": [
+        "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/cyber-crime/cybercrime_reporting_reference.txt",
+      "bytes": 2174,
+      "sha256": "ded1af4c486d26507ca2aae263c6603163b6f2285dc038b0aef4b6cb55661013",
+      "kind": "reference-summary",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "women-support/online-abuse-against-women",
+        "child-support/child-online-safety-and-grooming"
+      ],
+      "sourceUrls": [
+        "https://cybercrime.gov.in/"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/cyber-crime/digital_payment_safety_customers.pdf",
+      "bytes": 1048642,
+      "sha256": "652980d98ca21ca5ac7199552f8023acfba23071fdf7d1f5581315496e972f49",
+      "pages": 2,
+      "extractedCharacters": 41,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "emergency-helplines/cyber-reporting",
+        "cyber-crime/financial-fraud"
+      ],
+      "sourceUrls": [
+        "https://www.csk.gov.in/documents/brochure-for-customers.pdf"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/emergency-helplines/disaster_awareness_en.pdf",
+      "bytes": 24376159,
+      "sha256": "bc5a0b943d66290d5d8c1bf88c45a693c63e5cffa5189fde9c0e1781975c83c4",
+      "pages": 20,
+      "extractedCharacters": 430,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "emergency-helplines/fire",
+        "emergency-helplines/disaster-safety"
+      ],
+      "sourceUrls": [
+        "https://nidm.mha.gov.in/PDF/IEC/DOS_E_24.pdf"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/emergency-helplines/disaster_awareness_hi.pdf",
+      "bytes": 21405973,
+      "sha256": "e51e0ae05cf2c1e60d95cb9d875d406888c738f6684e3733a96ddfcff7a1267d",
+      "pages": 20,
+      "extractedCharacters": 430,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "emergency-helplines/disaster-safety"
+      ],
+      "sourceUrls": [
+        "https://nidm.mha.gov.in/PDF/IEC/DOS_H_24.pdf"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/emergency-helplines/disaster_awareness_ta.pdf",
+      "bytes": 14921998,
+      "sha256": "710e14c330b7c4eb7b8693641278871ce56f860d9f1d5a66cf6219d68d13eef3",
+      "pages": 16,
+      "extractedCharacters": 403,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "emergency-helplines/disaster-safety"
+      ],
+      "sourceUrls": [
+        "https://nidm.mha.gov.in/PDF/IEC/DosDont/Tamil.pdf"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/emergency-helplines/india_helpline_directory.pdf",
+      "bytes": 1016152,
+      "sha256": "f73a1e25ba233a5b1753d7e6097770dd5e3168003170eb48b28f8e3494cebca4",
+      "pages": 4,
+      "extractedCharacters": 2877,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "emergency-helplines/police",
+        "emergency-helplines/ambulance",
+        "emergency-helplines/fire"
+      ],
+      "sourceUrls": [
+        "https://www.india.gov.in/directory/helpline"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+      "bytes": 16756246,
+      "sha256": "31605736a693fb638cbb722d8a36f95ee46ddd13ce7ecc970a401ee4c3fd739e",
+      "rows": 4693,
+      "columns": [
+        "slug",
+        "name",
+        "description",
+        "ministry",
+        "department",
+        "state",
+        "category",
+        "beneficiary_type",
+        "benefits",
+        "eligibility_text",
+        "application_process",
+        "documents_required",
+        "apply_url",
+        "official_url",
+        "eligibility_age_min",
+        "eligibility_age_max",
+        "eligibility_gender",
+        "eligibility_caste",
+        "eligibility_income_max",
+        "eligibility_residence",
+        "eligibility_state",
+        "eligibility_disability",
+        "eligibility_bpl",
+        "scraped_at"
+      ],
+      "kind": "source-table",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "government-schemes/ab-pmjay",
+        "government-schemes/cmchis",
+        "government-schemes/csss-cus",
+        "government-schemes/pmay-g",
+        "government-schemes/pmkvy-stt",
+        "government-schemes/pm-kisan",
+        "government-schemes/pm-sym",
+        "government-schemes/nsap-ignoaps",
+        "government-schemes/igndps",
+        "government-schemes/nfbs",
+        "government-schemes/pmuy-lpg",
+        "government-schemes/pm-vishwakarma",
+        "government-schemes/nmmss",
+        "government-schemes/adip-assistive-devices",
+        "government-schemes/pmfby-crop-insurance",
+        "government-schemes/pmjjby-life-insurance"
+      ],
+      "sourceUrls": [
+        "https://www.myscheme.gov.in/schemes/ab-pmjay",
+        "https://www.myscheme.gov.in/schemes/cmchis",
+        "https://www.myscheme.gov.in/schemes/csss-cus",
+        "https://www.myscheme.gov.in/schemes/pmay-g",
+        "https://www.myscheme.gov.in/schemes/pmkvy-stt",
+        "https://www.myscheme.gov.in/schemes/pm-kisan",
+        "https://www.myscheme.gov.in/schemes/pm-sym",
+        "https://www.myscheme.gov.in/schemes/nsap-ignoaps",
+        "https://www.myscheme.gov.in/schemes/igndps",
+        "https://www.myscheme.gov.in/schemes/nfbs",
+        "https://www.myscheme.gov.in/schemes/pmuy2",
+        "https://www.myscheme.gov.in/schemes/pmv",
+        "https://www.myscheme.gov.in/schemes/nmmss",
+        "https://www.myscheme.gov.in/schemes/sadppfaa",
+        "https://www.myscheme.gov.in/schemes/pmfby",
+        "https://www.myscheme.gov.in/schemes/pmjjby"
+      ],
+      "runtimeResource": "schemes"
+    },
+    {
+      "file": "datasets/real-data/raw/medical-emergency/emergency_care_asha.pdf",
+      "bytes": 1737983,
+      "sha256": "54ba8862b00b7e82ee7de51ac788ed91b5c65fef91e9861ffc59eec944644a1e",
+      "pages": 60,
+      "extractedCharacters": 99897,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "medical-emergency/accident-trauma",
+        "medical-emergency/cardiac-emergency",
+        "medical-emergency/breathing-emergency",
+        "medical-emergency/burns",
+        "medical-emergency/maternal-emergency",
+        "medical-emergency/poisoning",
+        "medical-emergency/snake-bite"
+      ],
+      "sourceUrls": [
+        "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/medical-emergency/mental_health_asha.pdf",
+      "bytes": 955762,
+      "sha256": "ff9ac00554f1427fd3af7684e312917c11a3da9f434ce618050018232c012714",
+      "pages": 60,
+      "extractedCharacters": 113702,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "medical-emergency/mental-health-crisis"
+      ],
+      "sourceUrls": [
+        "https://nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20ASHA.pdf"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/medical-emergency/mental_health_services.pdf",
+      "bytes": 272358,
+      "sha256": "3ca29af217dffa1f807bd6d6ed604fe4986d1a2e789238560a33eb93efb21d22",
+      "pages": 3,
+      "extractedCharacters": 4807,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "medical-emergency/mental-health-crisis"
+      ],
+      "sourceUrls": [
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118790&lang=2&reg=48"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/medical-emergency/national_hospital_directory.csv",
+      "bytes": 10341256,
+      "sha256": "1ddcad9f9b922142a4374c7b89b70fb6cefd8a257448c70a61e1c07d98845134",
+      "rows": 30273,
+      "columns": [
+        "Sr_No",
+        "Location_Coordinates",
+        "Location",
+        "Hospital_Name",
+        "Hospital_Category",
+        "Hospital_Care_Type",
+        "Discipline_Systems_of_Medicine",
+        "Address_Original_First_Line",
+        "State",
+        "District",
+        "Subdistrict",
+        "Pincode",
+        "Telephone",
+        "Mobile_Number",
+        "Emergency_Num",
+        "Ambulance_Phone_No",
+        "Bloodbank_Phone_No",
+        "Foreign_pcare",
+        "Tollfree",
+        "Helpline",
+        "Hospital_Fax",
+        "Hospital_Primary_Email_Id",
+        "Hospital_Secondary_Email_Id",
+        "Website",
+        "Specialties",
+        "Facilities",
+        "Accreditation",
+        "Hospital_Regis_Number",
+        "Registeration_Number_Scan",
+        "Nodal_Person_Info",
+        "Nodal_Person_Tele",
+        "Nodal_Person_Email_Id",
+        "Town",
+        "Subtown",
+        "Village",
+        "Establised_Year",
+        "Ayush",
+        "Miscellaneous_Facilities",
+        "Number_Doctor",
+        "Num_Mediconsultant_or_Expert",
+        "Total_Num_Beds",
+        "Number_Private_Wards",
+        "Num_Bed_for_Eco_Weaker_Sec",
+        "Empanelment_or_Collaboration_with",
+        "Emergency_Services",
+        "Tariff_Range",
+        "State_ID",
+        "District_ID"
+      ],
+      "kind": "source-table",
+      "status": "processed and searchable source listings; current contacts and boundaries not reconfirmed",
+      "usedByRecords": [],
+      "sourceUrls": [],
+      "runtimeResource": "hospitals"
+    },
+    {
+      "file": "datasets/real-data/raw/medical-emergency/tn_ambulance_services.pdf",
+      "bytes": 373281,
+      "sha256": "9659ecdf5f3dea60be2b69d4778e5e1567c6df2eadca0232cfa12df18cbba6df",
+      "pages": 3,
+      "extractedCharacters": 1358,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "medical-emergency/accident-trauma",
+        "medical-emergency/cardiac-emergency",
+        "medical-emergency/breathing-emergency",
+        "medical-emergency/burns",
+        "medical-emergency/maternal-emergency",
+        "medical-emergency/poisoning",
+        "medical-emergency/snake-bite"
+      ],
+      "sourceUrls": [
+        "https://tnhsp.org/pages/view/108_EMS"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/woman-support/ncw_complaint_guidance_summary.txt",
+      "bytes": 1561,
+      "sha256": "56058837ff091a914816bdb2a7fa25012cd091a381abbbf62539a6844b80f812",
+      "kind": "reference-summary",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "women-support/violence-and-domestic-abuse",
+        "women-support/harassment-threats-and-stalking",
+        "women-support/dowry-harassment",
+        "women-support/online-abuse-against-women"
+      ],
+      "sourceUrls": [
+        "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx"
+      ]
+    },
+    {
+      "file": "datasets/real-data/raw/woman-support/one_stop_centres.xlsx",
+      "bytes": 86439,
+      "sha256": "fb9b22264cac35576a5680e0709fb5218b7c1f7bb67b28a146611605c720a092",
+      "sheets": [
+        {
+          "name": "770 Directory",
+          "rows": 771,
+          "columns": 6
+        }
+      ],
+      "kind": "source-table",
+      "status": "processed and searchable source listings; current contacts and boundaries not reconfirmed",
+      "usedByRecords": [
+        "women-support/violence-and-domestic-abuse"
+      ],
+      "sourceUrls": [
+        "https://wcd.gov.in/documents/uploaded/1719920005_9NAs3KlT9d.xlsx"
+      ],
+      "runtimeResource": "centres"
+    },
+    {
+      "file": "datasets/real-data/raw/woman-support/woman_helpline_guidelines.pdf",
+      "bytes": 2858371,
+      "sha256": "cc6e316344d24441ae440fedcdb51671dc1be5c5619439a4f231d573199a9a10",
+      "pages": 119,
+      "extractedCharacters": 201972,
+      "kind": "reference-document",
+      "status": "catalogued; selected material cited by runtime records",
+      "usedByRecords": [
+        "women-support/violence-and-domestic-abuse",
+        "women-support/workplace-sexual-harassment",
+        "women-support/harassment-threats-and-stalking",
+        "women-support/dowry-harassment",
+        "women-support/online-abuse-against-women"
+      ],
+      "sourceUrls": [
+        "https://wcd.gov.in/images/uploaded/1710063267_AuAgeNDvb3.pdf"
+      ]
+    }
+  ],
+  "cataloguedOn": "2026-10-24",
+  "rawFileCount": 21,
+  "runtimeRecordCount": 53,
+  "reviewScope": "Hashes establish unchanged downloads. Source URLs, checked facts and document sections are tracked per curated record; cataloguing does not certify every source page, current directory row, clinical advice or translation."
+}

@@ -1,0 +1,17 @@
+NCW COMPLAINT GUIDANCE — PARAPHRASED REFERENCE
+
+Official source: https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx
+Checked: 23 October 2026
+
+This is a short project reference summary, not an NCW-issued document or a complete copy of its FAQs. Review the official source before creating public assistance records.
+
+- Relevant complaint topics include domestic violence, dowry harassment, stalking, workplace sexual harassment and cybercrime against women.
+- Complaints can be submitted through the official NCW complaint system or through a written application by post or personal delivery.
+- Provide complainant contact details, incident information, the intervention requested, previous remedies attempted and supporting documents where available. Include respondent details if known.
+- NCW first checks whether the matter falls within its mandate. Acceptance is not automatic.
+- The FAQ lists exclusions including anonymous or unclear complaints, certain civil/service disputes, matters before courts or tribunals, and complaints already pending with another commission.
+- Accepted complaints receive a case number and login information for tracking. Do not collect these private details into Bharat Help's dataset.
+- Depending on the matter, NCW may follow up with authorities, monitor investigations or statutory compliance, facilitate counselling/mediation, or initiate an inquiry.
+- Workplace-harassment and denial-of-maternity-benefit complaints are also addressed in the FAQ.
+
+Keep the source URL and verification date with any extracted record.

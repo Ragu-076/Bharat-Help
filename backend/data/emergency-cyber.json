@@ -1,0 +1,1591 @@
+[
+  {
+    "id": "emergency-helplines/police",
+    "categoryId": "emergency-helplines",
+    "keywords": [
+      "Police"
+    ],
+    "name": "Emergency police assistance",
+    "help": {
+      "immediateHelp": [
+        "Call 112 for immediate police assistance. Give your location, a nearby landmark and the nature of the danger.",
+        "Move to a safe place if possible and follow the operator’s instructions."
+      ],
+      "contacts": [
+        {
+          "name": "ERSS emergency police assistance",
+          "number": "112",
+          "available": "24 hours, every day"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.india.gov.in/directory/helpline",
+        "https://112.gov.in/about",
+        "https://112.gov.in/faq"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "आपातकालीन पुलिस सहायता",
+        "help": {
+          "immediateHelp": [
+            "तत्काल पुलिस सहायता के लिए 112 पर कॉल करें। अपना स्थान, पास की पहचानने योग्य जगह और खतरे की जानकारी दें।",
+            "यदि संभव हो तो सुरक्षित जगह जाएँ और ऑपरेटर के निर्देश मानें।"
+          ],
+          "contacts": [
+            {
+              "name": "ERSS आपातकालीन पुलिस सहायता",
+              "number": "112",
+              "available": "हर दिन, 24 घंटे"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.india.gov.in/directory/helpline",
+            "https://112.gov.in/about",
+            "https://112.gov.in/faq"
+          ]
+        }
+      },
+      "ta": {
+        "name": "அவசர காவல் உதவி",
+        "help": {
+          "immediateHelp": [
+            "உடனடி காவல் உதவிக்கு 112-ஐ அழைக்கவும். உங்கள் இருப்பிடம், அருகிலுள்ள அடையாளம் மற்றும் ஆபத்தின் விவரத்தைச் சொல்லவும்.",
+            "முடிந்தால் பாதுகாப்பான இடத்திற்குச் சென்று அழைப்பு மையத்தின் வழிமுறைகளைப் பின்பற்றவும்."
+          ],
+          "contacts": [
+            {
+              "name": "ERSS அவசர காவல் உதவி",
+              "number": "112",
+              "available": "தினமும் 24 மணி நேரம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.india.gov.in/directory/helpline",
+            "https://112.gov.in/about",
+            "https://112.gov.in/faq"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "National Portal of India - Helpline directory",
+        "url": "https://www.india.gov.in/directory/helpline",
+        "rawFile": "datasets/real-data/raw/emergency-helplines/india_helpline_directory.pdf",
+        "locator": "page 1 - emergency numbers"
+      },
+      {
+        "title": "Emergency Response Support System - service scope",
+        "url": "https://112.gov.in/about",
+        "locator": "About ERSS"
+      },
+      {
+        "title": "ERSS - Frequently Asked Questions",
+        "url": "https://112.gov.in/faq",
+        "locator": "Emergency scope; free calls and 24h/7 emergency numbers; location information"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response depends on the State/UT.",
+      "hi": "भारत; स्थानीय सहायता राज्य/केंद्र शासित प्रदेश पर निर्भर करती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவி மாநிலம்/யூனியன் பிரதேசத்தைப் பொறுத்தது."
+    }
+  },
+  {
+    "id": "emergency-helplines/ambulance",
+    "categoryId": "emergency-helplines",
+    "keywords": [
+      "Ambulance"
+    ],
+    "name": "Emergency ambulance assistance",
+    "help": {
+      "immediateHelp": [
+        "Call 112 for a medical emergency and describe the person’s condition and exact location.",
+        "In Tamil Nadu, 108 is a free, round-the-clock emergency ambulance service. Follow the dispatcher’s instructions while help is arranged."
+      ],
+      "contacts": [
+        {
+          "name": "ERSS medical emergency",
+          "number": "112",
+          "available": "24 hours, every day"
+        },
+        {
+          "name": "Tamil Nadu emergency ambulance",
+          "number": "108",
+          "available": "24 hours, every day"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.india.gov.in/directory/helpline",
+        "https://112.gov.in/about",
+        "https://tnhsp.org/pages/view/108_EMS",
+        "https://112.gov.in/faq"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "आपातकालीन एम्बुलेंस सहायता",
+        "help": {
+          "immediateHelp": [
+            "चिकित्सा आपातस्थिति में 112 पर कॉल करें। व्यक्ति की हालत और सही स्थान बताएँ।",
+            "तमिलनाडु में 108 निःशुल्क, चौबीसों घंटे उपलब्ध आपातकालीन एम्बुलेंस सेवा है। सहायता की व्यवस्था होते समय ऑपरेटर के निर्देश मानें।"
+          ],
+          "contacts": [
+            {
+              "name": "ERSS चिकित्सा आपातस्थिति",
+              "number": "112",
+              "available": "हर दिन, 24 घंटे"
+            },
+            {
+              "name": "तमिलनाडु आपातकालीन एम्बुलेंस",
+              "number": "108",
+              "available": "हर दिन, 24 घंटे"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.india.gov.in/directory/helpline",
+            "https://112.gov.in/about",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/faq"
+          ]
+        }
+      },
+      "ta": {
+        "name": "அவசர ஆம்புலன்ஸ் உதவி",
+        "help": {
+          "immediateHelp": [
+            "மருத்துவ அவசரநிலையில் 112-ஐ அழைத்து நோயாளியின் நிலை மற்றும் சரியான இருப்பிடத்தைத் தெரிவிக்கவும்.",
+            "தமிழ்நாட்டில் 108 இலவசமாக, 24 மணி நேரமும் செயல்படும் அவசர ஆம்புலன்ஸ் சேவை. உதவி வரும் வரை அழைப்பு மையத்தின் வழிமுறைகளைப் பின்பற்றவும்."
+          ],
+          "contacts": [
+            {
+              "name": "ERSS மருத்துவ அவசர உதவி",
+              "number": "112",
+              "available": "தினமும் 24 மணி நேரம்"
+            },
+            {
+              "name": "தமிழ்நாடு அவசர ஆம்புலன்ஸ்",
+              "number": "108",
+              "available": "தினமும் 24 மணி நேரம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.india.gov.in/directory/helpline",
+            "https://112.gov.in/about",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/faq"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "National Portal of India - Helpline directory",
+        "url": "https://www.india.gov.in/directory/helpline",
+        "rawFile": "datasets/real-data/raw/emergency-helplines/india_helpline_directory.pdf",
+        "locator": "page 1 - emergency numbers"
+      },
+      {
+        "title": "Emergency Response Support System - service scope",
+        "url": "https://112.gov.in/about",
+        "locator": "About ERSS"
+      },
+      {
+        "title": "Tamil Nadu Health Systems Project - 108 ambulance",
+        "url": "https://tnhsp.org/pages/view/108_EMS",
+        "locator": "108 - Ambulance Services"
+      },
+      {
+        "title": "ERSS - Frequently Asked Questions",
+        "url": "https://112.gov.in/faq",
+        "locator": "Emergency scope; free calls and 24h/7 emergency numbers; location information"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "112: India. 108 information here is specifically for Tamil Nadu.",
+      "hi": "112: भारत। यहाँ दी गई 108 सेवा की जानकारी केवल तमिलनाडु के लिए है।",
+      "ta": "112: இந்தியா. இங்குள்ள 108 சேவை விவரம் தமிழ்நாட்டிற்கு மட்டும் பொருந்தும்."
+    }
+  },
+  {
+    "id": "emergency-helplines/fire",
+    "categoryId": "emergency-helplines",
+    "keywords": [
+      "Fire"
+    ],
+    "name": "Fire and rescue emergency",
+    "help": {
+      "immediateHelp": [
+        "Call 112 or the fire service on 101. Give the location and say whether anyone is trapped.",
+        "Leave by a safe exit, stay low if there is smoke, and gather at a safe place outside. Do not re-enter for belongings."
+      ],
+      "contacts": [
+        {
+          "name": "ERSS fire emergency",
+          "number": "112",
+          "available": "24 hours, every day"
+        },
+        {
+          "name": "Fire and rescue",
+          "number": "101",
+          "available": "Call in a fire emergency"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.india.gov.in/directory/helpline",
+        "https://112.gov.in/about",
+        "https://nidm.mha.gov.in/PDF/IEC/DOS_E_24.pdf",
+        "https://nsdma.nagaland.gov.in/page/disaster-safety-tips",
+        "https://112.gov.in/faq"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "आग और बचाव की आपातस्थिति",
+        "help": {
+          "immediateHelp": [
+            "112 या अग्निशमन सेवा 101 पर कॉल करें। स्थान बताएँ और जानकारी दें कि कोई अंदर फँसा है या नहीं।",
+            "सुरक्षित निकास से बाहर जाएँ, धुआँ होने पर नीचे झुककर चलें और बाहर सुरक्षित जगह पर इकट्ठा हों। सामान लेने वापस न जाएँ।"
+          ],
+          "contacts": [
+            {
+              "name": "ERSS आग की आपातस्थिति",
+              "number": "112",
+              "available": "हर दिन, 24 घंटे"
+            },
+            {
+              "name": "अग्निशमन और बचाव",
+              "number": "101",
+              "available": "आग की आपातस्थिति में कॉल करें"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.india.gov.in/directory/helpline",
+            "https://112.gov.in/about",
+            "https://nidm.mha.gov.in/PDF/IEC/DOS_E_24.pdf",
+            "https://nsdma.nagaland.gov.in/page/disaster-safety-tips",
+            "https://112.gov.in/faq"
+          ]
+        }
+      },
+      "ta": {
+        "name": "தீ மற்றும் மீட்பு அவசர உதவி",
+        "help": {
+          "immediateHelp": [
+            "112 அல்லது தீயணைப்பு சேவை 101-ஐ அழைக்கவும். இருப்பிடத்தையும் யாராவது சிக்கியுள்ளனரா என்பதையும் தெரிவிக்கவும்.",
+            "பாதுகாப்பான வழியாக வெளியேறவும்; புகை இருந்தால் தாழ்ந்து செல்லவும். வெளியே பாதுகாப்பான இடத்தில் கூடவும். பொருட்களை எடுக்க மீண்டும் உள்ளே செல்ல வேண்டாம்."
+          ],
+          "contacts": [
+            {
+              "name": "ERSS தீ அவசர உதவி",
+              "number": "112",
+              "available": "தினமும் 24 மணி நேரம்"
+            },
+            {
+              "name": "தீயணைப்பு மற்றும் மீட்பு",
+              "number": "101",
+              "available": "தீவிபத்து அவசரநிலையில் அழைக்கவும்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.india.gov.in/directory/helpline",
+            "https://112.gov.in/about",
+            "https://nidm.mha.gov.in/PDF/IEC/DOS_E_24.pdf",
+            "https://nsdma.nagaland.gov.in/page/disaster-safety-tips",
+            "https://112.gov.in/faq"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "National Portal of India - Helpline directory",
+        "url": "https://www.india.gov.in/directory/helpline",
+        "rawFile": "datasets/real-data/raw/emergency-helplines/india_helpline_directory.pdf",
+        "locator": "page 1 - emergency numbers"
+      },
+      {
+        "title": "Emergency Response Support System - service scope",
+        "url": "https://112.gov.in/about",
+        "locator": "About ERSS"
+      },
+      {
+        "title": "NIDM - Do’s and Don’ts For Common Disaster (English)",
+        "url": "https://nidm.mha.gov.in/PDF/IEC/DOS_E_24.pdf",
+        "rawFile": "datasets/real-data/raw/emergency-helplines/disaster_awareness_en.pdf",
+        "locator": "page 7 - Fire"
+      },
+      {
+        "title": "Nagaland State Disaster Management Authority - fire safety",
+        "url": "https://nsdma.nagaland.gov.in/page/disaster-safety-tips",
+        "locator": "Home & settlement safety - Fire"
+      },
+      {
+        "title": "ERSS - Frequently Asked Questions",
+        "url": "https://112.gov.in/faq",
+        "locator": "Emergency scope; free calls and 24h/7 emergency numbers; location information"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response depends on the State/UT.",
+      "hi": "भारत; स्थानीय सहायता राज्य/केंद्र शासित प्रदेश पर निर्भर करती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவி மாநிலம்/யூனியன் பிரதேசத்தைப் பொறுத்தது."
+    }
+  },
+  {
+    "id": "emergency-helplines/women-helpline",
+    "categoryId": "emergency-helplines",
+    "keywords": [
+      "Women Helpline"
+    ],
+    "name": "Women Helpline and support referrals",
+    "help": {
+      "immediateHelp": [
+        "Call 181 for support and information about women’s assistance services, including One Stop Centre referrals.",
+        "For immediate physical danger, call 112. The Ministry currently lists 181 in all States/UTs except West Bengal."
+      ],
+      "contacts": [
+        {
+          "name": "Women Helpline",
+          "number": "181",
+          "available": "24 hours, every day"
+        },
+        {
+          "name": "ERSS - immediate danger",
+          "number": "112",
+          "available": "24 hours, every day"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+        "https://112.gov.in/faq"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "महिला हेल्पलाइन और सहायता सेवाएँ",
+        "help": {
+          "immediateHelp": [
+            "महिला सहायता सेवाओं और वन स्टॉप सेंटर से जुड़ने की जानकारी के लिए 181 पर कॉल करें।",
+            "तत्काल शारीरिक खतरे में 112 पर कॉल करें। मंत्रालय के अनुसार 181 अभी पश्चिम बंगाल को छोड़कर सभी राज्यों/केंद्र शासित प्रदेशों में कार्यरत है।"
+          ],
+          "contacts": [
+            {
+              "name": "महिला हेल्पलाइन",
+              "number": "181",
+              "available": "हर दिन, 24 घंटे"
+            },
+            {
+              "name": "ERSS - तत्काल खतरे में सहायता",
+              "number": "112",
+              "available": "हर दिन, 24 घंटे"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+            "https://112.gov.in/faq"
+          ]
+        }
+      },
+      "ta": {
+        "name": "மகளிர் உதவி எண் மற்றும் சேவை வழிகாட்டல்",
+        "help": {
+          "immediateHelp": [
+            "மகளிர் உதவிச் சேவைகள் மற்றும் ஒருங்கிணைந்த சேவை மையப் பரிந்துரைகளுக்கு 181-ஐ அழைக்கவும்.",
+            "உடனடி உடல் ஆபத்தில் 112-ஐ அழைக்கவும். அமைச்சகத் தகவலின்படி மேற்கு வங்காளத்தைத் தவிர அனைத்து மாநிலங்கள்/யூனியன் பிரதேசங்களிலும் 181 செயல்படுகிறது."
+          ],
+          "contacts": [
+            {
+              "name": "மகளிர் உதவி எண்",
+              "number": "181",
+              "available": "தினமும் 24 மணி நேரம்"
+            },
+            {
+              "name": "ERSS - உடனடி ஆபத்திற்கான உதவி",
+              "number": "112",
+              "available": "தினமும் 24 மணி நேரம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+            "https://112.gov.in/faq"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "Ministry of Women and Child Development - Women Helpline 181",
+        "url": "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+        "locator": "Brief; service and State/UT coverage FAQs"
+      },
+      {
+        "title": "ERSS - Frequently Asked Questions",
+        "url": "https://112.gov.in/faq",
+        "locator": "Emergency scope; free calls and 24h/7 emergency numbers; location information"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "181: all States/UTs except West Bengal, as listed by the Ministry. 112: India.",
+      "hi": "181: मंत्रालय के अनुसार पश्चिम बंगाल को छोड़कर सभी राज्य/केंद्र शासित प्रदेश। 112: भारत।",
+      "ta": "181: அமைச்சகத்தின்படி மேற்கு வங்காளம் தவிர அனைத்து மாநிலங்கள்/யூனியன் பிரதேசங்கள். 112: இந்தியா."
+    }
+  },
+  {
+    "id": "emergency-helplines/child-helpline",
+    "categoryId": "emergency-helplines",
+    "keywords": [
+      "Childline"
+    ],
+    "name": "Child Helpline 1098",
+    "help": {
+      "immediateHelp": [
+        "Call 1098 about a child in distress or needing protection. A child or a person calling on the child’s behalf can seek assistance.",
+        "If the child is in immediate danger, call 112 and share the location. Do not confront a suspected offender if it could increase the danger."
+      ],
+      "contacts": [
+        {
+          "name": "Child Helpline",
+          "number": "1098",
+          "available": "24 hours, every day"
+        },
+        {
+          "name": "ERSS - immediate danger",
+          "number": "112",
+          "available": "24 hours, every day"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.wcd.gov.in/child/child-helpline",
+        "https://112.gov.in/faq"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "बाल हेल्पलाइन 1098",
+        "help": {
+          "immediateHelp": [
+            "संकट में या संरक्षण की जरूरत वाले बच्चे के लिए 1098 पर कॉल करें। बच्चा या उसकी ओर से कोई व्यक्ति सहायता माँग सकता है।",
+            "बच्चे को तत्काल खतरा हो तो 112 पर कॉल करके स्थान बताएँ। यदि खतरा बढ़ सकता है तो संदिग्ध व्यक्ति से सामना न करें।"
+          ],
+          "contacts": [
+            {
+              "name": "बाल हेल्पलाइन",
+              "number": "1098",
+              "available": "हर दिन, 24 घंटे"
+            },
+            {
+              "name": "ERSS - तत्काल खतरे में सहायता",
+              "number": "112",
+              "available": "हर दिन, 24 घंटे"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://112.gov.in/faq"
+          ]
+        }
+      },
+      "ta": {
+        "name": "குழந்தைகள் உதவி எண் 1098",
+        "help": {
+          "immediateHelp": [
+            "ஆபத்தில் உள்ள அல்லது பாதுகாப்பு தேவைப்படும் குழந்தைக்காக 1098-ஐ அழைக்கவும். குழந்தையோ அதன் சார்பாக மற்றொருவரோ உதவி கோரலாம்.",
+            "குழந்தைக்கு உடனடி ஆபத்து இருந்தால் 112-ஐ அழைத்து இருப்பிடத்தைத் தெரிவிக்கவும். ஆபத்து அதிகரிக்கலாம் என்றால் சந்தேக நபரை எதிர்கொள்ள வேண்டாம்."
+          ],
+          "contacts": [
+            {
+              "name": "குழந்தைகள் உதவி எண்",
+              "number": "1098",
+              "available": "தினமும் 24 மணி நேரம்"
+            },
+            {
+              "name": "ERSS - உடனடி ஆபத்திற்கான உதவி",
+              "number": "112",
+              "available": "தினமும் 24 மணி நேரம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://112.gov.in/faq"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "Ministry of Women and Child Development - Child Helpline",
+        "url": "https://www.wcd.gov.in/child/child-helpline",
+        "locator": "Brief - all 36 States/UTs; round-the-clock child protection services"
+      },
+      {
+        "title": "ERSS - Frequently Asked Questions",
+        "url": "https://112.gov.in/faq",
+        "locator": "Emergency scope; free calls and 24h/7 emergency numbers; location information"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response depends on the State/UT.",
+      "hi": "भारत; स्थानीय सहायता राज्य/केंद्र शासित प्रदेश पर निर्भर करती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவி மாநிலம்/யூனியன் பிரதேசத்தைப் பொறுத்தது."
+    }
+  },
+  {
+    "id": "emergency-helplines/cyber-reporting",
+    "categoryId": "emergency-helplines",
+    "keywords": [
+      "Cyber Crime"
+    ],
+    "name": "Cybercrime and financial fraud reporting",
+    "help": {
+      "immediateHelp": [
+        "For money lost through online fraud, contact your bank through its official app or website and call 1930 promptly.",
+        "Report cybercrime on the official portal and keep transaction details, messages and the complaint acknowledgement. Reporting does not guarantee recovery of money."
+      ],
+      "contacts": [
+        {
+          "name": "Financial cyber fraud reporting",
+          "number": "1930",
+          "available": "Call promptly; if unavailable, use the reporting portal"
+        },
+        {
+          "name": "National Cyber Crime Reporting Portal",
+          "number": "https://cybercrime.gov.in/",
+          "available": "Online reporting; response times vary"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://cybercrime.gov.in/Webform/Crime_NodalGrivanceList.aspx",
+        "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "https://www.csk.gov.in/documents/brochure-for-customers.pdf",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "साइबर अपराध और वित्तीय धोखाधड़ी की शिकायत",
+        "help": {
+          "immediateHelp": [
+            "ऑनलाइन धोखाधड़ी में पैसे चले गए हों तो बैंक के आधिकारिक ऐप या वेबसाइट से संपर्क करें और जल्द 1930 पर कॉल करें।",
+            "आधिकारिक पोर्टल पर साइबर अपराध की शिकायत करें। लेनदेन का विवरण, संदेश और शिकायत की पावती सुरक्षित रखें। शिकायत से पैसे वापस मिलने की गारंटी नहीं है।"
+          ],
+          "contacts": [
+            {
+              "name": "वित्तीय साइबर धोखाधड़ी की शिकायत",
+              "number": "1930",
+              "available": "जल्द कॉल करें; संपर्क न हो तो शिकायत पोर्टल का उपयोग करें"
+            },
+            {
+              "name": "राष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल",
+              "number": "https://cybercrime.gov.in/",
+              "available": "ऑनलाइन शिकायत; प्रतिक्रिया का समय अलग हो सकता है"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://cybercrime.gov.in/Webform/Crime_NodalGrivanceList.aspx",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://www.csk.gov.in/documents/brochure-for-customers.pdf",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      },
+      "ta": {
+        "name": "இணையக் குற்றம் மற்றும் நிதி மோசடிப் புகார்",
+        "help": {
+          "immediateHelp": [
+            "இணைய மோசடியில் பணம் இழந்தால் வங்கியின் அதிகாரப்பூர்வ செயலி அல்லது இணையதளம் மூலம் தொடர்புகொண்டு உடனே 1930-ஐ அழைக்கவும்.",
+            "அதிகாரப்பூர்வ தளத்தில் புகார் செய்து பரிவர்த்தனை விவரங்கள், செய்திகள் மற்றும் புகார் ஒப்புகையைச் சேமிக்கவும். புகார் செய்வதால் பணம் திரும்பக் கிடைப்பது உறுதியல்ல."
+          ],
+          "contacts": [
+            {
+              "name": "இணைய நிதி மோசடிப் புகார்",
+              "number": "1930",
+              "available": "உடனே அழைக்கவும்; இணைக்க முடியாவிட்டால் புகார் தளத்தைப் பயன்படுத்தவும்"
+            },
+            {
+              "name": "தேசிய இணையக் குற்றப் புகார் தளம்",
+              "number": "https://cybercrime.gov.in/",
+              "available": "இணையவழிப் புகார்; பதிலளிக்கும் நேரம் மாறுபடும்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://cybercrime.gov.in/Webform/Crime_NodalGrivanceList.aspx",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://www.csk.gov.in/documents/brochure-for-customers.pdf",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "National Cybercrime Reporting Portal - financial fraud and reporting",
+        "url": "https://cybercrime.gov.in/Webform/Crime_NodalGrivanceList.aspx",
+        "locator": "Financial cyber fraud banner"
+      },
+      {
+        "title": "NCRP - complaint and evidence guidance",
+        "url": "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "locator": "Report Other Cybercrimes; evidence",
+        "verificationNote": "Official FAQ verified through indexed content; direct page text requires JavaScript."
+      },
+      {
+        "title": "Digital Payment Suraksha - customer brochure",
+        "url": "https://www.csk.gov.in/documents/brochure-for-customers.pdf",
+        "rawFile": "datasets/real-data/raw/cyber-crime/digital_payment_safety_customers.pdf",
+        "locator": "page 2 - Basic essentials"
+      },
+      {
+        "title": "MeitY / PIB - Government Strengthens Regulatory Framework to Address AI-Generated Deepfakes (6 August 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1",
+        "locator": "Coordination Mechanism: National Cyber Crime Reporting Portal; financial fraud, content misuse and 1930 reporting"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response depends on the State/UT.",
+      "hi": "भारत; स्थानीय सहायता राज्य/केंद्र शासित प्रदेश पर निर्भर करती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவி மாநிலம்/யூனியன் பிரதேசத்தைப் பொறுத்தது."
+    }
+  },
+  {
+    "id": "emergency-helplines/disaster-safety",
+    "categoryId": "emergency-helplines",
+    "keywords": [
+      "Disaster"
+    ],
+    "name": "Disaster alerts and immediate safety",
+    "help": {
+      "immediateHelp": [
+        "For immediate danger or rescue assistance, call 112 and give your location. Check local official warnings on NDMA’s SACHET portal.",
+        "For floods or cyclones, follow evacuation instructions and go to the advised shelter; stay away from floodwater and fallen power lines.",
+        "During an earthquake indoors, drop, cover and hold on; stay away from windows and do not use lifts."
+      ],
+      "contacts": [
+        {
+          "name": "ERSS - immediate danger",
+          "number": "112",
+          "available": "24 hours, every day"
+        },
+        {
+          "name": "SACHET - official disaster alerts",
+          "number": "https://sachet.ndma.gov.in/",
+          "available": "Online alerts; select the relevant area"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://nidm.mha.gov.in/PDF/IEC/DOS_E_24.pdf",
+        "https://sachet.ndma.gov.in/",
+        "https://112.gov.in/about",
+        "https://112.gov.in/faq",
+        "https://nsdma.nagaland.gov.in/page/disaster-safety-tips",
+        "https://nidm.mha.gov.in/PDF/IEC/DOS_H_24.pdf",
+        "https://nidm.mha.gov.in/PDF/IEC/DosDont/Tamil.pdf"
+      ],
+      "awareness": [
+        "Prepare an emergency kit with drinking water, essential medicines, a torch and copies of important documents. Follow official warnings and evacuation instructions.",
+        "Before a cyclone or flood, identify a safe shelter and help children, older people and people who need assistance plan how to reach it. Do not return until authorities say it is safe."
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "आपदा चेतावनी और तत्काल सुरक्षा",
+        "help": {
+          "immediateHelp": [
+            "तत्काल खतरे या बचाव सहायता के लिए 112 पर कॉल करें और स्थान बताएँ। NDMA के सचेत पोर्टल पर अपने क्षेत्र की आधिकारिक चेतावनियाँ देखें।",
+            "बाढ़ या चक्रवात में निकासी के निर्देश मानकर बताए गए आश्रय में जाएँ। बाढ़ के पानी और गिरे बिजली के तारों से दूर रहें।",
+            "भूकंप के दौरान अंदर हों तो झुककर मजबूत मेज के नीचे शरण लें और उसे पकड़कर रहें। खिड़कियों से दूर रहें और लिफ्ट का उपयोग न करें।"
+          ],
+          "contacts": [
+            {
+              "name": "ERSS - तत्काल खतरे में सहायता",
+              "number": "112",
+              "available": "हर दिन, 24 घंटे"
+            },
+            {
+              "name": "सचेत - आधिकारिक आपदा चेतावनियाँ",
+              "number": "https://sachet.ndma.gov.in/",
+              "available": "ऑनलाइन चेतावनियाँ; संबंधित क्षेत्र चुनें"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nidm.mha.gov.in/PDF/IEC/DOS_E_24.pdf",
+            "https://sachet.ndma.gov.in/",
+            "https://112.gov.in/about",
+            "https://112.gov.in/faq",
+            "https://nsdma.nagaland.gov.in/page/disaster-safety-tips",
+            "https://nidm.mha.gov.in/PDF/IEC/DOS_H_24.pdf",
+            "https://nidm.mha.gov.in/PDF/IEC/DosDont/Tamil.pdf"
+          ],
+          "awareness": [
+            "पीने के पानी, ज़रूरी दवाओं, टॉर्च और महत्वपूर्ण दस्तावेज़ों की प्रतियों वाला आपातकालीन किट तैयार रखें। आधिकारिक चेतावनियों और निकासी निर्देशों का पालन करें।",
+            "चक्रवात या बाढ़ से पहले सुरक्षित आश्रय पहचानें और बच्चों, बुज़ुर्गों तथा सहायता की ज़रूरत वाले लोगों के वहाँ पहुँचने की योजना बनाएँ। प्रशासन के सुरक्षित बताने तक वापस न जाएँ।"
+          ]
+        }
+      },
+      "ta": {
+        "name": "பேரிடர் எச்சரிக்கை மற்றும் உடனடி பாதுகாப்பு",
+        "help": {
+          "immediateHelp": [
+            "உடனடி ஆபத்து அல்லது மீட்பு உதவிக்கு 112-ஐ அழைத்து இருப்பிடத்தைச் சொல்லவும். NDMA-வின் சச்சேத் தளத்தில் உங்கள் பகுதியின் அதிகாரப்பூர்வ எச்சரிக்கைகளைப் பார்க்கவும்.",
+            "வெள்ளம் அல்லது புயலில் வெளியேற்ற வழிமுறைகளைப் பின்பற்றி அறிவுறுத்தப்பட்ட பாதுகாப்பு மையத்திற்குச் செல்லவும். வெள்ளநீர் மற்றும் அறுந்த மின் கம்பிகளைத் தவிர்க்கவும்.",
+            "நிலநடுக்கத்தின்போது உள்ளே இருந்தால் குனிந்து, வலுவான மேசைக்குக் கீழே மறைந்து அதைப் பிடித்துக் கொள்ளவும். ஜன்னல்களைத் தவிர்க்கவும்; மின்தூக்கியைப் பயன்படுத்த வேண்டாம்."
+          ],
+          "contacts": [
+            {
+              "name": "ERSS - உடனடி ஆபத்திற்கான உதவி",
+              "number": "112",
+              "available": "தினமும் 24 மணி நேரம்"
+            },
+            {
+              "name": "சச்சேத் - அதிகாரப்பூர்வ பேரிடர் எச்சரிக்கைகள்",
+              "number": "https://sachet.ndma.gov.in/",
+              "available": "இணைய எச்சரிக்கைகள்; தொடர்புடைய பகுதியைத் தேர்ந்தெடுக்கவும்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nidm.mha.gov.in/PDF/IEC/DOS_E_24.pdf",
+            "https://sachet.ndma.gov.in/",
+            "https://112.gov.in/about",
+            "https://112.gov.in/faq",
+            "https://nsdma.nagaland.gov.in/page/disaster-safety-tips",
+            "https://nidm.mha.gov.in/PDF/IEC/DOS_H_24.pdf",
+            "https://nidm.mha.gov.in/PDF/IEC/DosDont/Tamil.pdf"
+          ],
+          "awareness": [
+            "குடிநீர், அத்தியாவசிய மருந்துகள், மின்விளக்கு மற்றும் முக்கிய ஆவண நகல்களுடன் அவசரத் தொகுப்பைத் தயார்செய்யவும். அதிகாரப்பூர்வ எச்சரிக்கைகளையும் வெளியேற்ற வழிமுறைகளையும் பின்பற்றவும்.",
+            "புயல் அல்லது வெள்ளத்துக்கு முன் பாதுகாப்பு மையத்தை அறிந்து, குழந்தைகள், முதியவர்கள் மற்றும் உதவி தேவைப்படுவோர் அங்கு செல்வதற்குத் திட்டமிடவும். பாதுகாப்பானது என அதிகாரிகள் தெரிவிக்கும் வரை திரும்ப வேண்டாம்."
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "NIDM - Do’s and Don’ts For Common Disaster (English)",
+        "url": "https://nidm.mha.gov.in/PDF/IEC/DOS_E_24.pdf",
+        "rawFile": "datasets/real-data/raw/emergency-helplines/disaster_awareness_en.pdf",
+        "locator": "pages 4-6 - Earthquake, Floods, Cyclone"
+      },
+      {
+        "title": "NDMA SACHET National Disaster Alert Portal",
+        "url": "https://sachet.ndma.gov.in/",
+        "locator": "About; area-based alerts"
+      },
+      {
+        "title": "ERSS service scope",
+        "url": "https://112.gov.in/about",
+        "locator": "Police, fire and health support"
+      },
+      {
+        "title": "ERSS - Frequently Asked Questions",
+        "url": "https://112.gov.in/faq",
+        "locator": "Emergency scope; free calls and 24h/7 emergency numbers; location information"
+      },
+      {
+        "title": "Nagaland State Disaster Management Authority - disaster safety tips",
+        "url": "https://nsdma.nagaland.gov.in/page/disaster-safety-tips",
+        "locator": "Earthquake: during; Flood: during; official warnings and evacuation"
+      },
+      {
+        "title": "NIDM — disaster awareness (Hindi)",
+        "url": "https://nidm.mha.gov.in/PDF/IEC/DOS_H_24.pdf",
+        "rawFile": "datasets/real-data/raw/emergency-helplines/disaster_awareness_hi.pdf",
+        "locator": "PDF pages 4–5: earthquake/flood preparedness and precautions, visually checked",
+        "reviewedOn": "2026-10-24",
+        "extractionNote": "Selected pages visually checked; full text OCR not claimed."
+      },
+      {
+        "title": "NIDM — disaster awareness (Tamil)",
+        "url": "https://nidm.mha.gov.in/PDF/IEC/DosDont/Tamil.pdf",
+        "rawFile": "datasets/real-data/raw/emergency-helplines/disaster_awareness_ta.pdf",
+        "locator": "PDF pages 4–5: earthquake/flood preparedness and precautions, visually checked",
+        "reviewedOn": "2026-10-24",
+        "extractionNote": "Selected pages visually checked; full text OCR not claimed."
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response depends on the State/UT.",
+      "hi": "भारत; स्थानीय सहायता राज्य/केंद्र शासित प्रदेश पर निर्भर करती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவி மாநிலம்/யூனியன் பிரதேசத்தைப் பொறுத்தது."
+    }
+  },
+  {
+    "id": "emergency-helplines/mental-health",
+    "categoryId": "emergency-helplines",
+    "keywords": [
+      "Mental Health"
+    ],
+    "name": "Tele MANAS mental health support",
+    "help": {
+      "immediateHelp": [
+        "Call Tele MANAS on 14416 for mental health support and guidance.",
+        "If someone is in immediate danger or needs urgent medical rescue, call 112. If possible, ask a trusted person to stay nearby while help is arranged."
+      ],
+      "contacts": [
+        {
+          "name": "Tele MANAS",
+          "number": "14416",
+          "available": "24 hours, every day"
+        },
+        {
+          "name": "ERSS - immediate danger",
+          "number": "112",
+          "available": "24 hours, every day"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://telemanas.mohfw.gov.in/home?oai_link_source=model_response_hotline",
+        "https://112.gov.in/about",
+        "https://112.gov.in/faq"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "टेली मानस मानसिक स्वास्थ्य सहायता",
+        "help": {
+          "immediateHelp": [
+            "मानसिक स्वास्थ्य सहायता और मार्गदर्शन के लिए टेली मानस 14416 पर कॉल करें।",
+            "किसी को तत्काल खतरा हो या तुरंत चिकित्सा बचाव की जरूरत हो तो 112 पर कॉल करें। संभव हो तो सहायता आने तक किसी भरोसेमंद व्यक्ति को साथ रहने के लिए कहें।"
+          ],
+          "contacts": [
+            {
+              "name": "टेली मानस",
+              "number": "14416",
+              "available": "हर दिन, 24 घंटे"
+            },
+            {
+              "name": "ERSS - तत्काल खतरे में सहायता",
+              "number": "112",
+              "available": "हर दिन, 24 घंटे"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://telemanas.mohfw.gov.in/home?oai_link_source=model_response_hotline",
+            "https://112.gov.in/about",
+            "https://112.gov.in/faq"
+          ]
+        }
+      },
+      "ta": {
+        "name": "டெலி மானஸ் மனநல உதவி",
+        "help": {
+          "immediateHelp": [
+            "மனநல உதவி மற்றும் வழிகாட்டலுக்கு டெலி மானஸ் 14416-ஐ அழைக்கவும்.",
+            "உடனடி ஆபத்து அல்லது அவசர மருத்துவ மீட்பு தேவைப்பட்டால் 112-ஐ அழைக்கவும். முடிந்தால் உதவி வரும் வரை நம்பகமான ஒருவரை அருகில் இருக்கச் சொல்லவும்."
+          ],
+          "contacts": [
+            {
+              "name": "டெலி மானஸ்",
+              "number": "14416",
+              "available": "தினமும் 24 மணி நேரம்"
+            },
+            {
+              "name": "ERSS - உடனடி ஆபத்திற்கான உதவி",
+              "number": "112",
+              "available": "தினமும் 24 மணி நேரம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://telemanas.mohfw.gov.in/home?oai_link_source=model_response_hotline",
+            "https://112.gov.in/about",
+            "https://112.gov.in/faq"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "Tele MANAS - national mental health support",
+        "url": "https://telemanas.mohfw.gov.in/home?oai_link_source=model_response_hotline",
+        "locator": "Verified helpline connector - national 14416, 24/7"
+      },
+      {
+        "title": "ERSS medical emergencies",
+        "url": "https://112.gov.in/about",
+        "locator": "About ERSS"
+      },
+      {
+        "title": "ERSS - Frequently Asked Questions",
+        "url": "https://112.gov.in/faq",
+        "locator": "Emergency scope; free calls and 24h/7 emergency numbers; location information"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "Tele MANAS: all Indian States and Union Territories. 112: India; local response depends on the State/UT.",
+      "hi": "टेली मानस: भारत के सभी राज्य और केंद्र शासित प्रदेश। 112: भारत; स्थानीय सहायता राज्य/केंद्र शासित प्रदेश पर निर्भर करती है।",
+      "ta": "டெலி மானஸ்: இந்தியாவின் அனைத்து மாநிலங்கள் மற்றும் யூனியன் பிரதேசங்கள். 112: இந்தியா; உள்ளூர் உதவி மாநிலம்/யூனியன் பிரதேசத்தைப் பொறுத்தது."
+    }
+  },
+  {
+    "id": "cyber-crime/financial-fraud",
+    "categoryId": "cyber-crime",
+    "keywords": [
+      "Online Fraud",
+      "UPI / Banking Fraud"
+    ],
+    "name": "Online payment and banking fraud",
+    "help": {
+      "immediateHelp": [
+        "Contact your bank/payment provider through its official app or website immediately and call 1930. Ask the provider to secure affected accounts or cards.",
+        "Report the incident on the official cybercrime portal. Save the transaction reference, amount, date and messages; keep the acknowledgement.",
+        "Never share OTPs or UPI PINs. A UPI PIN authorises a payment and is not needed to receive money. Recovery of lost money is not guaranteed."
+      ],
+      "contacts": [
+        {
+          "name": "Financial cyber fraud reporting",
+          "number": "1930",
+          "available": "Call promptly; if unavailable, use the reporting portal"
+        },
+        {
+          "name": "National Cyber Crime Reporting Portal",
+          "number": "https://cybercrime.gov.in/",
+          "available": "Online reporting; response times vary"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+        "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "https://www.npci.org.in/fraud-awareness",
+        "https://www.csk.gov.in/documents/brochure-for-customers.pdf",
+        "https://cybercrime.gov.in/Webform/Crime_NodalGrivanceList.aspx",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "ऑनलाइन भुगतान और बैंकिंग धोखाधड़ी",
+        "help": {
+          "immediateHelp": [
+            "तुरंत बैंक या भुगतान सेवा के आधिकारिक ऐप/वेबसाइट से संपर्क करें और 1930 पर कॉल करें। प्रभावित खाते या कार्ड को सुरक्षित करने के लिए कहें।",
+            "आधिकारिक साइबर अपराध पोर्टल पर शिकायत करें। लेनदेन संदर्भ, राशि, तारीख, संदेश और शिकायत की पावती सुरक्षित रखें।",
+            "OTP या UPI PIN साझा न करें। UPI PIN भुगतान की अनुमति देता है; पैसे पाने के लिए इसकी जरूरत नहीं होती। खोए पैसे वापस मिलने की गारंटी नहीं है।"
+          ],
+          "contacts": [
+            {
+              "name": "वित्तीय साइबर धोखाधड़ी की शिकायत",
+              "number": "1930",
+              "available": "जल्द कॉल करें; संपर्क न हो तो शिकायत पोर्टल का उपयोग करें"
+            },
+            {
+              "name": "राष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल",
+              "number": "https://cybercrime.gov.in/",
+              "available": "ऑनलाइन शिकायत; प्रतिक्रिया का समय अलग हो सकता है"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://www.npci.org.in/fraud-awareness",
+            "https://www.csk.gov.in/documents/brochure-for-customers.pdf",
+            "https://cybercrime.gov.in/Webform/Crime_NodalGrivanceList.aspx",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      },
+      "ta": {
+        "name": "இணையப் பணப்பரிவர்த்தனை மற்றும் வங்கி மோசடி",
+        "help": {
+          "immediateHelp": [
+            "வங்கி அல்லது பணப்பரிவர்த்தனை நிறுவனத்தின் அதிகாரப்பூர்வ செயலி/தளத்தை உடனே தொடர்புகொண்டு 1930-ஐ அழைக்கவும். பாதிக்கப்பட்ட கணக்கு அல்லது அட்டையைப் பாதுகாக்கக் கோரவும்.",
+            "அதிகாரப்பூர்வ இணையக் குற்றத் தளத்தில் புகார் செய்யவும். பரிவர்த்தனை எண், தொகை, தேதி, செய்திகள் மற்றும் புகார் ஒப்புகையைச் சேமிக்கவும்.",
+            "OTP அல்லது UPI PIN-ஐ பகிர வேண்டாம். UPI PIN பணம் செலுத்த அனுமதிக்கிறது; பணம் பெற அது தேவையில்லை. இழந்த பணம் திரும்பக் கிடைப்பது உறுதியல்ல."
+          ],
+          "contacts": [
+            {
+              "name": "இணைய நிதி மோசடிப் புகார்",
+              "number": "1930",
+              "available": "உடனே அழைக்கவும்; இணைக்க முடியாவிட்டால் புகார் தளத்தைப் பயன்படுத்தவும்"
+            },
+            {
+              "name": "தேசிய இணையக் குற்றப் புகார் தளம்",
+              "number": "https://cybercrime.gov.in/",
+              "available": "இணையவழிப் புகார்; பதிலளிக்கும் நேரம் மாறுபடும்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://www.npci.org.in/fraud-awareness",
+            "https://www.csk.gov.in/documents/brochure-for-customers.pdf",
+            "https://cybercrime.gov.in/Webform/Crime_NodalGrivanceList.aspx",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "CERT-In Cyber Security Awareness Booklet (NCSAM 2023)",
+        "url": "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+        "rawFile": "datasets/real-data/raw/cyber-crime/cyber_security_awareness.pdf",
+        "locator": "pages 5, 17 - financial fraud; I4C reporting"
+      },
+      {
+        "title": "NCRP - reporting and evidence guidance",
+        "url": "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "locator": "Report Other Cybercrimes; evidence",
+        "verificationNote": "Official FAQ verified through indexed content; direct page text requires JavaScript."
+      },
+      {
+        "title": "NPCI fraud awareness",
+        "url": "https://www.npci.org.in/fraud-awareness",
+        "locator": "Fake cashback links and QR codes"
+      },
+      {
+        "title": "Digital Payment Suraksha - customer brochure",
+        "url": "https://www.csk.gov.in/documents/brochure-for-customers.pdf",
+        "rawFile": "datasets/real-data/raw/cyber-crime/digital_payment_safety_customers.pdf",
+        "locator": "page 2 - Basic essentials"
+      },
+      {
+        "title": "NCRP financial fraud reporting number",
+        "url": "https://cybercrime.gov.in/Webform/Crime_NodalGrivanceList.aspx",
+        "locator": "Financial cyber fraud banner"
+      },
+      {
+        "title": "MeitY / PIB - Government Strengthens Regulatory Framework to Address AI-Generated Deepfakes (6 August 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1",
+        "locator": "Coordination Mechanism: National Cyber Crime Reporting Portal; financial fraud, content misuse and 1930 reporting"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response depends on the State/UT.",
+      "hi": "भारत; स्थानीय सहायता राज्य/केंद्र शासित प्रदेश पर निर्भर करती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவி மாநிலம்/யூனியன் பிரதேசத்தைப் பொறுத்தது."
+    }
+  },
+  {
+    "id": "cyber-crime/phishing",
+    "categoryId": "cyber-crime",
+    "keywords": [
+      "Phishing"
+    ],
+    "name": "Suspicious links and phishing messages",
+    "help": {
+      "immediateHelp": [
+        "Do not open suspicious links or install apps sent in unexpected messages. Open the organisation’s official website or app yourself to verify a request.",
+        "If you entered a password on a fake site, change it through the genuine service and enable multi-factor authentication. Do not share OTPs or PINs.",
+        "Keep the message and website address for a cybercrime report. If money has been lost, contact your bank and call 1930 promptly."
+      ],
+      "contacts": [
+        {
+          "name": "National Cyber Crime Reporting Portal",
+          "number": "https://cybercrime.gov.in/",
+          "available": "Online reporting; response times vary"
+        },
+        {
+          "name": "Financial cyber fraud reporting",
+          "number": "1930",
+          "available": "Call promptly; if unavailable, use the reporting portal"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+        "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "संदिग्ध लिंक और फिशिंग संदेश",
+        "help": {
+          "immediateHelp": [
+            "अचानक मिले संदेशों के संदिग्ध लिंक न खोलें और ऐप न लगाएँ। अनुरोध जाँचने के लिए संस्था का आधिकारिक ऐप या वेबसाइट खुद खोलें।",
+            "नकली साइट पर पासवर्ड डाला हो तो असली सेवा से उसे बदलें और बहु-स्तरीय प्रमाणीकरण चालू करें। OTP या PIN साझा न करें।",
+            "शिकायत के लिए संदेश और वेबसाइट का पता सुरक्षित रखें। पैसे चले गए हों तो बैंक से संपर्क करें और जल्द 1930 पर कॉल करें।"
+          ],
+          "contacts": [
+            {
+              "name": "राष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल",
+              "number": "https://cybercrime.gov.in/",
+              "available": "ऑनलाइन शिकायत; प्रतिक्रिया का समय अलग हो सकता है"
+            },
+            {
+              "name": "वित्तीय साइबर धोखाधड़ी की शिकायत",
+              "number": "1930",
+              "available": "जल्द कॉल करें; संपर्क न हो तो शिकायत पोर्टल का उपयोग करें"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      },
+      "ta": {
+        "name": "சந்தேக இணைப்புகள் மற்றும் ஃபிஷிங் செய்திகள்",
+        "help": {
+          "immediateHelp": [
+            "எதிர்பாராத செய்திகளில் வரும் சந்தேக இணைப்புகளைத் திறக்கவோ செயலிகளை நிறுவவோ வேண்டாம். கோரிக்கையைச் சரிபார்க்க நிறுவனத்தின் அதிகாரப்பூர்வ செயலி அல்லது தளத்தை நீங்களே திறக்கவும்.",
+            "போலித் தளத்தில் கடவுச்சொல்லை உள்ளிட்டிருந்தால் உண்மையான சேவை வழியாக அதை மாற்றி பலகட்டச் சரிபார்ப்பை இயக்கவும். OTP அல்லது PIN-ஐ பகிர வேண்டாம்.",
+            "புகாருக்காக செய்தி மற்றும் தள முகவரியைச் சேமிக்கவும். பணம் இழந்திருந்தால் வங்கியைத் தொடர்புகொண்டு உடனே 1930-ஐ அழைக்கவும்."
+          ],
+          "contacts": [
+            {
+              "name": "தேசிய இணையக் குற்றப் புகார் தளம்",
+              "number": "https://cybercrime.gov.in/",
+              "available": "இணையவழிப் புகார்; பதிலளிக்கும் நேரம் மாறுபடும்"
+            },
+            {
+              "name": "இணைய நிதி மோசடிப் புகார்",
+              "number": "1930",
+              "available": "உடனே அழைக்கவும்; இணைக்க முடியாவிட்டால் புகார் தளத்தைப் பயன்படுத்தவும்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "CERT-In Cyber Security Awareness Booklet (NCSAM 2023)",
+        "url": "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+        "rawFile": "datasets/real-data/raw/cyber-crime/cyber_security_awareness.pdf",
+        "locator": "pages 4-6, 14 - Phishing, Vishing, malicious apps, passwords"
+      },
+      {
+        "title": "NCRP - reporting and evidence guidance",
+        "url": "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "locator": "Report Other Cybercrimes; evidence",
+        "verificationNote": "Official FAQ verified through indexed content; direct page text requires JavaScript."
+      },
+      {
+        "title": "MeitY / PIB - Government Strengthens Regulatory Framework to Address AI-Generated Deepfakes (6 August 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1",
+        "locator": "Coordination Mechanism: National Cyber Crime Reporting Portal; financial fraud, content misuse and 1930 reporting"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response depends on the State/UT.",
+      "hi": "भारत; स्थानीय सहायता राज्य/केंद्र शासित प्रदेश पर निर्भर करती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவி மாநிலம்/யூனியன் பிரதேசத்தைப் பொறுத்தது."
+    }
+  },
+  {
+    "id": "cyber-crime/hacked-account",
+    "categoryId": "cyber-crime",
+    "keywords": [
+      "Hacking"
+    ],
+    "name": "Hacked or compromised account",
+    "help": {
+      "immediateHelp": [
+        "Use the service’s genuine account-recovery process. If you can sign in, change the password to a unique one and enable multi-factor authentication.",
+        "Secure other accounts that reused that password. Keep login alerts and evidence of unauthorised changes.",
+        "Report hacking through the cybercrime portal. Do not pay strangers claiming they can recover the account."
+      ],
+      "contacts": [
+        {
+          "name": "National Cyber Crime Reporting Portal",
+          "number": "https://cybercrime.gov.in/",
+          "available": "Online reporting; response times vary"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+        "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-do",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "हैक हुआ या असुरक्षित खाता",
+        "help": {
+          "immediateHelp": [
+            "सेवा की असली खाता-पुनर्प्राप्ति प्रक्रिया अपनाएँ। लॉगिन कर सकते हों तो अलग मजबूत पासवर्ड रखें और बहु-स्तरीय प्रमाणीकरण चालू करें।",
+            "वही पासवर्ड इस्तेमाल करने वाले दूसरे खाते भी सुरक्षित करें। लॉगिन चेतावनियाँ और बिना अनुमति हुए बदलावों के प्रमाण सुरक्षित रखें।",
+            "हैकिंग की शिकायत साइबर अपराध पोर्टल पर करें। खाता वापस दिलाने का दावा करने वाले अजनबियों को पैसे न दें।"
+          ],
+          "contacts": [
+            {
+              "name": "राष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल",
+              "number": "https://cybercrime.gov.in/",
+              "available": "ऑनलाइन शिकायत; प्रतिक्रिया का समय अलग हो सकता है"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-do",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      },
+      "ta": {
+        "name": "ஊடுருவப்பட்ட அல்லது பாதுகாப்பு இழந்த கணக்கு",
+        "help": {
+          "immediateHelp": [
+            "சேவையின் உண்மையான கணக்கு மீட்பு முறையைப் பயன்படுத்தவும். உள்நுழைய முடிந்தால் தனித்துவமான கடவுச்சொல்லாக மாற்றி பலகட்டச் சரிபார்ப்பை இயக்கவும்.",
+            "அதே கடவுச்சொல்லைப் பயன்படுத்திய மற்ற கணக்குகளையும் பாதுகாக்கவும். உள்நுழைவு எச்சரிக்கைகள் மற்றும் அனுமதியற்ற மாற்றங்களின் ஆதாரங்களைச் சேமிக்கவும்.",
+            "இணையக் குற்றத் தளத்தில் ஊடுருவல் புகார் செய்யவும். கணக்கை மீட்டுத் தருவதாகச் சொல்லும் அறிமுகமற்றவர்களுக்கு பணம் தர வேண்டாம்."
+          ],
+          "contacts": [
+            {
+              "name": "தேசிய இணையக் குற்றப் புகார் தளம்",
+              "number": "https://cybercrime.gov.in/",
+              "available": "இணையவழிப் புகார்; பதிலளிக்கும் நேரம் மாறுபடும்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-do",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "CERT-In Cyber Security Awareness Booklet (NCSAM 2023)",
+        "url": "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+        "rawFile": "datasets/real-data/raw/cyber-crime/cyber_security_awareness.pdf",
+        "locator": "pages 8, 14-15 - Social media, passwords, basic cyber hygiene"
+      },
+      {
+        "title": "NCRP - reporting and evidence guidance",
+        "url": "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "locator": "Report Other Cybercrimes; evidence",
+        "verificationNote": "Official FAQ verified through indexed content; direct page text requires JavaScript."
+      },
+      {
+        "title": "US Federal Trade Commission - account recovery and unauthorised access",
+        "url": "https://consumer.ftc.gov/consumer-alerts/2024/10/email-or-social-media-hacked-heres-what-do",
+        "locator": "Account recovery; passwords and two-factor authentication"
+      },
+      {
+        "title": "MeitY / PIB - Government Strengthens Regulatory Framework to Address AI-Generated Deepfakes (6 August 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1",
+        "locator": "Coordination Mechanism: National Cyber Crime Reporting Portal; financial fraud, content misuse and 1930 reporting"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response depends on the State/UT.",
+      "hi": "भारत; स्थानीय सहायता राज्य/केंद्र शासित प्रदेश पर निर्भर करती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவி மாநிலம்/யூனியன் பிரதேசத்தைப் பொறுத்தது."
+    }
+  },
+  {
+    "id": "cyber-crime/identity-misuse",
+    "categoryId": "cyber-crime",
+    "keywords": [
+      "Identity Theft"
+    ],
+    "name": "Fake profile or online identity misuse",
+    "help": {
+      "immediateHelp": [
+        "Save the fake profile link, screenshots and relevant messages without forwarding harmful content publicly.",
+        "Report impersonation to the platform’s official help centre and report the incident on the cybercrime portal.",
+        "Restrict public personal details and secure your accounts with unique passwords and multi-factor authentication."
+      ],
+      "contacts": [
+        {
+          "name": "National Cyber Crime Reporting Portal",
+          "number": "https://cybercrime.gov.in/",
+          "available": "Online reporting; response times vary"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+        "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "नकली प्रोफाइल या ऑनलाइन पहचान का दुरुपयोग",
+        "help": {
+          "immediateHelp": [
+            "नकली प्रोफाइल का लिंक, स्क्रीनशॉट और संबंधित संदेश सुरक्षित रखें। हानिकारक सामग्री सार्वजनिक रूप से आगे न भेजें।",
+            "प्लेटफॉर्म के आधिकारिक सहायता केंद्र पर पहचान की नकल की शिकायत करें और साइबर अपराध पोर्टल पर घटना दर्ज करें।",
+            "सार्वजनिक निजी जानकारी सीमित करें। अलग पासवर्ड और बहु-स्तरीय प्रमाणीकरण से अपने खाते सुरक्षित रखें।"
+          ],
+          "contacts": [
+            {
+              "name": "राष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल",
+              "number": "https://cybercrime.gov.in/",
+              "available": "ऑनलाइन शिकायत; प्रतिक्रिया का समय अलग हो सकता है"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      },
+      "ta": {
+        "name": "போலி சுயவிவரம் அல்லது இணைய அடையாளத் தவறான பயன்பாடு",
+        "help": {
+          "immediateHelp": [
+            "போலி சுயவிவர இணைப்பு, திரைப்பிடிப்புகள் மற்றும் தொடர்புடைய செய்திகளைச் சேமிக்கவும். தீங்கு விளைவிக்கும் உள்ளடக்கத்தைப் பொதுவில் பரப்ப வேண்டாம்.",
+            "அடையாள ஆள்மாறாட்டத்தைத் தளத்தின் அதிகாரப்பூர்வ உதவி மையத்திலும் இணையக் குற்றப் புகார் தளத்திலும் புகார் செய்யவும்.",
+            "பொதுவில் தெரியும் தனிப்பட்ட விவரங்களைக் குறைக்கவும். தனித்துவமான கடவுச்சொற்கள் மற்றும் பலகட்டச் சரிபார்ப்பால் கணக்குகளைப் பாதுகாக்கவும்."
+          ],
+          "contacts": [
+            {
+              "name": "தேசிய இணையக் குற்றப் புகார் தளம்",
+              "number": "https://cybercrime.gov.in/",
+              "available": "இணையவழிப் புகார்; பதிலளிக்கும் நேரம் மாறுபடும்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "CERT-In Cyber Security Awareness Booklet (NCSAM 2023)",
+        "url": "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+        "rawFile": "datasets/real-data/raw/cyber-crime/cyber_security_awareness.pdf",
+        "locator": "pages 8, 11 - fake profiles; evidence and platform reporting"
+      },
+      {
+        "title": "NCRP - reporting and evidence guidance",
+        "url": "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "locator": "Report Other Cybercrimes; evidence",
+        "verificationNote": "Official FAQ verified through indexed content; direct page text requires JavaScript."
+      },
+      {
+        "title": "MeitY / PIB - Government Strengthens Regulatory Framework to Address AI-Generated Deepfakes (6 August 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1",
+        "locator": "Coordination Mechanism: National Cyber Crime Reporting Portal; financial fraud, content misuse and 1930 reporting"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response depends on the State/UT.",
+      "hi": "भारत; स्थानीय सहायता राज्य/केंद्र शासित प्रदेश पर निर्भर करती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவி மாநிலம்/யூனியன் பிரதேசத்தைப் பொறுத்தது."
+    }
+  },
+  {
+    "id": "cyber-crime/online-abuse-threats",
+    "categoryId": "cyber-crime",
+    "keywords": [
+      "Cyberbullying",
+      "Social Media Threat"
+    ],
+    "name": "Cyberbullying and online threats",
+    "help": {
+      "immediateHelp": [
+        "Save relevant messages, profile links and screenshots. Avoid replying to abusive messages; use the platform’s report and block tools.",
+        "Tell a trusted person. Children should involve a trusted adult. Report the incident on the official cybercrime portal.",
+        "If an online threat creates immediate physical danger, call 112 and move to a safe place if possible."
+      ],
+      "contacts": [
+        {
+          "name": "National Cyber Crime Reporting Portal",
+          "number": "https://cybercrime.gov.in/",
+          "available": "Online reporting; response times vary"
+        },
+        {
+          "name": "ERSS - immediate danger",
+          "number": "112",
+          "available": "24 hours, every day"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+        "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "https://112.gov.in/about",
+        "https://112.gov.in/faq",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "साइबर बुलिंग और ऑनलाइन धमकी",
+        "help": {
+          "immediateHelp": [
+            "संबंधित संदेश, प्रोफाइल लिंक और स्क्रीनशॉट सुरक्षित रखें। अपमानजनक संदेशों का जवाब देने से बचें; प्लेटफॉर्म पर रिपोर्ट और ब्लॉक करें।",
+            "भरोसेमंद व्यक्ति को बताएँ। बच्चे किसी भरोसेमंद वयस्क की सहायता लें। आधिकारिक साइबर अपराध पोर्टल पर शिकायत करें।",
+            "ऑनलाइन धमकी से तत्काल शारीरिक खतरा हो तो 112 पर कॉल करें और संभव हो तो सुरक्षित जगह जाएँ।"
+          ],
+          "contacts": [
+            {
+              "name": "राष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल",
+              "number": "https://cybercrime.gov.in/",
+              "available": "ऑनलाइन शिकायत; प्रतिक्रिया का समय अलग हो सकता है"
+            },
+            {
+              "name": "ERSS - तत्काल खतरे में सहायता",
+              "number": "112",
+              "available": "हर दिन, 24 घंटे"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://112.gov.in/about",
+            "https://112.gov.in/faq",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      },
+      "ta": {
+        "name": "இணையத் துன்புறுத்தல் மற்றும் மிரட்டல்கள்",
+        "help": {
+          "immediateHelp": [
+            "தொடர்புடைய செய்திகள், சுயவிவர இணைப்புகள் மற்றும் திரைப்பிடிப்புகளைச் சேமிக்கவும். அவதூறான செய்திகளுக்கு பதிலளிப்பதைத் தவிர்த்து, தளத்தின் புகார் மற்றும் தடை வசதிகளைப் பயன்படுத்தவும்.",
+            "நம்பகமான ஒருவரிடம் தெரிவிக்கவும். குழந்தைகள் நம்பகமான பெரியவரின் உதவியைப் பெற வேண்டும். அதிகாரப்பூர்வ இணையக் குற்றத் தளத்தில் புகார் செய்யவும்.",
+            "இணைய மிரட்டலால் உடனடி உடல் ஆபத்து ஏற்பட்டால் 112-ஐ அழைத்து முடிந்தால் பாதுகாப்பான இடத்திற்குச் செல்லவும்."
+          ],
+          "contacts": [
+            {
+              "name": "தேசிய இணையக் குற்றப் புகார் தளம்",
+              "number": "https://cybercrime.gov.in/",
+              "available": "இணையவழிப் புகார்; பதிலளிக்கும் நேரம் மாறுபடும்"
+            },
+            {
+              "name": "ERSS - உடனடி ஆபத்திற்கான உதவி",
+              "number": "112",
+              "available": "தினமும் 24 மணி நேரம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+            "https://cybercrime.gov.in/Webform/FAQ.aspx",
+            "https://112.gov.in/about",
+            "https://112.gov.in/faq",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "CERT-In Cyber Security Awareness Booklet (NCSAM 2023)",
+        "url": "https://www.cert-in.org.in/PDF/CSA_Booklet.pdf",
+        "rawFile": "datasets/real-data/raw/cyber-crime/cyber_security_awareness.pdf",
+        "locator": "pages 10-11 - cyberbullying, trusted support and evidence"
+      },
+      {
+        "title": "NCRP - reporting and evidence guidance",
+        "url": "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "locator": "Report Other Cybercrimes; evidence",
+        "verificationNote": "Official FAQ verified through indexed content; direct page text requires JavaScript."
+      },
+      {
+        "title": "ERSS immediate emergency assistance",
+        "url": "https://112.gov.in/about",
+        "locator": "About ERSS"
+      },
+      {
+        "title": "ERSS - Frequently Asked Questions",
+        "url": "https://112.gov.in/faq",
+        "locator": "Emergency scope; free calls and 24h/7 emergency numbers; location information"
+      },
+      {
+        "title": "MeitY / PIB - Government Strengthens Regulatory Framework to Address AI-Generated Deepfakes (6 August 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295500&lang=1&reg=1",
+        "locator": "Coordination Mechanism: National Cyber Crime Reporting Portal; financial fraud, content misuse and 1930 reporting"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response depends on the State/UT.",
+      "hi": "भारत; स्थानीय सहायता राज्य/केंद्र शासित प्रदेश पर निर्भर करती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவி மாநிலம்/யூனியன் பிரதேசத்தைப் பொறுத்தது."
+    }
+  }
+]

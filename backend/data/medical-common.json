@@ -1,0 +1,1408 @@
+[
+  {
+    "id": "medical-emergency/accident-trauma",
+    "categoryId": "medical-emergency",
+    "keywords": [
+      "Accident"
+    ],
+    "name": "Accident / Trauma",
+    "help": {
+      "immediateHelp": [
+        "Call 112 for urgent medical help. In Tamil Nadu, you can also call the free 108 ambulance service. Tell the operator your location and follow their instructions.",
+        "Keep yourself safe from traffic, fire or electricity before approaching. Do not move an injured person unless there is immediate danger; follow the emergency operator."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency Response Support System",
+          "number": "112",
+          "available": "24x7"
+        },
+        {
+          "name": "Tamil Nadu 108 Ambulance",
+          "number": "108",
+          "available": "24x7; free in Tamil Nadu"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "https://tnhsp.org/pages/view/108_EMS",
+        "https://112.gov.in/about"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "दुर्घटना / गंभीर चोट",
+        "help": {
+          "immediateHelp": [
+            "तुरंत चिकित्सा सहायता के लिए 112 पर कॉल करें। तमिलनाडु में निःशुल्क 108 एम्बुलेंस को भी कॉल कर सकते हैं। अपना स्थान बताएँ और ऑपरेटर के निर्देश मानें।",
+            "पास जाने से पहले यातायात, आग या बिजली से अपनी सुरक्षा सुनिश्चित करें। तत्काल खतरा न हो तो घायल व्यक्ति को न हिलाएँ; आपातकालीन ऑपरेटर के निर्देश मानें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता सेवा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "तमिलनाडु 108 एम्बुलेंस",
+              "number": "108",
+              "available": "24 घंटे; तमिलनाडु में निःशुल्क"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      },
+      "ta": {
+        "name": "விபத்து / கடுமையான காயம்",
+        "help": {
+          "immediateHelp": [
+            "அவசர மருத்துவ உதவிக்கு 112ஐ அழைக்கவும். தமிழ்நாட்டில் இலவச 108 ஆம்புலன்ஸையும் அழைக்கலாம். உங்கள் இடத்தைத் தெரிவித்து, அழைப்பு மையத்தின் வழிமுறைகளைப் பின்பற்றுங்கள்.",
+            "அருகில் செல்வதற்கு முன் போக்குவரத்து, தீ அல்லது மின்சார ஆபத்திலிருந்து உங்களைப் பாதுகாத்துக் கொள்ளுங்கள். உடனடி ஆபத்து இல்லாவிட்டால் காயமடைந்தவரை நகர்த்தாதீர்கள்; அவசர அழைப்பு மையத்தின் வழிமுறைகளைப் பின்பற்றுங்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி சேவை",
+              "number": "112",
+              "available": "24 மணி நேரமும்"
+            },
+            {
+              "name": "தமிழ்நாடு 108 ஆம்புலன்ஸ்",
+              "number": "108",
+              "available": "24 மணி நேரமும்; தமிழ்நாட்டில் இலவசம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "MoHFW — ASHA emergency care manual (2021)",
+        "url": "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "rawFile": "datasets/real-data/raw/medical-emergency/emergency_care_asha.pdf",
+        "locator": "Chapter 3.1: trauma, scene safety and safe referral"
+      },
+      {
+        "title": "Tamil Nadu Health Systems Project — 108 Ambulance",
+        "url": "https://tnhsp.org/pages/view/108_EMS",
+        "rawFile": "datasets/real-data/raw/medical-emergency/tn_ambulance_services.pdf",
+        "locator": "PDF page 1"
+      },
+      {
+        "title": "ERSS — emergency number 112",
+        "url": "https://112.gov.in/about"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India: call 112. The 108 ambulance information here applies to Tamil Nadu.",
+      "hi": "भारत: 112 पर कॉल करें। यहाँ दी गई 108 एम्बुलेंस जानकारी तमिलनाडु के लिए है।",
+      "ta": "இந்தியா: 112ஐ அழைக்கவும். இங்குள்ள 108 ஆம்புலன்ஸ் தகவல் தமிழ்நாட்டிற்கானது."
+    }
+  },
+  {
+    "id": "medical-emergency/cardiac-emergency",
+    "categoryId": "medical-emergency",
+    "keywords": [
+      "Heart Attack"
+    ],
+    "name": "Heart Attack / Cardiac Emergency",
+    "help": {
+      "immediateHelp": [
+        "Call 112 for urgent medical help. In Tamil Nadu, you can also call the free 108 ambulance service. Tell the operator your location and follow their instructions.",
+        "New chest pain with sweating, faintness or breathlessness needs urgent assessment. Do not delay seeking help to search for schemes or try home remedies."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency Response Support System",
+          "number": "112",
+          "available": "24x7"
+        },
+        {
+          "name": "Tamil Nadu 108 Ambulance",
+          "number": "108",
+          "available": "24x7; free in Tamil Nadu"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "https://tnhsp.org/pages/view/108_EMS",
+        "https://112.gov.in/about"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "दिल का दौरा / हृदय संबंधी आपातस्थिति",
+        "help": {
+          "immediateHelp": [
+            "तुरंत चिकित्सा सहायता के लिए 112 पर कॉल करें। तमिलनाडु में निःशुल्क 108 एम्बुलेंस को भी कॉल कर सकते हैं। अपना स्थान बताएँ और ऑपरेटर के निर्देश मानें।",
+            "पसीने, बेहोशी जैसा लगना या साँस फूलने के साथ नया सीने का दर्द हो तो तुरंत जाँच जरूरी है। योजनाएँ खोजने या घरेलू उपचार आजमाने के लिए मदद लेने में देरी न करें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता सेवा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "तमिलनाडु 108 एम्बुलेंस",
+              "number": "108",
+              "available": "24 घंटे; तमिलनाडु में निःशुल्क"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      },
+      "ta": {
+        "name": "மாரடைப்பு / இதய அவசரநிலை",
+        "help": {
+          "immediateHelp": [
+            "அவசர மருத்துவ உதவிக்கு 112ஐ அழைக்கவும். தமிழ்நாட்டில் இலவச 108 ஆம்புலன்ஸையும் அழைக்கலாம். உங்கள் இடத்தைத் தெரிவித்து, அழைப்பு மையத்தின் வழிமுறைகளைப் பின்பற்றுங்கள்.",
+            "வியர்வை, மயக்கம் அல்லது மூச்சுத்திணறலுடன் புதிதாக நெஞ்சுவலி ஏற்பட்டால் உடனடி மருத்துவப் பரிசோதனை தேவை. திட்டங்களைத் தேடவோ வீட்டு வைத்தியம் முயலவோ உதவி பெறுவதைத் தாமதிக்காதீர்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி சேவை",
+              "number": "112",
+              "available": "24 மணி நேரமும்"
+            },
+            {
+              "name": "தமிழ்நாடு 108 ஆம்புலன்ஸ்",
+              "number": "108",
+              "available": "24 மணி நேரமும்; தமிழ்நாட்டில் இலவசம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "MoHFW — ASHA emergency care manual (2021)",
+        "url": "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "rawFile": "datasets/real-data/raw/medical-emergency/emergency_care_asha.pdf",
+        "locator": "Chapter 3.6: cardiovascular emergencies and referral"
+      },
+      {
+        "title": "Tamil Nadu Health Systems Project — 108 Ambulance",
+        "url": "https://tnhsp.org/pages/view/108_EMS",
+        "rawFile": "datasets/real-data/raw/medical-emergency/tn_ambulance_services.pdf",
+        "locator": "PDF page 1"
+      },
+      {
+        "title": "ERSS — emergency number 112",
+        "url": "https://112.gov.in/about"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India: call 112. The 108 ambulance information here applies to Tamil Nadu.",
+      "hi": "भारत: 112 पर कॉल करें। यहाँ दी गई 108 एम्बुलेंस जानकारी तमिलनाडु के लिए है।",
+      "ta": "இந்தியா: 112ஐ அழைக்கவும். இங்குள்ள 108 ஆம்புலன்ஸ் தகவல் தமிழ்நாட்டிற்கானது."
+    }
+  },
+  {
+    "id": "medical-emergency/breathing-emergency",
+    "categoryId": "medical-emergency",
+    "keywords": [
+      "Breathing Problem"
+    ],
+    "name": "Severe Breathing Difficulty",
+    "help": {
+      "immediateHelp": [
+        "Call 112 for urgent medical help. In Tamil Nadu, you can also call the free 108 ambulance service. Tell the operator your location and follow their instructions.",
+        "Severe difficulty breathing, choking or inability to speak normally needs emergency help. Do not give food or water to someone who is severely breathless or unconscious."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency Response Support System",
+          "number": "112",
+          "available": "24x7"
+        },
+        {
+          "name": "Tamil Nadu 108 Ambulance",
+          "number": "108",
+          "available": "24x7; free in Tamil Nadu"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "https://tnhsp.org/pages/view/108_EMS",
+        "https://112.gov.in/about"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "साँस लेने में गंभीर कठिनाई",
+        "help": {
+          "immediateHelp": [
+            "तुरंत चिकित्सा सहायता के लिए 112 पर कॉल करें। तमिलनाडु में निःशुल्क 108 एम्बुलेंस को भी कॉल कर सकते हैं। अपना स्थान बताएँ और ऑपरेटर के निर्देश मानें।",
+            "साँस लेने में गंभीर कठिनाई, दम घुटना या सामान्य रूप से बोल न पाना आपातस्थिति है। बहुत अधिक साँस फूलने या बेहोशी में व्यक्ति को खाने-पीने के लिए कुछ न दें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता सेवा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "तमिलनाडु 108 एम्बुलेंस",
+              "number": "108",
+              "available": "24 घंटे; तमिलनाडु में निःशुल्क"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      },
+      "ta": {
+        "name": "கடுமையான மூச்சுத்திணறல்",
+        "help": {
+          "immediateHelp": [
+            "அவசர மருத்துவ உதவிக்கு 112ஐ அழைக்கவும். தமிழ்நாட்டில் இலவச 108 ஆம்புலன்ஸையும் அழைக்கலாம். உங்கள் இடத்தைத் தெரிவித்து, அழைப்பு மையத்தின் வழிமுறைகளைப் பின்பற்றுங்கள்.",
+            "கடுமையான மூச்சுத்திணறல், மூச்சடைப்பு அல்லது இயல்பாகப் பேச முடியாமை இருந்தால் அவசர உதவி தேவை. கடுமையாக மூச்சுத்திணறுபவருக்கோ மயக்கத்தில் இருப்பவருக்கோ உணவு அல்லது தண்ணீர் கொடுக்காதீர்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி சேவை",
+              "number": "112",
+              "available": "24 மணி நேரமும்"
+            },
+            {
+              "name": "தமிழ்நாடு 108 ஆம்புலன்ஸ்",
+              "number": "108",
+              "available": "24 மணி நேரமும்; தமிழ்நாட்டில் இலவசம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "MoHFW — ASHA emergency care manual (2021)",
+        "url": "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "rawFile": "datasets/real-data/raw/medical-emergency/emergency_care_asha.pdf",
+        "locator": "Chapters 3.8 and 3.10: respiratory distress, choking and referral"
+      },
+      {
+        "title": "Tamil Nadu Health Systems Project — 108 Ambulance",
+        "url": "https://tnhsp.org/pages/view/108_EMS",
+        "rawFile": "datasets/real-data/raw/medical-emergency/tn_ambulance_services.pdf",
+        "locator": "PDF page 1"
+      },
+      {
+        "title": "ERSS — emergency number 112",
+        "url": "https://112.gov.in/about"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India: call 112. The 108 ambulance information here applies to Tamil Nadu.",
+      "hi": "भारत: 112 पर कॉल करें। यहाँ दी गई 108 एम्बुलेंस जानकारी तमिलनाडु के लिए है।",
+      "ta": "இந்தியா: 112ஐ அழைக்கவும். இங்குள்ள 108 ஆம்புலன்ஸ் தகவல் தமிழ்நாட்டிற்கானது."
+    }
+  },
+  {
+    "id": "medical-emergency/burns",
+    "categoryId": "medical-emergency",
+    "keywords": [
+      "Burns"
+    ],
+    "name": "Burns / Electrical or Chemical Injury",
+    "help": {
+      "immediateHelp": [
+        "Call 112 for urgent medical help. In Tamil Nadu, you can also call the free 108 ambulance service. Tell the operator your location and follow their instructions.",
+        "Do not enter an unsafe fire or touch a person still connected to electricity. Do not apply ice or creams, peel blisters, or pull off clothing stuck to burned skin."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency Response Support System",
+          "number": "112",
+          "available": "24x7"
+        },
+        {
+          "name": "Tamil Nadu 108 Ambulance",
+          "number": "108",
+          "available": "24x7; free in Tamil Nadu"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "https://tnhsp.org/pages/view/108_EMS",
+        "https://112.gov.in/about"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "जलना / बिजली या रसायन से चोट",
+        "help": {
+          "immediateHelp": [
+            "तुरंत चिकित्सा सहायता के लिए 112 पर कॉल करें। तमिलनाडु में निःशुल्क 108 एम्बुलेंस को भी कॉल कर सकते हैं। अपना स्थान बताएँ और ऑपरेटर के निर्देश मानें।",
+            "असुरक्षित आग में प्रवेश न करें और बिजली के संपर्क में मौजूद व्यक्ति को न छुएँ। बर्फ या क्रीम न लगाएँ, छाले न फोड़ें और जली त्वचा से चिपके कपड़े न खींचें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता सेवा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "तमिलनाडु 108 एम्बुलेंस",
+              "number": "108",
+              "available": "24 घंटे; तमिलनाडु में निःशुल्क"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      },
+      "ta": {
+        "name": "தீக்காயம் / மின்சார அல்லது வேதிப்பொருள் காயம்",
+        "help": {
+          "immediateHelp": [
+            "அவசர மருத்துவ உதவிக்கு 112ஐ அழைக்கவும். தமிழ்நாட்டில் இலவச 108 ஆம்புலன்ஸையும் அழைக்கலாம். உங்கள் இடத்தைத் தெரிவித்து, அழைப்பு மையத்தின் வழிமுறைகளைப் பின்பற்றுங்கள்.",
+            "பாதுகாப்பற்ற தீப்பகுதிக்குள் செல்லாதீர்கள்; மின்சாரத் தொடர்பில் உள்ளவரைத் தொடாதீர்கள். பனி அல்லது கிரீம் தடவாதீர்கள்; கொப்புளங்களை உடைக்கவோ எரிந்த தோலில் ஒட்டிய ஆடையை இழுக்கவோ வேண்டாம்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி சேவை",
+              "number": "112",
+              "available": "24 மணி நேரமும்"
+            },
+            {
+              "name": "தமிழ்நாடு 108 ஆம்புலன்ஸ்",
+              "number": "108",
+              "available": "24 மணி நேரமும்; தமிழ்நாட்டில் இலவசம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "MoHFW — ASHA emergency care manual (2021)",
+        "url": "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "rawFile": "datasets/real-data/raw/medical-emergency/emergency_care_asha.pdf",
+        "locator": "Chapter 3.2: burns, electrical injuries and referral"
+      },
+      {
+        "title": "Tamil Nadu Health Systems Project — 108 Ambulance",
+        "url": "https://tnhsp.org/pages/view/108_EMS",
+        "rawFile": "datasets/real-data/raw/medical-emergency/tn_ambulance_services.pdf",
+        "locator": "PDF page 1"
+      },
+      {
+        "title": "ERSS — emergency number 112",
+        "url": "https://112.gov.in/about"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India: call 112. The 108 ambulance information here applies to Tamil Nadu.",
+      "hi": "भारत: 112 पर कॉल करें। यहाँ दी गई 108 एम्बुलेंस जानकारी तमिलनाडु के लिए है।",
+      "ta": "இந்தியா: 112ஐ அழைக்கவும். இங்குள்ள 108 ஆம்புலன்ஸ் தகவல் தமிழ்நாட்டிற்கானது."
+    }
+  },
+  {
+    "id": "medical-emergency/maternal-emergency",
+    "categoryId": "medical-emergency",
+    "keywords": [
+      "Pregnancy Emergency"
+    ],
+    "name": "Pregnancy / Maternal Emergency",
+    "help": {
+      "immediateHelp": [
+        "Call 112 for urgent medical help. In Tamil Nadu, you can also call the free 108 ambulance service. Tell the operator your location and follow their instructions.",
+        "Heavy bleeding, seizures, fainting or severe pain during pregnancy or after delivery needs urgent medical assessment. Ask someone to stay with the person and help the ambulance reach the location."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency Response Support System",
+          "number": "112",
+          "available": "24x7"
+        },
+        {
+          "name": "Tamil Nadu 108 Ambulance",
+          "number": "108",
+          "available": "24x7; free in Tamil Nadu"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "https://tnhsp.org/pages/view/108_EMS",
+        "https://112.gov.in/about"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "गर्भावस्था / मातृत्व संबंधी आपातस्थिति",
+        "help": {
+          "immediateHelp": [
+            "तुरंत चिकित्सा सहायता के लिए 112 पर कॉल करें। तमिलनाडु में निःशुल्क 108 एम्बुलेंस को भी कॉल कर सकते हैं। अपना स्थान बताएँ और ऑपरेटर के निर्देश मानें।",
+            "गर्भावस्था में या प्रसव के बाद अधिक रक्तस्राव, दौरे, बेहोशी या तेज दर्द हो तो तुरंत चिकित्सा जाँच जरूरी है। किसी से साथ रहने और एम्बुलेंस को स्थान तक पहुँचाने में मदद करने को कहें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता सेवा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "तमिलनाडु 108 एम्बुलेंस",
+              "number": "108",
+              "available": "24 घंटे; तमिलनाडु में निःशुल्क"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      },
+      "ta": {
+        "name": "கர்ப்பகால / தாய்மை அவசரநிலை",
+        "help": {
+          "immediateHelp": [
+            "அவசர மருத்துவ உதவிக்கு 112ஐ அழைக்கவும். தமிழ்நாட்டில் இலவச 108 ஆம்புலன்ஸையும் அழைக்கலாம். உங்கள் இடத்தைத் தெரிவித்து, அழைப்பு மையத்தின் வழிமுறைகளைப் பின்பற்றுங்கள்.",
+            "கர்ப்பகாலத்தில் அல்லது பிரசவத்திற்குப் பிறகு அதிக இரத்தப்போக்கு, வலிப்பு, மயக்கம் அல்லது கடுமையான வலி இருந்தால் உடனடி மருத்துவப் பரிசோதனை தேவை. ஒருவர் உடன் இருந்து ஆம்புலன்ஸ் இடத்தை அடைய உதவுமாறு கேளுங்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி சேவை",
+              "number": "112",
+              "available": "24 மணி நேரமும்"
+            },
+            {
+              "name": "தமிழ்நாடு 108 ஆம்புலன்ஸ்",
+              "number": "108",
+              "available": "24 மணி நேரமும்; தமிழ்நாட்டில் இலவசம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "MoHFW — ASHA emergency care manual (2021)",
+        "url": "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "rawFile": "datasets/real-data/raw/medical-emergency/emergency_care_asha.pdf",
+        "locator": "Chapter 3.4: pregnancy emergencies and referral"
+      },
+      {
+        "title": "Tamil Nadu Health Systems Project — 108 Ambulance",
+        "url": "https://tnhsp.org/pages/view/108_EMS",
+        "rawFile": "datasets/real-data/raw/medical-emergency/tn_ambulance_services.pdf",
+        "locator": "PDF page 1"
+      },
+      {
+        "title": "ERSS — emergency number 112",
+        "url": "https://112.gov.in/about"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India: call 112. The 108 ambulance information here applies to Tamil Nadu.",
+      "hi": "भारत: 112 पर कॉल करें। यहाँ दी गई 108 एम्बुलेंस जानकारी तमिलनाडु के लिए है।",
+      "ta": "இந்தியா: 112ஐ அழைக்கவும். இங்குள்ள 108 ஆம்புலன்ஸ் தகவல் தமிழ்நாட்டிற்கானது."
+    }
+  },
+  {
+    "id": "medical-emergency/poisoning",
+    "categoryId": "medical-emergency",
+    "keywords": [
+      "Poisoning"
+    ],
+    "name": "Suspected Poisoning",
+    "help": {
+      "immediateHelp": [
+        "Call 112 for urgent medical help. In Tamil Nadu, you can also call the free 108 ambulance service. Tell the operator your location and follow their instructions.",
+        "Get medical help promptly after suspected poisoning. Do not force vomiting or give anything to eat or drink. If safe, keep the substance name or packaging for the medical team."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency Response Support System",
+          "number": "112",
+          "available": "24x7"
+        },
+        {
+          "name": "Tamil Nadu 108 Ambulance",
+          "number": "108",
+          "available": "24x7; free in Tamil Nadu"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "https://tnhsp.org/pages/view/108_EMS",
+        "https://112.gov.in/about",
+        "https://www.nhs.uk/conditions/poisoning/"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "विषाक्त पदार्थ के संपर्क का संदेह",
+        "help": {
+          "immediateHelp": [
+            "तुरंत चिकित्सा सहायता के लिए 112 पर कॉल करें। तमिलनाडु में निःशुल्क 108 एम्बुलेंस को भी कॉल कर सकते हैं। अपना स्थान बताएँ और ऑपरेटर के निर्देश मानें।",
+            "विषाक्त पदार्थ के संपर्क का संदेह हो तो तुरंत चिकित्सा सहायता लें। उल्टी कराने की कोशिश न करें और खाने-पीने को कुछ न दें। सुरक्षित हो तो पदार्थ का नाम या पैकेट चिकित्सा दल के लिए रखें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता सेवा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "तमिलनाडु 108 एम्बुलेंस",
+              "number": "108",
+              "available": "24 घंटे; तमिलनाडु में निःशुल्क"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about",
+            "https://www.nhs.uk/conditions/poisoning/"
+          ]
+        }
+      },
+      "ta": {
+        "name": "விஷப் பாதிப்பு சந்தேகம்",
+        "help": {
+          "immediateHelp": [
+            "அவசர மருத்துவ உதவிக்கு 112ஐ அழைக்கவும். தமிழ்நாட்டில் இலவச 108 ஆம்புலன்ஸையும் அழைக்கலாம். உங்கள் இடத்தைத் தெரிவித்து, அழைப்பு மையத்தின் வழிமுறைகளைப் பின்பற்றுங்கள்.",
+            "விஷப் பாதிப்பு சந்தேகம் இருந்தால் உடனே மருத்துவ உதவி பெறுங்கள். வாந்தி வரவழைக்கவோ உணவு அல்லது பானம் கொடுக்கவோ வேண்டாம். பாதுகாப்பாக முடிந்தால் பொருளின் பெயர் அல்லது பொட்டலத்தை மருத்துவக் குழுவுக்காக வைத்திருங்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி சேவை",
+              "number": "112",
+              "available": "24 மணி நேரமும்"
+            },
+            {
+              "name": "தமிழ்நாடு 108 ஆம்புலன்ஸ்",
+              "number": "108",
+              "available": "24 மணி நேரமும்; தமிழ்நாட்டில் இலவசம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about",
+            "https://www.nhs.uk/conditions/poisoning/"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "MoHFW — ASHA emergency care manual (2021)",
+        "url": "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "rawFile": "datasets/real-data/raw/medical-emergency/emergency_care_asha.pdf",
+        "locator": "Chapter 3.11: poisoning precautions and referral"
+      },
+      {
+        "title": "Tamil Nadu Health Systems Project — 108 Ambulance",
+        "url": "https://tnhsp.org/pages/view/108_EMS",
+        "rawFile": "datasets/real-data/raw/medical-emergency/tn_ambulance_services.pdf",
+        "locator": "PDF page 1"
+      },
+      {
+        "title": "ERSS — emergency number 112",
+        "url": "https://112.gov.in/about"
+      },
+      {
+        "title": "NHS — Poisoning",
+        "url": "https://www.nhs.uk/conditions/poisoning/"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India: call 112. The 108 ambulance information here applies to Tamil Nadu.",
+      "hi": "भारत: 112 पर कॉल करें। यहाँ दी गई 108 एम्बुलेंस जानकारी तमिलनाडु के लिए है।",
+      "ta": "இந்தியா: 112ஐ அழைக்கவும். இங்குள்ள 108 ஆம்புலன்ஸ் தகவல் தமிழ்நாட்டிற்கானது."
+    }
+  },
+  {
+    "id": "medical-emergency/snake-bite",
+    "categoryId": "medical-emergency",
+    "keywords": [
+      "Snake Bite"
+    ],
+    "name": "Snake Bite",
+    "help": {
+      "immediateHelp": [
+        "Call 112 for urgent medical help. In Tamil Nadu, you can also call the free 108 ambulance service. Tell the operator your location and follow their instructions.",
+        "Seek hospital care immediately after a suspected snake bite, even if symptoms are not yet present. Keep the person still; do not cut or suck the wound or tie a tight tourniquet."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency Response Support System",
+          "number": "112",
+          "available": "24x7"
+        },
+        {
+          "name": "Tamil Nadu 108 Ambulance",
+          "number": "108",
+          "available": "24x7; free in Tamil Nadu"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "https://tnhsp.org/pages/view/108_EMS",
+        "https://112.gov.in/about"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "साँप का काटना",
+        "help": {
+          "immediateHelp": [
+            "तुरंत चिकित्सा सहायता के लिए 112 पर कॉल करें। तमिलनाडु में निःशुल्क 108 एम्बुलेंस को भी कॉल कर सकते हैं। अपना स्थान बताएँ और ऑपरेटर के निर्देश मानें।",
+            "साँप के काटने का संदेह हो तो लक्षण न होने पर भी तुरंत अस्पताल की सहायता लें। व्यक्ति को स्थिर रखें; घाव को न काटें, न चूसें और कसकर पट्टी या टूर्निकेट न बाँधें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता सेवा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "तमिलनाडु 108 एम्बुलेंस",
+              "number": "108",
+              "available": "24 घंटे; तमिलनाडु में निःशुल्क"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      },
+      "ta": {
+        "name": "பாம்புக்கடி",
+        "help": {
+          "immediateHelp": [
+            "அவசர மருத்துவ உதவிக்கு 112ஐ அழைக்கவும். தமிழ்நாட்டில் இலவச 108 ஆம்புலன்ஸையும் அழைக்கலாம். உங்கள் இடத்தைத் தெரிவித்து, அழைப்பு மையத்தின் வழிமுறைகளைப் பின்பற்றுங்கள்.",
+            "பாம்புக்கடி சந்தேகம் இருந்தால் அறிகுறிகள் இல்லாவிட்டாலும் உடனடியாக மருத்துவமனை உதவி பெறுங்கள். பாதிக்கப்பட்டவரை அசையாமல் வைத்திருங்கள்; காயத்தை வெட்டவோ உறிஞ்சவோ இறுக்கமான கட்டுப் போடவோ வேண்டாம்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி சேவை",
+              "number": "112",
+              "available": "24 மணி நேரமும்"
+            },
+            {
+              "name": "தமிழ்நாடு 108 ஆம்புலன்ஸ்",
+              "number": "108",
+              "available": "24 மணி நேரமும்; தமிழ்நாட்டில் இலவசம்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+            "https://tnhsp.org/pages/view/108_EMS",
+            "https://112.gov.in/about"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "MoHFW — ASHA emergency care manual (2021)",
+        "url": "https://nhm.hp.gov.in/storage/app/media/uploaded-files/Emergency%20Module%20for%20ASHA_Inside_23%20March%202022.pdf",
+        "rawFile": "datasets/real-data/raw/medical-emergency/emergency_care_asha.pdf",
+        "locator": "Chapter 3.3: snake bites and safe referral"
+      },
+      {
+        "title": "Tamil Nadu Health Systems Project — 108 Ambulance",
+        "url": "https://tnhsp.org/pages/view/108_EMS",
+        "rawFile": "datasets/real-data/raw/medical-emergency/tn_ambulance_services.pdf",
+        "locator": "PDF page 1"
+      },
+      {
+        "title": "ERSS — emergency number 112",
+        "url": "https://112.gov.in/about"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India: call 112. The 108 ambulance information here applies to Tamil Nadu.",
+      "hi": "भारत: 112 पर कॉल करें। यहाँ दी गई 108 एम्बुलेंस जानकारी तमिलनाडु के लिए है।",
+      "ta": "இந்தியா: 112ஐ அழைக்கவும். இங்குள்ள 108 ஆம்புலன்ஸ் தகவல் தமிழ்நாட்டிற்கானது."
+    }
+  },
+  {
+    "id": "medical-emergency/mental-health-crisis",
+    "categoryId": "medical-emergency",
+    "keywords": [
+      "Mental Health Crisis"
+    ],
+    "name": "Mental Health Crisis Support",
+    "help": {
+      "immediateHelp": [
+        "If there is immediate danger or a medical emergency, call 112 now. If safe, ask a trusted person to stay nearby while help is arranged.",
+        "For mental health counselling and support, call Tele MANAS on 14416. This is separate from ambulance dispatch."
+      ],
+      "contacts": [
+        {
+          "name": "Tele MANAS",
+          "number": "14416",
+          "available": "24x7; mental health support"
+        },
+        {
+          "name": "Emergency Response Support System",
+          "number": "112",
+          "available": "24x7"
+        }
+      ],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://telemanas.mohfw.gov.in/home?oai_link_source=model_response_hotline",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118790&lang=2&reg=48",
+        "https://112.gov.in/about",
+        "https://nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20ASHA.pdf"
+      ],
+      "awareness": [
+        "Listen calmly and without judgement. Avoid blame or labelling a person with a diagnosis; a qualified professional should assess persistent symptoms.",
+        "For ongoing stress or distress, ask a local health worker or primary health centre about assessment and continuing support. Keep medicines under the prescriber’s supervision."
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "मानसिक स्वास्थ्य संकट में सहायता",
+        "help": {
+          "immediateHelp": [
+            "तत्काल खतरा या चिकित्सा आपातस्थिति हो तो अभी 112 पर कॉल करें। सुरक्षित हो तो सहायता मिलने तक किसी भरोसेमंद व्यक्ति को पास रहने के लिए कहें।",
+            "मानसिक स्वास्थ्य परामर्श और सहायता के लिए टेली मानस के 14416 पर कॉल करें। यह एम्बुलेंस भेजने की सेवा से अलग है।"
+          ],
+          "contacts": [
+            {
+              "name": "टेली मानस",
+              "number": "14416",
+              "available": "24 घंटे; मानसिक स्वास्थ्य सहायता"
+            },
+            {
+              "name": "आपातकालीन सहायता सेवा",
+              "number": "112",
+              "available": "24 घंटे"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://telemanas.mohfw.gov.in/home?oai_link_source=model_response_hotline",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118790&lang=2&reg=48",
+            "https://112.gov.in/about",
+            "https://nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20ASHA.pdf"
+          ],
+          "awareness": [
+            "शांत रहकर और बिना निर्णय सुनाए बात सुनें। दोष न दें और व्यक्ति को किसी रोग का नाम देकर न पुकारें; लगातार लक्षणों का मूल्यांकन योग्य विशेषज्ञ करे।",
+            "लगातार तनाव या परेशानी के लिए स्थानीय स्वास्थ्य कार्यकर्ता या प्राथमिक स्वास्थ्य केंद्र से मूल्यांकन और निरंतर सहायता के बारे में पूछें। दवाएँ चिकित्सक की देखरेख में लें।"
+          ]
+        }
+      },
+      "ta": {
+        "name": "மனநல நெருக்கடிக்கான உதவி",
+        "help": {
+          "immediateHelp": [
+            "உடனடி ஆபத்து அல்லது மருத்துவ அவசரநிலை இருந்தால் இப்போதே 112ஐ அழைக்கவும். பாதுகாப்பாக இருந்தால் உதவி ஏற்பாடு செய்யப்படும் வரை நம்பகமான ஒருவரை அருகில் இருக்கச் சொல்லுங்கள்.",
+            "மனநல ஆலோசனை மற்றும் உதவிக்கு டெலி மனாஸ் 14416ஐ அழைக்கவும். இது ஆம்புலன்ஸ் அனுப்பும் சேவையிலிருந்து வேறுபட்டது."
+          ],
+          "contacts": [
+            {
+              "name": "டெலி மனாஸ்",
+              "number": "14416",
+              "available": "24 மணி நேரமும்; மனநல உதவி"
+            },
+            {
+              "name": "அவசர உதவி சேவை",
+              "number": "112",
+              "available": "24 மணி நேரமும்"
+            }
+          ],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://telemanas.mohfw.gov.in/home?oai_link_source=model_response_hotline",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118790&lang=2&reg=48",
+            "https://112.gov.in/about",
+            "https://nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20ASHA.pdf"
+          ],
+          "awareness": [
+            "அமைதியாகவும் குற்றம் சாட்டாமலும் கேளுங்கள். ஒருவரை நோய்ப் பெயரால் அடையாளப்படுத்த வேண்டாம்; தொடர்ந்து இருக்கும் அறிகுறிகளைத் தகுதியுள்ள நிபுணர் மதிப்பிட வேண்டும்.",
+            "தொடர்ந்த மன அழுத்தம் அல்லது துயரத்துக்கு மதிப்பீடு மற்றும் தொடர் உதவி பற்றி உள்ளூர் சுகாதாரப் பணியாளர் அல்லது ஆரம்ப சுகாதார நிலையத்திடம் கேளுங்கள். மருத்துவர் மேற்பார்வையில் மருந்துகளைப் பயன்படுத்தவும்."
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "Tele MANAS — Ministry of Health and Family Welfare",
+        "url": "https://telemanas.mohfw.gov.in/home?oai_link_source=model_response_hotline"
+      },
+      {
+        "title": "MoHFW — National Tele Mental Health Programme",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118790&lang=2&reg=48",
+        "rawFile": "datasets/real-data/raw/medical-emergency/mental_health_services.pdf",
+        "locator": "PDF pages 1–2",
+        "publishedOn": "2025-04-04"
+      },
+      {
+        "title": "ERSS — emergency number 112",
+        "url": "https://112.gov.in/about"
+      },
+      {
+        "title": "MoHFW/NHSRC — mental health care and community support for ASHA",
+        "url": "https://nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20ASHA.pdf",
+        "rawFile": "datasets/real-data/raw/medical-emergency/mental_health_asha.pdf",
+        "locator": "Chapters on mental health promotion, first aid and service referral; PDF pages 46–50 on the care team and assessment",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; mental health support and emergency referral.",
+      "hi": "भारत; मानसिक स्वास्थ्य सहायता और आपातकालीन रेफरल।",
+      "ta": "இந்தியா; மனநல உதவி மற்றும் அவசரப் பரிந்துரை."
+    }
+  },
+  {
+    "id": "common-health/mild-headache",
+    "categoryId": "common-health",
+    "keywords": [
+      "Mild Headache"
+    ],
+    "name": "Mild Headache",
+    "help": {
+      "immediateHelp": [
+        "Drink water, eat regularly, and take a break from screens."
+      ],
+      "contacts": [],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.nhs.uk/symptoms/headaches/",
+        "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+      ],
+      "seekHelp": [
+        "Sudden severe headache, weakness, confusion, fever with a stiff neck, or headache after injury needs urgent assessment. Seek care for persistent or worsening headache."
+      ],
+      "medicines": [
+        {
+          "name": "Paracetamol",
+          "purpose": "May relieve mild pain or fever.",
+          "precautions": [
+            "Do not combine products containing paracetamol. Check with a pharmacist if you have liver or kidney disease or heavy alcohol use.",
+            "Follow the label; seek urgent medical advice after an overdose, even if you feel well."
+          ]
+        }
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "हल्का सिरदर्द",
+        "help": {
+          "immediateHelp": [
+            "पानी पिएँ, नियमित समय पर भोजन करें और स्क्रीन से थोड़ी देर का विराम लें।"
+          ],
+          "contacts": [],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.nhs.uk/symptoms/headaches/",
+            "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+          ],
+          "seekHelp": [
+            "अचानक तेज सिरदर्द, कमजोरी, भ्रम, गर्दन में अकड़न के साथ बुखार या चोट लगने के बाद सिरदर्द होने पर तत्काल चिकित्सकीय जाँच की जरूरत है। सिरदर्द बना रहे या बढ़ता जाए तो चिकित्सकीय सहायता लें।"
+          ],
+          "medicines": [
+            {
+              "name": "पैरासिटामोल",
+              "purpose": "हल्के दर्द या बुखार से राहत दे सकता है।",
+              "precautions": [
+                "पैरासिटामोल वाले अलग-अलग उत्पादों को एक साथ न लें। यदि आपको लिवर या किडनी की बीमारी है या आप अधिक शराब पीते हैं, तो फार्मासिस्ट से सलाह लें।",
+                "उत्पाद के लेबल पर दिए निर्देशों का पालन करें। अधिक मात्रा लेने पर तुरंत चिकित्सकीय सलाह लें, भले ही आप ठीक महसूस कर रहे हों।"
+              ]
+            }
+          ]
+        }
+      },
+      "ta": {
+        "name": "லேசான தலைவலி",
+        "help": {
+          "immediateHelp": [
+            "தண்ணீர் குடியுங்கள், நேரத்திற்கு உணவு உண்ணுங்கள், திரைப் பயன்பாட்டில் இடைவேளை எடுங்கள்."
+          ],
+          "contacts": [],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.nhs.uk/symptoms/headaches/",
+            "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+          ],
+          "seekHelp": [
+            "திடீர் கடும் தலைவலி, பலவீனம், குழப்பம், கழுத்து இறுக்கத்துடன் காய்ச்சல் அல்லது காயத்திற்குப் பின் தலைவலிக்கு அவசரப் பரிசோதனை தேவை. நீடிக்கும் அல்லது அதிகரிக்கும் தலைவலிக்கு மருத்துவ உதவி பெறுங்கள்."
+          ],
+          "medicines": [
+            {
+              "name": "பாராசிட்டமால்",
+              "purpose": "லேசான வலி அல்லது காய்ச்சலைக் குறைக்க உதவலாம்.",
+              "precautions": [
+                "பாராசிட்டமால் உள்ள பல மருந்துகளைச் சேர்த்து எடுக்க வேண்டாம். கல்லீரல் அல்லது சிறுநீரக நோய் அல்லது அதிக மது அருந்தும் பழக்கம் இருந்தால் மருந்தாளரிடம் கேளுங்கள்.",
+                "பொட்டல வழிமுறைகளைப் பின்பற்றுங்கள்; அளவுக்கு அதிகமாக எடுத்தால் நன்றாக உணர்ந்தாலும் உடனே மருத்துவ ஆலோசனை பெறுங்கள்."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "NHS — headaches",
+        "url": "https://www.nhs.uk/symptoms/headaches/",
+        "rawFile": "datasets/real-data/raw/common-health/headache_selfcare_nhs.pdf",
+        "locator": "Self-care and when to get medical help"
+      },
+      {
+        "title": "NHS — paracetamol for adults",
+        "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "General adult information; confirm medicine suitability with a pharmacist. Emergency contacts are for India.",
+      "hi": "वयस्कों के लिए सामान्य जानकारी; दवा की उपयुक्तता फार्मासिस्ट से पूछें। आपातकालीन संपर्क भारत के लिए हैं।",
+      "ta": "பெரியவர்களுக்கான பொதுத் தகவல்; மருந்தின் பொருத்தத்தை மருந்தாளரிடம் கேளுங்கள். அவசரத் தொடர்புகள் இந்தியாவிற்கானவை."
+    }
+  },
+  {
+    "id": "common-health/common-cold",
+    "categoryId": "common-health",
+    "keywords": [
+      "Common Cold"
+    ],
+    "name": "Common Cold",
+    "help": {
+      "immediateHelp": [
+        "Rest and drink fluids. Antibiotics do not treat a common cold."
+      ],
+      "contacts": [],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.nhs.uk/conditions/common-cold/",
+        "https://www.nhs.uk/medicines/paracetamol-for-adults/",
+        "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf"
+      ],
+      "seekHelp": [
+        "Get urgent help for breathing difficulty or chest pain. Seek medical advice if fever lasts over 3 days, symptoms worsen, or the cold has not improved after 10 days."
+      ],
+      "medicines": [
+        {
+          "name": "Paracetamol",
+          "purpose": "May relieve mild pain or fever.",
+          "precautions": [
+            "Do not combine products containing paracetamol. Check with a pharmacist if you have liver or kidney disease or heavy alcohol use.",
+            "Follow the label; seek urgent medical advice after an overdose, even if you feel well."
+          ]
+        }
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "सामान्य सर्दी-जुकाम",
+        "help": {
+          "immediateHelp": [
+            "आराम करें और तरल पदार्थ पिएँ। एंटीबायोटिक्स सामान्य सर्दी-जुकाम का इलाज नहीं करते।"
+          ],
+          "contacts": [],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.nhs.uk/conditions/common-cold/",
+            "https://www.nhs.uk/medicines/paracetamol-for-adults/",
+            "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf"
+          ],
+          "seekHelp": [
+            "साँस लेने में कठिनाई या सीने में दर्द होने पर तुरंत सहायता लें। यदि बुखार 3 दिन से अधिक रहे, लक्षण बिगड़ें या 10 दिन बाद भी सर्दी-जुकाम में सुधार न हो, तो चिकित्सकीय सलाह लें।"
+          ],
+          "medicines": [
+            {
+              "name": "पैरासिटामोल",
+              "purpose": "हल्के दर्द या बुखार से राहत दे सकता है।",
+              "precautions": [
+                "पैरासिटामोल वाले अलग-अलग उत्पादों को एक साथ न लें। यदि आपको लिवर या किडनी की बीमारी है या आप अधिक शराब पीते हैं, तो फार्मासिस्ट से सलाह लें।",
+                "उत्पाद के लेबल पर दिए निर्देशों का पालन करें। अधिक मात्रा लेने पर तुरंत चिकित्सकीय सलाह लें, भले ही आप ठीक महसूस कर रहे हों।"
+              ]
+            }
+          ]
+        }
+      },
+      "ta": {
+        "name": "சாதாரண சளி",
+        "help": {
+          "immediateHelp": [
+            "ஓய்வெடுத்து திரவங்கள் அருந்துங்கள். சாதாரண சளிக்கு நுண்ணுயிர் எதிர்ப்பு மருந்துகள் பயனில்லை."
+          ],
+          "contacts": [],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.nhs.uk/conditions/common-cold/",
+            "https://www.nhs.uk/medicines/paracetamol-for-adults/",
+            "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf"
+          ],
+          "seekHelp": [
+            "சுவாசிக்கச் சிரமம் அல்லது நெஞ்சுவலி இருந்தால் அவசர உதவி பெறுங்கள். காய்ச்சல் 3 நாட்களுக்கு மேல் நீடித்தால், அறிகுறிகள் மோசமானால் அல்லது 10 நாட்களுக்குப் பிறகும் சளி குறையாவிட்டால் மருத்துவ ஆலோசனை பெறுங்கள்."
+          ],
+          "medicines": [
+            {
+              "name": "பாராசிட்டமால்",
+              "purpose": "லேசான வலி அல்லது காய்ச்சலைக் குறைக்க உதவலாம்.",
+              "precautions": [
+                "பாராசிட்டமால் உள்ள பல மருந்துகளைச் சேர்த்து எடுக்க வேண்டாம். கல்லீரல் அல்லது சிறுநீரக நோய் அல்லது அதிக மது அருந்தும் பழக்கம் இருந்தால் மருந்தாளரிடம் கேளுங்கள்.",
+                "பொட்டல வழிமுறைகளைப் பின்பற்றுங்கள்; அளவுக்கு அதிகமாக எடுத்தால் நன்றாக உணர்ந்தாலும் உடனே மருத்துவ ஆலோசனை பெறுங்கள்."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "NHS — common cold",
+        "url": "https://www.nhs.uk/conditions/common-cold/"
+      },
+      {
+        "title": "NHS — paracetamol for adults",
+        "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+      },
+      {
+        "title": "NHSRC — Management of Acute Simple Illnesses (December 2022)",
+        "url": "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf",
+        "rawFile": "datasets/real-data/raw/common-health/common_illness_cho_reference_2022.pdf",
+        "locator": "Chapter 3.2: cough/common cold"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "General adult information; confirm medicine suitability with a pharmacist. Emergency contacts are for India.",
+      "hi": "वयस्कों के लिए सामान्य जानकारी; दवा की उपयुक्तता फार्मासिस्ट से पूछें। आपातकालीन संपर्क भारत के लिए हैं।",
+      "ta": "பெரியவர்களுக்கான பொதுத் தகவல்; மருந்தின் பொருத்தத்தை மருந்தாளரிடம் கேளுங்கள். அவசரத் தொடர்புகள் இந்தியாவிற்கானவை."
+    }
+  },
+  {
+    "id": "common-health/diarrhoea",
+    "categoryId": "common-health",
+    "keywords": [
+      "Diarrhoea"
+    ],
+    "name": "Diarrhoea",
+    "help": {
+      "immediateHelp": [
+        "Sip fluids often and eat when able. Wash hands carefully."
+      ],
+      "contacts": [],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/",
+        "https://www.nhs.uk/conditions/dehydration/",
+        "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf"
+      ],
+      "seekHelp": [
+        "Seek urgent care for blood in stool, severe abdominal pain, very little urine, confusion, or inability to keep fluids down. Get advice if diarrhoea lasts over 7 days."
+      ],
+      "medicines": [
+        {
+          "name": "Oral rehydration salts (ORS)",
+          "purpose": "Replace fluids and salts lost through diarrhoea.",
+          "precautions": [
+            "Mix with safe water exactly as the packet directs. Ask a pharmacist about suitability, especially with kidney disease or fluid restrictions."
+          ]
+        }
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "दस्त",
+        "help": {
+          "immediateHelp": [
+            "थोड़ी-थोड़ी मात्रा में बार-बार तरल पदार्थ पिएँ और जब खा सकें तब भोजन करें। हाथ अच्छी तरह धोएँ।"
+          ],
+          "contacts": [],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/",
+            "https://www.nhs.uk/conditions/dehydration/",
+            "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf"
+          ],
+          "seekHelp": [
+            "मल में खून, पेट में तेज दर्द, बहुत कम पेशाब, भ्रम या पिए हुए तरल पदार्थ उल्टी के कारण शरीर में न रुकने पर तुरंत चिकित्सकीय सहायता लें। यदि दस्त 7 दिन से अधिक रहें, तो सलाह लें।"
+          ],
+          "medicines": [
+            {
+              "name": "ओरल रिहाइड्रेशन साल्ट्स (ORS)",
+              "purpose": "दस्त से शरीर में हुई तरल पदार्थों और लवणों की कमी पूरी करते हैं।",
+              "precautions": [
+                "पैकेट पर दिए निर्देशों के अनुसार ही सुरक्षित पानी में मिलाएँ। यह आपके लिए उपयुक्त है या नहीं, इस बारे में फार्मासिस्ट से पूछें, खासकर यदि आपको किडनी की बीमारी है या तरल पदार्थ लेने पर पाबंदी है।"
+              ]
+            }
+          ]
+        }
+      },
+      "ta": {
+        "name": "வயிற்றுப்போக்கு",
+        "help": {
+          "immediateHelp": [
+            "சிறிது சிறிதாக அடிக்கடி திரவங்கள் அருந்தி, முடிந்தபோது உணவு உண்ணுங்கள். கைகளை நன்கு கழுவுங்கள்."
+          ],
+          "contacts": [],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/",
+            "https://www.nhs.uk/conditions/dehydration/",
+            "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf"
+          ],
+          "seekHelp": [
+            "மலத்தில் இரத்தம், கடும் வயிற்றுவலி, மிகக் குறைந்த சிறுநீர், குழப்பம் அல்லது திரவங்கள் தங்காத நிலையில் அவசரச் சிகிச்சை பெறுங்கள். வயிற்றுப்போக்கு 7 நாட்களுக்கு மேல் நீடித்தால் ஆலோசனை பெறுங்கள்."
+          ],
+          "medicines": [
+            {
+              "name": "வாய்வழி நீரேற்ற உப்புகள் (ORS)",
+              "purpose": "வயிற்றுப்போக்கால் இழந்த நீர் மற்றும் உப்புகளை ஈடு செய்யும்.",
+              "precautions": [
+                "பொட்டல வழிமுறைப்படியே பாதுகாப்பான நீரில் கலக்குங்கள். குறிப்பாகச் சிறுநீரக நோய் அல்லது திரவக் கட்டுப்பாடு இருந்தால் பொருத்தத்தை மருந்தாளரிடம் கேளுங்கள்."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "NHS — diarrhoea and vomiting",
+        "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/"
+      },
+      {
+        "title": "NHS — dehydration",
+        "url": "https://www.nhs.uk/conditions/dehydration/"
+      },
+      {
+        "title": "NHSRC — Management of Acute Simple Illnesses (December 2022)",
+        "url": "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf",
+        "rawFile": "datasets/real-data/raw/common-health/common_illness_cho_reference_2022.pdf",
+        "locator": "Chapter 3.5: diarrhoea"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "General adult information; confirm medicine suitability with a pharmacist. Emergency contacts are for India.",
+      "hi": "वयस्कों के लिए सामान्य जानकारी; दवा की उपयुक्तता फार्मासिस्ट से पूछें। आपातकालीन संपर्क भारत के लिए हैं।",
+      "ta": "பெரியவர்களுக்கான பொதுத் தகவல்; மருந்தின் பொருத்தத்தை மருந்தாளரிடம் கேளுங்கள். அவசரத் தொடர்புகள் இந்தியாவிற்கானவை."
+    }
+  },
+  {
+    "id": "common-health/occasional-acidity",
+    "categoryId": "common-health",
+    "keywords": [
+      "Occasional Acidity"
+    ],
+    "name": "Occasional Acidity",
+    "help": {
+      "immediateHelp": [
+        "Avoid foods that trigger symptoms and avoid eating shortly before bed."
+      ],
+      "contacts": [],
+      "rights": [],
+      "schemes": [],
+      "sources": [
+        "https://www.nhs.uk/conditions/indigestion/",
+        "https://www.nhs.uk/medicines/antacids/",
+        "https://www.nhs.uk/symptoms/chest-pain/",
+        "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf"
+      ],
+      "seekHelp": [
+        "Do not assume new chest pain is acidity; seek urgent assessment. Get medical care for trouble swallowing, unexplained weight loss, blood in vomit or stool, or recurring symptoms."
+      ],
+      "medicines": [
+        {
+          "name": "Antacids (for example, calcium carbonate)",
+          "purpose": "May give short-term relief from heartburn.",
+          "precautions": [
+            "Antacids can affect other medicines. Ask about spacing doses and suitability with kidney disease, heart failure, or sodium restrictions. Frequent use needs medical advice."
+          ]
+        }
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "कभी-कभार एसिडिटी",
+        "help": {
+          "immediateHelp": [
+            "जिन खाद्य पदार्थों से लक्षण शुरू होते हैं, उनसे बचें और सोने से थोड़ी देर पहले भोजन न करें।"
+          ],
+          "contacts": [],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.nhs.uk/conditions/indigestion/",
+            "https://www.nhs.uk/medicines/antacids/",
+            "https://www.nhs.uk/symptoms/chest-pain/",
+            "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf"
+          ],
+          "seekHelp": [
+            "सीने में नए दर्द को एसिडिटी न मानें। तुरंत चिकित्सकीय जाँच करवाएँ। निगलने में कठिनाई, बिना स्पष्ट कारण वजन घटना, उल्टी या मल में खून या बार-बार लक्षण होने पर चिकित्सकीय सहायता लें।"
+          ],
+          "medicines": [
+            {
+              "name": "एंटासिड (उदाहरण के लिए, कैल्शियम कार्बोनेट)",
+              "purpose": "सीने में जलन से थोड़े समय के लिए राहत दे सकते हैं।",
+              "precautions": [
+                "एंटासिड दूसरी दवाओं के असर को प्रभावित कर सकते हैं। दवाओं की खुराकों के बीच अंतर रखने और किडनी की बीमारी, हृदय की विफलता या सोडियम पर पाबंदी होने पर इनकी उपयुक्तता के बारे में पूछें। बार-बार उपयोग के लिए चिकित्सकीय सलाह जरूरी है।"
+              ]
+            }
+          ]
+        }
+      },
+      "ta": {
+        "name": "அவ்வப்போது நெஞ்செரிச்சல்",
+        "help": {
+          "immediateHelp": [
+            "அறிகுறிகளைத் தூண்டும் உணவுகளைத் தவிர்த்து, படுக்கைக்குச் செல்லும் முன் உணவு உண்ண வேண்டாம்."
+          ],
+          "contacts": [],
+          "rights": [],
+          "schemes": [],
+          "sources": [
+            "https://www.nhs.uk/conditions/indigestion/",
+            "https://www.nhs.uk/medicines/antacids/",
+            "https://www.nhs.uk/symptoms/chest-pain/",
+            "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf"
+          ],
+          "seekHelp": [
+            "புதிய நெஞ்சுவலியை அமிலத்தன்மை என்று கருத வேண்டாம்; அவசரப் பரிசோதனை பெறுங்கள். விழுங்குவதில் சிரமம், காரணமற்ற எடைக்குறைவு, வாந்தி அல்லது மலத்தில் இரத்தம், அல்லது மீண்டும் வரும் அறிகுறிகளுக்கு மருத்துவ உதவி பெறுங்கள்."
+          ],
+          "medicines": [
+            {
+              "name": "அமிலநீக்கிகள் (எடுத்துக்காட்டு: கால்சியம் கார்பனேட்)",
+              "purpose": "நெஞ்செரிச்சலுக்கு குறுகிய கால நிவாரணம் தரலாம்.",
+              "precautions": [
+                "அமிலநீக்கிகள் பிற மருந்துகளைப் பாதிக்கலாம். மருந்து இடைவெளி மற்றும் சிறுநீரக நோய், இதயச் செயலிழப்பு அல்லது உப்புக் கட்டுப்பாட்டில் பொருத்தத்தைப் பற்றிக் கேளுங்கள். அடிக்கடி பயன்படுத்த மருத்துவ ஆலோசனை தேவை."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "NHS — indigestion",
+        "url": "https://www.nhs.uk/conditions/indigestion/"
+      },
+      {
+        "title": "NHS — antacids",
+        "url": "https://www.nhs.uk/medicines/antacids/"
+      },
+      {
+        "title": "NHS — chest pain",
+        "url": "https://www.nhs.uk/symptoms/chest-pain/"
+      },
+      {
+        "title": "NHSRC — Management of Acute Simple Illnesses (December 2022)",
+        "url": "https://nhsrcindia.org/sites/default/files/2023-04/Supplementary-Module-Book-%28update%29_Print%20Ready%20File.pdf",
+        "rawFile": "datasets/real-data/raw/common-health/common_illness_cho_reference_2022.pdf",
+        "locator": "Chapter 3.8: dyspepsia"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "General adult information; confirm medicine suitability with a pharmacist. Emergency contacts are for India.",
+      "hi": "वयस्कों के लिए सामान्य जानकारी; दवा की उपयुक्तता फार्मासिस्ट से पूछें। आपातकालीन संपर्क भारत के लिए हैं।",
+      "ta": "பெரியவர்களுக்கான பொதுத் தகவல்; மருந்தின் பொருத்தத்தை மருந்தாளரிடம் கேளுங்கள். அவசரத் தொடர்புகள் இந்தியாவிற்கானவை."
+    }
+  }
+]

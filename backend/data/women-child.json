@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "women-support/violence-and-domestic-abuse",
+    "categoryId": "women-support",
+    "keywords": [
+      "Violence",
+      "Domestic Issue"
+    ],
+    "name": "Violence or domestic concerns - support",
+    "help": {
+      "immediateHelp": [
+        "For immediate danger, call 112. Move to a safer place if you can do so without increasing the risk.",
+        "Call 181 to discuss the situation and request a One Stop Centre referral for medical, legal, counselling or shelter assistance.",
+        "Use the official NCW complaint portal for a women-rights complaint. Share incident details and any existing documents through that portal, rather than in Bharat Help."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency response - immediate danger",
+          "number": "112",
+          "available": "24 hours"
+        },
+        {
+          "name": "Women Helpline",
+          "number": "181",
+          "available": "24 hours; except West Bengal"
+        }
+      ],
+      "rights": [
+        "NCW considers domestic-violence complaints within its mandate; submitting a complaint does not guarantee acceptance or a particular remedy."
+      ],
+      "schemes": [
+        {
+          "name": "One Stop Centre (Sakhi)",
+          "description": "Ask 181 for a nearby centre providing medical, police, legal, counselling and temporary-shelter support. Local staff assess the assistance needed."
+        }
+      ],
+      "sources": [
+        "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+        "https://www.wcd.gov.in/offerings/one-stop-centre-scheme",
+        "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+        "https://ncwapps.nic.in/onlinecomplaintsv2/"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "हिंसा या घरेलू समस्याओं में सहायता",
+        "help": {
+          "immediateHelp": [
+            "तत्काल खतरे में 112 पर कॉल करें। जोखिम बढ़ाए बिना संभव हो तो सुरक्षित जगह जाएँ।",
+            "स्थिति बताने और चिकित्सा, कानूनी, परामर्श या आश्रय सहायता के लिए वन स्टॉप सेंटर से जोड़ने हेतु 181 पर कॉल करें।",
+            "महिला अधिकारों के उल्लंघन की शिकायत के लिए आधिकारिक NCW पोर्टल इस्तेमाल करें। घटना का विवरण और उपलब्ध दस्तावेज उसी पोर्टल पर दें, भारत हेल्प में नहीं।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता - तत्काल खतरा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "महिला हेल्पलाइन",
+              "number": "181",
+              "available": "24 घंटे; पश्चिम बंगाल को छोड़कर"
+            }
+          ],
+          "rights": [
+            "NCW अपने अधिकार क्षेत्र के अनुसार घरेलू हिंसा की शिकायतों पर विचार करता है; शिकायत देने से स्वीकृति या किसी निश्चित राहत की गारंटी नहीं होती।"
+          ],
+          "schemes": [
+            {
+              "name": "वन स्टॉप सेंटर (सखी)",
+              "description": "चिकित्सा, पुलिस, कानूनी, परामर्श और अस्थायी आश्रय सहायता वाले नजदीकी केंद्र के लिए 181 पर पूछें। स्थानीय कर्मचारी जरूरत के अनुसार सहायता तय करते हैं।"
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+            "https://www.wcd.gov.in/offerings/one-stop-centre-scheme",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/"
+          ]
+        }
+      },
+      "ta": {
+        "name": "வன்முறை அல்லது குடும்பப் பிரச்சினைகளுக்கான உதவி",
+        "help": {
+          "immediateHelp": [
+            "உடனடி ஆபத்து இருந்தால் 112-ஐ அழையுங்கள். ஆபத்தை அதிகரிக்காமல் முடிந்தால் பாதுகாப்பான இடத்திற்குச் செல்லுங்கள்.",
+            "நிலைமையை விளக்கி மருத்துவம், சட்டம், ஆலோசனை அல்லது தங்குமிட உதவிக்கு ஒருங்கிணைந்த உதவி மையத்துடன் இணைய 181-ஐ அழையுங்கள்.",
+            "பெண்களின் உரிமை மீறல் குறித்த புகாரை அதிகாரப்பூர்வ தேசிய மகளிர் ஆணைய இணையதளத்தில் அளிக்கலாம். சம்பவ விவரங்களையும் உள்ள ஆவணங்களையும் அந்தத் தளத்தில் மட்டும் சமர்ப்பியுங்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி - உடனடி ஆபத்து",
+              "number": "112",
+              "available": "24 மணி நேரம்"
+            },
+            {
+              "name": "மகளிர் உதவி எண்",
+              "number": "181",
+              "available": "24 மணி நேரம்; மேற்கு வங்கம் தவிர"
+            }
+          ],
+          "rights": [
+            "தேசிய மகளிர் ஆணையம் தனது அதிகார வரம்புக்குள் குடும்ப வன்முறை புகார்களைப் பரிசீலிக்கிறது; புகார் அளிப்பது ஏற்றுக்கொள்ளப்படுவதையோ குறிப்பிட்ட நிவாரணத்தையோ உறுதி செய்யாது."
+          ],
+          "schemes": [
+            {
+              "name": "ஒருங்கிணைந்த உதவி மையம் (சகி)",
+              "description": "மருத்துவம், காவல், சட்டம், ஆலோசனை மற்றும் தற்காலிகத் தங்குமிட உதவி வழங்கும் அருகிலுள்ள மையத்தைப் பற்றி 181-இல் கேளுங்கள். தேவையான உதவியை உள்ளூர் பணியாளர்கள் மதிப்பிடுவார்கள்."
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+            "https://www.wcd.gov.in/offerings/one-stop-centre-scheme",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Women Helpline 181",
+        "url": "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+        "locator": "Brief; services; State/UT availability FAQ",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Mission Shakti Guidelines",
+        "url": "https://wcd.gov.in/images/uploaded/1710063267_AuAgeNDvb3.pdf",
+        "locator": "PDF pages 10-14: sections 2.1.1 and 2.1.2; the Women Helpline referral to Dowry Prohibition and Protection Officers appears on PDF page 13. Official WCD document link opened successfully; the former Mission Shakti host returned HTTP 403. Service availability is checked against the current WCD pages rather than inferred from this 2022 funding document.",
+        "rawFile": "datasets/real-data/raw/woman-support/woman_helpline_guidelines.pdf",
+        "publishedOn": "2022-07-14",
+        "reviewedOn": "2026-10-24",
+        "originalUrl": "https://missionshakti.wcd.gov.in/public/documents/whatsnew/Mission_Shakti_Guidelines.pdf"
+      },
+      {
+        "title": "NCW complaint registration FAQ",
+        "url": "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+        "locator": "Questions 1-5, 9 and 10",
+        "rawFile": "datasets/real-data/raw/woman-support/ncw_complaint_guidance_summary.txt",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "WCD: One Stop Centre services",
+        "url": "https://www.wcd.gov.in/offerings/one-stop-centre-scheme",
+        "locator": "Brief; medical, legal, police, counselling and shelter support",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "WCD: directory of 770 One Stop Centres",
+        "url": "https://wcd.gov.in/documents/uploaded/1719920005_9NAs3KlT9d.xlsx",
+        "locator": "Sheet 770 Directory; Tamil Nadu entries from row 566. Snapshot used only to establish directory coverage; old addresses and staff mobiles are not published.",
+        "rawFile": "datasets/real-data/raw/woman-support/one_stop_centres.xlsx",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "NCW official complaint registration and status portal",
+        "locator": "Public Register Complaint link; sign-in is for tracking an accepted complaint. Landing page and linked FAQ reviewed without submitting a complaint.",
+        "url": "https://ncwapps.nic.in/onlinecomplaintsv2/",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; Women Helpline 181 is listed by WCD as operational except in West Bengal. Confirm the nearest centre through the helpline before travelling.",
+      "hi": "भारत; महिला एवं बाल विकास मंत्रालय के अनुसार पश्चिम बंगाल को छोड़कर महिला हेल्पलाइन 181 चालू है। जाने से पहले हेल्पलाइन से नजदीकी केंद्र की पुष्टि करें।",
+      "ta": "இந்தியா; மேற்கு வங்கத்தைத் தவிர மற்ற பகுதிகளில் 181 மகளிர் உதவி எண் செயல்படுவதாக மகளிர் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகம் கூறுகிறது. பயணத்திற்கு முன் அருகிலுள்ள மையத்தை உதவி எண் மூலம் உறுதிப்படுத்துங்கள்."
+    }
+  },
+  {
+    "id": "women-support/workplace-sexual-harassment",
+    "categoryId": "women-support",
+    "keywords": [
+      "Workplace"
+    ],
+    "name": "Workplace sexual harassment - SHe-Box",
+    "help": {
+      "immediateHelp": [
+        "For sexual harassment at work, open the official SHe-Box source below to register a complaint and follow its current instructions.",
+        "Ask your workplace Internal Committee or the district Local Committee about the appropriate complaint route. SHe-Box lists committee details.",
+        "Keep incident dates, messages and other available supporting material for the official complaint. For wider support or a referral, call 181."
+      ],
+      "contacts": [
+        {
+          "name": "Women Helpline",
+          "number": "181",
+          "available": "24 hours; except West Bengal"
+        }
+      ],
+      "rights": [
+        "The workplace sexual-harassment law provides complaint mechanisms through Internal and Local Committees; the relevant committee assesses each complaint."
+      ],
+      "schemes": [],
+      "sources": [
+        "https://shebox.wcd.gov.in/",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247562&lang=1&reg=3",
+        "https://www.wcd.gov.in/offerings/women--helpline--scheme"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "कार्यस्थल पर यौन उत्पीड़न - शी-बॉक्स",
+        "help": {
+          "immediateHelp": [
+            "कार्यस्थल पर यौन उत्पीड़न की शिकायत दर्ज करने के लिए नीचे दिया आधिकारिक शी-बॉक्स स्रोत खोलें और मौजूदा निर्देशों का पालन करें।",
+            "सही शिकायत प्रक्रिया के लिए कार्यस्थल की आंतरिक समिति या जिले की स्थानीय समिति से पूछें। शी-बॉक्स पर समितियों का विवरण उपलब्ध है।",
+            "आधिकारिक शिकायत के लिए घटना की तारीखें, संदेश और उपलब्ध सहायक सामग्री सुरक्षित रखें। अन्य सहायता या रेफरल के लिए 181 पर कॉल करें।"
+          ],
+          "contacts": [
+            {
+              "name": "महिला हेल्पलाइन",
+              "number": "181",
+              "available": "24 घंटे; पश्चिम बंगाल को छोड़कर"
+            }
+          ],
+          "rights": [
+            "कार्यस्थल यौन उत्पीड़न कानून आंतरिक और स्थानीय समितियों के माध्यम से शिकायत की व्यवस्था देता है; संबंधित समिति प्रत्येक शिकायत का आकलन करती है।"
+          ],
+          "schemes": [],
+          "sources": [
+            "https://shebox.wcd.gov.in/",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247562&lang=1&reg=3",
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme"
+          ]
+        }
+      },
+      "ta": {
+        "name": "பணியிடப் பாலியல் துன்புறுத்தல் - ஷீ-பாக்ஸ்",
+        "help": {
+          "immediateHelp": [
+            "பணியிடப் பாலியல் துன்புறுத்தல் புகாரை அளிக்க கீழுள்ள அதிகாரப்பூர்வ ஷீ-பாக்ஸ் இணைப்பைத் திறந்து தற்போதைய வழிமுறைகளைப் பின்பற்றுங்கள்.",
+            "பொருத்தமான புகார் வழியை அறிய பணியிட உள் குழு அல்லது மாவட்ட உள்ளூர் குழுவிடம் கேளுங்கள். ஷீ-பாக்ஸில் குழு விவரங்கள் உள்ளன.",
+            "அதிகாரப்பூர்வ புகாருக்காக சம்பவத் தேதிகள், செய்திகள் மற்றும் உள்ள ஆதாரங்களைப் பாதுகாத்து வையுங்கள். கூடுதல் உதவி அல்லது பரிந்துரைக்கு 181-ஐ அழையுங்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "மகளிர் உதவி எண்",
+              "number": "181",
+              "available": "24 மணி நேரம்; மேற்கு வங்கம் தவிர"
+            }
+          ],
+          "rights": [
+            "பணியிடப் பாலியல் துன்புறுத்தல் சட்டம் உள் மற்றும் உள்ளூர் குழுக்கள் மூலம் புகார் அளிக்கும் வழிகளை வழங்குகிறது; உரிய குழு ஒவ்வொரு புகாரையும் மதிப்பிடுகிறது."
+          ],
+          "schemes": [],
+          "sources": [
+            "https://shebox.wcd.gov.in/",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247562&lang=1&reg=3",
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Women Helpline 181",
+        "url": "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+        "locator": "Brief; services; State/UT availability FAQ",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Mission Shakti Guidelines",
+        "url": "https://wcd.gov.in/images/uploaded/1710063267_AuAgeNDvb3.pdf",
+        "locator": "PDF pages 10-14: sections 2.1.1 and 2.1.2; the Women Helpline referral to Dowry Prohibition and Protection Officers appears on PDF page 13. Official WCD document link opened successfully; the former Mission Shakti host returned HTTP 403. Service availability is checked against the current WCD pages rather than inferred from this 2022 funding document.",
+        "rawFile": "datasets/real-data/raw/woman-support/woman_helpline_guidelines.pdf",
+        "publishedOn": "2022-07-14",
+        "reviewedOn": "2026-10-24",
+        "originalUrl": "https://missionshakti.wcd.gov.in/public/documents/whatsnew/Mission_Shakti_Guidelines.pdf"
+      },
+      {
+        "title": "WCD/PIB: SHe-Box implementation update",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247562&lang=1&reg=3",
+        "locator": "Portal address; Internal and Local Committee directory; district access",
+        "publishedOn": "2026-04-01",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "SHe-Box official portal",
+        "url": "https://shebox.wcd.gov.in/",
+        "locator": "Domain confirmed by the WCD/PIB release; automated access returned HTTP 403, so a complaint submission was not tested.",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; SHe-Box provides workplace Internal Committee and district Local Committee details. WCD lists Women Helpline 181 as operational except in West Bengal.",
+      "hi": "भारत; शी-बॉक्स पर कार्यस्थल की आंतरिक समितियों और जिले की स्थानीय समितियों का विवरण मिलता है। WCD के अनुसार पश्चिम बंगाल को छोड़कर महिला हेल्पलाइन 181 चालू है।",
+      "ta": "இந்தியா; ஷீ-பாக்ஸில் பணியிட உள் குழுக்கள் மற்றும் மாவட்ட உள்ளூர் குழுக்களின் விவரங்கள் உள்ளன. மேற்கு வங்கத்தைத் தவிர மற்ற பகுதிகளில் 181 மகளிர் உதவி எண் செயல்படுவதாக அமைச்சகம் கூறுகிறது."
+    }
+  },
+  {
+    "id": "women-support/harassment-threats-and-stalking",
+    "categoryId": "women-support",
+    "keywords": [
+      "Harassment",
+      "Threat",
+      "Stalking"
+    ],
+    "name": "Harassment, threats and stalking support",
+    "help": {
+      "immediateHelp": [
+        "If someone is following you or threatening immediate harm, call 112 and give your current location.",
+        "Call 181 for support and a referral to police assistance, counselling or a One Stop Centre according to the situation.",
+        "For an NCW complaint, provide a clear incident description, the help requested and supporting material where available using its official complaint system."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency response - immediate danger",
+          "number": "112",
+          "available": "24 hours"
+        },
+        {
+          "name": "Women Helpline",
+          "number": "181",
+          "available": "24 hours; except West Bengal"
+        }
+      ],
+      "rights": [
+        "NCW lists sexual harassment and stalking among its complaint categories; it checks whether a complaint falls within its mandate."
+      ],
+      "schemes": [
+        {
+          "name": "One Stop Centre (Sakhi)",
+          "description": "Ask 181 for a nearby centre providing medical, police, legal, counselling and temporary-shelter support. Local staff assess the assistance needed."
+        }
+      ],
+      "sources": [
+        "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+        "https://www.wcd.gov.in/offerings/one-stop-centre-scheme",
+        "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+        "https://ncwapps.nic.in/onlinecomplaintsv2/"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "उत्पीड़न, धमकी और पीछा किए जाने पर सहायता",
+        "help": {
+          "immediateHelp": [
+            "कोई पीछा कर रहा हो या तत्काल नुकसान की धमकी दे रहा हो तो 112 पर कॉल करके अपनी मौजूदा जगह बताएँ।",
+            "स्थिति के अनुसार पुलिस सहायता, परामर्श या वन स्टॉप सेंटर से जुड़ने और सहायता पाने के लिए 181 पर कॉल करें।",
+            "NCW की आधिकारिक शिकायत प्रणाली में घटना का स्पष्ट विवरण, अपेक्षित सहायता और उपलब्ध सहायक सामग्री दें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता - तत्काल खतरा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "महिला हेल्पलाइन",
+              "number": "181",
+              "available": "24 घंटे; पश्चिम बंगाल को छोड़कर"
+            }
+          ],
+          "rights": [
+            "NCW की शिकायत श्रेणियों में यौन उत्पीड़न और पीछा करना शामिल हैं; वह जाँचता है कि शिकायत उसके अधिकार क्षेत्र में है या नहीं।"
+          ],
+          "schemes": [
+            {
+              "name": "वन स्टॉप सेंटर (सखी)",
+              "description": "चिकित्सा, पुलिस, कानूनी, परामर्श और अस्थायी आश्रय सहायता वाले नजदीकी केंद्र के लिए 181 पर पूछें। स्थानीय कर्मचारी जरूरत के अनुसार सहायता तय करते हैं।"
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+            "https://www.wcd.gov.in/offerings/one-stop-centre-scheme",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/"
+          ]
+        }
+      },
+      "ta": {
+        "name": "துன்புறுத்தல், மிரட்டல் மற்றும் பின்தொடர்தலுக்கான உதவி",
+        "help": {
+          "immediateHelp": [
+            "யாராவது பின்தொடர்ந்தாலோ உடனடியாகத் தீங்கு செய்வதாக மிரட்டினாலோ 112-ஐ அழைத்து தற்போதைய இடத்தைக் கூறுங்கள்.",
+            "நிலைமைக்கு ஏற்ப காவல் உதவி, ஆலோசனை அல்லது ஒருங்கிணைந்த உதவி மையத்துடன் இணைய 181-ஐ அழையுங்கள்.",
+            "தேசிய மகளிர் ஆணையத்தின் அதிகாரப்பூர்வ புகார் அமைப்பில் சம்பவ விவரம், வேண்டிய உதவி மற்றும் உள்ள ஆதாரங்களைத் தெளிவாக அளியுங்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி - உடனடி ஆபத்து",
+              "number": "112",
+              "available": "24 மணி நேரம்"
+            },
+            {
+              "name": "மகளிர் உதவி எண்",
+              "number": "181",
+              "available": "24 மணி நேரம்; மேற்கு வங்கம் தவிர"
+            }
+          ],
+          "rights": [
+            "தேசிய மகளிர் ஆணையத்தின் புகார் வகைகளில் பாலியல் துன்புறுத்தலும் பின்தொடர்தலும் அடங்கும்; புகார் தனது அதிகார வரம்பில் உள்ளதா என்பதை ஆணையம் பரிசீலிக்கும்."
+          ],
+          "schemes": [
+            {
+              "name": "ஒருங்கிணைந்த உதவி மையம் (சகி)",
+              "description": "மருத்துவம், காவல், சட்டம், ஆலோசனை மற்றும் தற்காலிகத் தங்குமிட உதவி வழங்கும் அருகிலுள்ள மையத்தைப் பற்றி 181-இல் கேளுங்கள். தேவையான உதவியை உள்ளூர் பணியாளர்கள் மதிப்பிடுவார்கள்."
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+            "https://www.wcd.gov.in/offerings/one-stop-centre-scheme",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Women Helpline 181",
+        "url": "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+        "locator": "Brief; services; State/UT availability FAQ",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Mission Shakti Guidelines",
+        "url": "https://wcd.gov.in/images/uploaded/1710063267_AuAgeNDvb3.pdf",
+        "locator": "PDF pages 10-14: sections 2.1.1 and 2.1.2; the Women Helpline referral to Dowry Prohibition and Protection Officers appears on PDF page 13. Official WCD document link opened successfully; the former Mission Shakti host returned HTTP 403. Service availability is checked against the current WCD pages rather than inferred from this 2022 funding document.",
+        "rawFile": "datasets/real-data/raw/woman-support/woman_helpline_guidelines.pdf",
+        "publishedOn": "2022-07-14",
+        "reviewedOn": "2026-10-24",
+        "originalUrl": "https://missionshakti.wcd.gov.in/public/documents/whatsnew/Mission_Shakti_Guidelines.pdf"
+      },
+      {
+        "title": "NCW complaint registration FAQ",
+        "url": "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+        "locator": "Questions 1-5, 9 and 10",
+        "rawFile": "datasets/real-data/raw/woman-support/ncw_complaint_guidance_summary.txt",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "WCD: One Stop Centre services",
+        "locator": "Brief; medical, legal, police, psychological, counselling and temporary-shelter support. Current page reviewed; no old staff mobile numbers are republished.",
+        "url": "https://www.wcd.gov.in/offerings/one-stop-centre-scheme",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "NCW official complaint registration and status portal",
+        "locator": "Public Register Complaint link; sign-in is for tracking an accepted complaint. Landing page and linked FAQ reviewed without submitting a complaint.",
+        "url": "https://ncwapps.nic.in/onlinecomplaintsv2/",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; Women Helpline 181 is listed by WCD as operational except in West Bengal. Confirm the nearest centre through the helpline before travelling.",
+      "hi": "भारत; महिला एवं बाल विकास मंत्रालय के अनुसार पश्चिम बंगाल को छोड़कर महिला हेल्पलाइन 181 चालू है। जाने से पहले हेल्पलाइन से नजदीकी केंद्र की पुष्टि करें।",
+      "ta": "இந்தியா; மேற்கு வங்கத்தைத் தவிர மற்ற பகுதிகளில் 181 மகளிர் உதவி எண் செயல்படுவதாக மகளிர் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகம் கூறுகிறது. பயணத்திற்கு முன் அருகிலுள்ள மையத்தை உதவி எண் மூலம் உறுதிப்படுத்துங்கள்."
+    }
+  },
+  {
+    "id": "women-support/dowry-harassment",
+    "categoryId": "women-support",
+    "keywords": [
+      "Dowry"
+    ],
+    "name": "Dowry harassment - support and reporting",
+    "help": {
+      "immediateHelp": [
+        "If dowry demands involve immediate threats or violence, call 112 for emergency assistance.",
+        "Call 181 and ask for local support, a Protection Officer or Dowry Prohibition Officer referral, and legal guidance.",
+        "Dowry harassment can be raised through the official NCW complaint system. Include the incident details and available supporting documents."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency response - immediate danger",
+          "number": "112",
+          "available": "24 hours"
+        },
+        {
+          "name": "Women Helpline",
+          "number": "181",
+          "available": "24 hours; except West Bengal"
+        }
+      ],
+      "rights": [
+        "NCW accepts dowry-harassment matters for scrutiny within its mandate. Ask the referred legal service about remedies that apply to your circumstances."
+      ],
+      "schemes": [
+        {
+          "name": "One Stop Centre (Sakhi)",
+          "description": "Ask 181 for a nearby centre providing medical, police, legal, counselling and temporary-shelter support. Local staff assess the assistance needed."
+        }
+      ],
+      "sources": [
+        "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+        "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+        "https://ncwapps.nic.in/onlinecomplaintsv2/"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "दहेज उत्पीड़न - सहायता और शिकायत",
+        "help": {
+          "immediateHelp": [
+            "दहेज की माँग के साथ तत्काल धमकी या हिंसा हो तो आपातकालीन सहायता के लिए 112 पर कॉल करें।",
+            "181 पर कॉल करके स्थानीय सहायता, संरक्षण अधिकारी या दहेज निषेध अधिकारी से जुड़ने और कानूनी मार्गदर्शन के लिए पूछें।",
+            "दहेज उत्पीड़न की शिकायत आधिकारिक NCW प्रणाली में दी जा सकती है। घटना का विवरण और उपलब्ध सहायक दस्तावेज शामिल करें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता - तत्काल खतरा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "महिला हेल्पलाइन",
+              "number": "181",
+              "available": "24 घंटे; पश्चिम बंगाल को छोड़कर"
+            }
+          ],
+          "rights": [
+            "NCW अपने अधिकार क्षेत्र के अनुसार दहेज उत्पीड़न की शिकायतों की जाँच करता है। आपकी स्थिति पर लागू उपायों के बारे में संबंधित कानूनी सेवा से पूछें।"
+          ],
+          "schemes": [
+            {
+              "name": "वन स्टॉप सेंटर (सखी)",
+              "description": "चिकित्सा, पुलिस, कानूनी, परामर्श और अस्थायी आश्रय सहायता वाले नजदीकी केंद्र के लिए 181 पर पूछें। स्थानीय कर्मचारी जरूरत के अनुसार सहायता तय करते हैं।"
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/"
+          ]
+        }
+      },
+      "ta": {
+        "name": "வரதட்சணைத் துன்புறுத்தல் - உதவி மற்றும் புகார்",
+        "help": {
+          "immediateHelp": [
+            "வரதட்சணைக் கோரிக்கையுடன் உடனடி மிரட்டலோ வன்முறையோ இருந்தால் அவசர உதவிக்கு 112-ஐ அழையுங்கள்.",
+            "181-ஐ அழைத்து உள்ளூர் உதவி, பாதுகாப்பு அலுவலர் அல்லது வரதட்சணைத் தடுப்பு அலுவலருடன் இணைப்பு மற்றும் சட்ட வழிகாட்டுதல் கேளுங்கள்.",
+            "வரதட்சணைத் துன்புறுத்தல் குறித்து தேசிய மகளிர் ஆணையத்தின் அதிகாரப்பூர்வ அமைப்பில் புகார் அளிக்கலாம். சம்பவ விவரங்களையும் உள்ள ஆதார ஆவணங்களையும் சேருங்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி - உடனடி ஆபத்து",
+              "number": "112",
+              "available": "24 மணி நேரம்"
+            },
+            {
+              "name": "மகளிர் உதவி எண்",
+              "number": "181",
+              "available": "24 மணி நேரம்; மேற்கு வங்கம் தவிர"
+            }
+          ],
+          "rights": [
+            "தேசிய மகளிர் ஆணையம் தனது அதிகார வரம்புக்குள் வரதட்சணைத் துன்புறுத்தல் புகார்களைப் பரிசீலிக்கிறது. உங்கள் நிலைக்குப் பொருந்தும் நிவாரணங்களைப் பரிந்துரைக்கப்பட்ட சட்ட உதவிச் சேவையிடம் கேளுங்கள்."
+          ],
+          "schemes": [
+            {
+              "name": "ஒருங்கிணைந்த உதவி மையம் (சகி)",
+              "description": "மருத்துவம், காவல், சட்டம், ஆலோசனை மற்றும் தற்காலிகத் தங்குமிட உதவி வழங்கும் அருகிலுள்ள மையத்தைப் பற்றி 181-இல் கேளுங்கள். தேவையான உதவியை உள்ளூர் பணியாளர்கள் மதிப்பிடுவார்கள்."
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Women Helpline 181",
+        "url": "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+        "locator": "Brief; services; State/UT availability FAQ",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Mission Shakti Guidelines",
+        "url": "https://wcd.gov.in/images/uploaded/1710063267_AuAgeNDvb3.pdf",
+        "locator": "PDF pages 10-14: sections 2.1.1 and 2.1.2; the Women Helpline referral to Dowry Prohibition and Protection Officers appears on PDF page 13. Official WCD document link opened successfully; the former Mission Shakti host returned HTTP 403. Service availability is checked against the current WCD pages rather than inferred from this 2022 funding document.",
+        "rawFile": "datasets/real-data/raw/woman-support/woman_helpline_guidelines.pdf",
+        "publishedOn": "2022-07-14",
+        "reviewedOn": "2026-10-24",
+        "originalUrl": "https://missionshakti.wcd.gov.in/public/documents/whatsnew/Mission_Shakti_Guidelines.pdf"
+      },
+      {
+        "title": "NCW complaint registration FAQ",
+        "url": "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+        "locator": "Questions 1-5, 9 and 10",
+        "rawFile": "datasets/real-data/raw/woman-support/ncw_complaint_guidance_summary.txt",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "NCW official complaint registration and status portal",
+        "locator": "Public Register Complaint link; sign-in is for tracking an accepted complaint. Landing page and linked FAQ reviewed without submitting a complaint.",
+        "url": "https://ncwapps.nic.in/onlinecomplaintsv2/",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; Women Helpline 181 is listed by WCD as operational except in West Bengal. Confirm the nearest centre through the helpline before travelling.",
+      "hi": "भारत; महिला एवं बाल विकास मंत्रालय के अनुसार पश्चिम बंगाल को छोड़कर महिला हेल्पलाइन 181 चालू है। जाने से पहले हेल्पलाइन से नजदीकी केंद्र की पुष्टि करें।",
+      "ta": "இந்தியா; மேற்கு வங்கத்தைத் தவிர மற்ற பகுதிகளில் 181 மகளிர் உதவி எண் செயல்படுவதாக மகளிர் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகம் கூறுகிறது. பயணத்திற்கு முன் அருகிலுள்ள மையத்தை உதவி எண் மூலம் உறுதிப்படுத்துங்கள்."
+    }
+  },
+  {
+    "id": "women-support/online-abuse-against-women",
+    "categoryId": "women-support",
+    "keywords": [
+      "Online Abuse"
+    ],
+    "name": "Online abuse against women - reporting routes",
+    "help": {
+      "immediateHelp": [
+        "For an immediate physical threat, call 112. For support and a local referral, call 181.",
+        "Use the National Cyber Crime Reporting Portal for an online crime and follow the appropriate reporting category. Anonymous reporting is not available for every type of complaint.",
+        "NCW also lists cybercrimes against women as a complaint category. Keep complaint credentials and evidence within the official reporting services."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency response - immediate danger",
+          "number": "112",
+          "available": "24 hours"
+        },
+        {
+          "name": "Women Helpline",
+          "number": "181",
+          "available": "24 hours; except West Bengal"
+        }
+      ],
+      "rights": [
+        "An online complaint is assessed by the receiving authority; Bharat Help does not register a police complaint or replace emergency assistance."
+      ],
+      "schemes": [],
+      "sources": [
+        "https://cybercrime.gov.in/",
+        "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+        "https://ncwapps.nic.in/onlinecomplaintsv2/",
+        "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287039&lang=1&reg=1"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "महिलाओं के विरुद्ध ऑनलाइन उत्पीड़न - शिकायत के रास्ते",
+        "help": {
+          "immediateHelp": [
+            "तत्काल शारीरिक खतरे में 112 पर कॉल करें। सहायता और स्थानीय रेफरल के लिए 181 पर कॉल करें।",
+            "ऑनलाइन अपराध की शिकायत राष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल की सही श्रेणी में करें। हर प्रकार की शिकायत गुमनाम रूप से नहीं दी जा सकती।",
+            "महिलाओं के विरुद्ध साइबर अपराध NCW की शिकायत श्रेणियों में भी है। शिकायत के लॉगिन विवरण और प्रमाण आधिकारिक सेवाओं में ही रखें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता - तत्काल खतरा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "महिला हेल्पलाइन",
+              "number": "181",
+              "available": "24 घंटे; पश्चिम बंगाल को छोड़कर"
+            }
+          ],
+          "rights": [
+            "ऑनलाइन शिकायत का आकलन संबंधित प्राधिकरण करता है; भारत हेल्प पुलिस शिकायत दर्ज नहीं करता और आपातकालीन सहायता का विकल्प नहीं है।"
+          ],
+          "schemes": [],
+          "sources": [
+            "https://cybercrime.gov.in/",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/",
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287039&lang=1&reg=1"
+          ]
+        }
+      },
+      "ta": {
+        "name": "பெண்களுக்கு எதிரான இணையத் துன்புறுத்தல் - புகார் வழிகள்",
+        "help": {
+          "immediateHelp": [
+            "உடனடி உடல் ஆபத்து இருந்தால் 112-ஐ அழையுங்கள். ஆதரவு மற்றும் உள்ளூர் பரிந்துரைக்கு 181-ஐ அழையுங்கள்.",
+            "இணையக் குற்றத்தை தேசிய சைபர் குற்றப் புகார் இணையதளத்தில் பொருத்தமான வகையில் பதிவு செய்யுங்கள். எல்லாப் புகார்களையும் பெயர் வெளியிடாமல் அளிக்க முடியாது.",
+            "பெண்களுக்கு எதிரான சைபர் குற்றமும் தேசிய மகளிர் ஆணையத்தின் புகார் வகையாக உள்ளது. புகாருக்கான உள்நுழைவு விவரங்களையும் ஆதாரங்களையும் அதிகாரப்பூர்வ சேவைகளில் மட்டும் வைத்திருங்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி - உடனடி ஆபத்து",
+              "number": "112",
+              "available": "24 மணி நேரம்"
+            },
+            {
+              "name": "மகளிர் உதவி எண்",
+              "number": "181",
+              "available": "24 மணி நேரம்; மேற்கு வங்கம் தவிர"
+            }
+          ],
+          "rights": [
+            "இணையப் புகாரை பெறும் அதிகார அமைப்பே மதிப்பிடுகிறது; பாரத் ஹெல்ப் காவல் புகாரைப் பதிவு செய்யாது, அவசர உதவிக்கும் மாற்றாகாது."
+          ],
+          "schemes": [],
+          "sources": [
+            "https://cybercrime.gov.in/",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+            "https://ncwapps.nic.in/onlinecomplaintsv2/",
+            "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287039&lang=1&reg=1"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Women Helpline 181",
+        "url": "https://www.wcd.gov.in/offerings/women--helpline--scheme",
+        "locator": "Brief; services; State/UT availability FAQ",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Mission Shakti Guidelines",
+        "url": "https://wcd.gov.in/images/uploaded/1710063267_AuAgeNDvb3.pdf",
+        "locator": "PDF pages 10-14: sections 2.1.1 and 2.1.2; the Women Helpline referral to Dowry Prohibition and Protection Officers appears on PDF page 13. Official WCD document link opened successfully; the former Mission Shakti host returned HTTP 403. Service availability is checked against the current WCD pages rather than inferred from this 2022 funding document.",
+        "rawFile": "datasets/real-data/raw/woman-support/woman_helpline_guidelines.pdf",
+        "publishedOn": "2022-07-14",
+        "reviewedOn": "2026-10-24",
+        "originalUrl": "https://missionshakti.wcd.gov.in/public/documents/whatsnew/Mission_Shakti_Guidelines.pdf"
+      },
+      {
+        "title": "NCW complaint registration FAQ",
+        "url": "https://ncwapps.nic.in/onlinecomplaintsv2/frmFAQs.aspx",
+        "locator": "Questions 1-5, 9 and 10",
+        "rawFile": "datasets/real-data/raw/woman-support/ncw_complaint_guidance_summary.txt",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "National Cyber Crime Reporting Portal and official reporting guidance",
+        "url": "https://cybercrime.gov.in/",
+        "locator": "Reporting reference: category scope and incident details; live portal is JavaScript-driven",
+        "rawFile": "datasets/real-data/raw/cyber-crime/cybercrime_reporting_reference.txt",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "NCW official complaint registration and status portal",
+        "locator": "Public Register Complaint link; sign-in is for tracking an accepted complaint. Landing page and linked FAQ reviewed without submitting a complaint.",
+        "url": "https://ncwapps.nic.in/onlinecomplaintsv2/",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Ministry of Home Affairs/PIB: National Cyber Crime Reporting Portal",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287039&lang=1&reg=1",
+        "locator": "Paragraphs on the NCRP public reporting route, focus on women and children, and follow-up by State/UT law-enforcement authorities. Official release opened successfully; no complaint form was submitted.",
+        "publishedOn": "2026-07-21",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "National Cyber Crime Reporting Portal: reporting FAQ",
+        "url": "https://cybercrime.gov.in/Webform/FAQ.aspx",
+        "locator": "Official indexed FAQ distinguishes limited anonymous reporting from Report and Track; it does not offer anonymity for every complaint type. Live portal request timed out, and no form was submitted.",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; Women Helpline 181 is listed by WCD as operational except in West Bengal. Confirm the nearest centre through the helpline before travelling.",
+      "hi": "भारत; महिला एवं बाल विकास मंत्रालय के अनुसार पश्चिम बंगाल को छोड़कर महिला हेल्पलाइन 181 चालू है। जाने से पहले हेल्पलाइन से नजदीकी केंद्र की पुष्टि करें।",
+      "ta": "இந்தியா; மேற்கு வங்கத்தைத் தவிர மற்ற பகுதிகளில் 181 மகளிர் உதவி எண் செயல்படுவதாக மகளிர் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகம் கூறுகிறது. பயணத்திற்கு முன் அருகிலுள்ள மையத்தை உதவி எண் மூலம் உறுதிப்படுத்துங்கள்."
+    }
+  },
+  {
+    "id": "child-support/child-abuse-protection",
+    "categoryId": "child-support",
+    "keywords": [
+      "Abuse"
+    ],
+    "name": "Child abuse - protection and support",
+    "help": {
+      "immediateHelp": [
+        "If a child is in immediate danger or needs urgent police or medical help, call 112.",
+        "Call 1098 to report a child needing protection from abuse. Explain the location and concern so district services can assess the response.",
+        "A child-rights complaint can also be registered and tracked on NCPCR e-BaalNidan. Keep the child’s identity and complaint details private."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency response - immediate danger",
+          "number": "112",
+          "available": "24 hours"
+        },
+        {
+          "name": "Child Helpline",
+          "number": "1098",
+          "available": "24 hours"
+        }
+      ],
+      "rights": [
+        "Child Helpline links children in need of care and protection with the District Child Protection Unit and, where required, the Child Welfare Committee."
+      ],
+      "schemes": [
+        {
+          "name": "Mission Vatsalya - district child protection",
+          "description": "1098 connects children in distress with district protection services for assessment, outreach and appropriate care or referral."
+        }
+      ],
+      "sources": [
+        "https://www.wcd.gov.in/child/child-helpline",
+        "https://ncpcr.gov.in/ebaalnidan/"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "बाल उत्पीड़न - सुरक्षा और सहायता",
+        "help": {
+          "immediateHelp": [
+            "बच्चे को तत्काल खतरा हो या तुरंत पुलिस अथवा चिकित्सा सहायता चाहिए तो 112 पर कॉल करें।",
+            "उत्पीड़न से सुरक्षा की जरूरत वाले बच्चे की सूचना 1098 पर दें। स्थान और चिंता बताएँ ताकि जिला सेवाएँ उचित कार्रवाई तय कर सकें।",
+            "बाल अधिकारों की शिकायत NCPCR के ई-बाल निदान पर भी दर्ज और ट्रैक की जा सकती है। बच्चे की पहचान और शिकायत का विवरण निजी रखें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता - तत्काल खतरा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "चाइल्ड हेल्पलाइन",
+              "number": "1098",
+              "available": "24 घंटे"
+            }
+          ],
+          "rights": [
+            "चाइल्ड हेल्पलाइन देखभाल और संरक्षण की जरूरत वाले बच्चों को जिला बाल संरक्षण इकाई तथा जरूरत पड़ने पर बाल कल्याण समिति से जोड़ता है।"
+          ],
+          "schemes": [
+            {
+              "name": "मिशन वात्सल्य - जिला बाल संरक्षण",
+              "description": "1098 संकट में बच्चों को आकलन, मौके पर सहायता और उपयुक्त देखभाल या रेफरल के लिए जिला बाल संरक्षण सेवाओं से जोड़ता है।"
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://ncpcr.gov.in/ebaalnidan/"
+          ]
+        }
+      },
+      "ta": {
+        "name": "குழந்தைத் துன்புறுத்தல் - பாதுகாப்பும் உதவியும்",
+        "help": {
+          "immediateHelp": [
+            "குழந்தைக்கு உடனடி ஆபத்து இருந்தாலோ அவசர காவல் அல்லது மருத்துவ உதவி தேவைப்பட்டாலோ 112-ஐ அழையுங்கள்.",
+            "துன்புறுத்தலில் இருந்து பாதுகாப்பு தேவைப்படும் குழந்தை குறித்து 1098-இல் தெரிவியுங்கள். மாவட்டச் சேவைகள் நடவடிக்கையை மதிப்பிட இடத்தையும் பிரச்சினையையும் விளக்குங்கள்.",
+            "குழந்தை உரிமைப் புகாரை தேசிய குழந்தைகள் உரிமைகள் பாதுகாப்பு ஆணையத்தின் இ-பால் நிதான் தளத்திலும் பதிவு செய்து கண்காணிக்கலாம். குழந்தையின் அடையாளத்தையும் புகார் விவரங்களையும் தனிப்பட்டதாக வைத்திருங்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி - உடனடி ஆபத்து",
+              "number": "112",
+              "available": "24 மணி நேரம்"
+            },
+            {
+              "name": "குழந்தைகள் உதவி எண்",
+              "number": "1098",
+              "available": "24 மணி நேரம்"
+            }
+          ],
+          "rights": [
+            "பராமரிப்பும் பாதுகாப்பும் தேவைப்படும் குழந்தைகளை மாவட்ட குழந்தைப் பாதுகாப்பு அலகுடனும் தேவைப்பட்டால் குழந்தைகள் நலக் குழுவுடனும் குழந்தைகள் உதவி எண் இணைக்கிறது."
+          ],
+          "schemes": [
+            {
+              "name": "மிஷன் வாத்சல்யா - மாவட்ட குழந்தைப் பாதுகாப்பு",
+              "description": "சிரமத்தில் உள்ள குழந்தைகளை மதிப்பீடு, நேரடி உதவி மற்றும் பொருத்தமான பராமரிப்பு அல்லது பரிந்துரைக்காக 1098 மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகளுடன் இணைக்கிறது."
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://ncpcr.gov.in/ebaalnidan/"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Child Helpline 1098",
+        "url": "https://www.wcd.gov.in/child/child-helpline",
+        "locator": "Brief; district child protection and Mission Vatsalya services",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Child Helpline Standard Operating Procedures",
+        "url": "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf",
+        "locator": "PDF pages 8 and 12: call classification and district outreach",
+        "rawFile": "datasets/real-data/raw/child-support/child_helpline_sop.pdf",
+        "publishedOn": "2023-03-31",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "NCPCR e-BaalNidan",
+        "url": "https://ncpcr.gov.in/ebaalnidan/",
+        "locator": "Public Register Complaint and Track Complaint links",
+        "rawFile": "datasets/real-data/raw/child-support/child_support_reference_summary.txt",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response and follow-up are arranged through State and district child-protection services.",
+      "hi": "भारत; स्थानीय सहायता और आगे की कार्रवाई राज्य तथा जिला बाल संरक्षण सेवाओं के माध्यम से होती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவியும் தொடர்நடவடிக்கையும் மாநில மற்றும் மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகள் மூலம் வழங்கப்படுகின்றன."
+    }
+  },
+  {
+    "id": "child-support/child-labour-referral",
+    "categoryId": "child-support",
+    "keywords": [
+      "Child Labour"
+    ],
+    "name": "Child labour - protection referral",
+    "help": {
+      "immediateHelp": [
+        "Call 1098 if a child is being exploited at work or needs protection. Give the work location and what you observed.",
+        "District child-protection staff can coordinate with the Labour Department and police. Leave any rescue or confrontation to the authorities.",
+        "For immediate danger or serious injury call 112. An ongoing child-rights complaint can also be raised on e-BaalNidan."
+      ],
+      "contacts": [
+        {
+          "name": "Child Helpline",
+          "number": "1098",
+          "available": "24 hours"
+        },
+        {
+          "name": "Emergency response - immediate danger",
+          "number": "112",
+          "available": "24 hours"
+        }
+      ],
+      "rights": [
+        "A child found working contrary to labour laws is included in the child-protection framework described by WCD. Authorities assess the circumstances and applicable rules."
+      ],
+      "schemes": [
+        {
+          "name": "Mission Vatsalya - district child protection",
+          "description": "1098 connects children in distress with district protection services for assessment, outreach and appropriate care or referral."
+        }
+      ],
+      "sources": [
+        "https://www.wcd.gov.in/child/child-helpline",
+        "https://ncpcr.gov.in/ebaalnidan/",
+        "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "बाल श्रम - संरक्षण के लिए सहायता",
+        "help": {
+          "immediateHelp": [
+            "काम पर बच्चे का शोषण हो रहा हो या संरक्षण की जरूरत हो तो 1098 पर कॉल करें। काम की जगह और आपने क्या देखा, यह बताएँ।",
+            "जिला बाल संरक्षण कर्मचारी श्रम विभाग और पुलिस से समन्वय कर सकते हैं। बचाव या सामना करने का काम अधिकारियों पर छोड़ें।",
+            "तत्काल खतरे या गंभीर चोट में 112 पर कॉल करें। बाल अधिकारों की शिकायत ई-बाल निदान पर भी दी जा सकती है।"
+          ],
+          "contacts": [
+            {
+              "name": "चाइल्ड हेल्पलाइन",
+              "number": "1098",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "आपातकालीन सहायता - तत्काल खतरा",
+              "number": "112",
+              "available": "24 घंटे"
+            }
+          ],
+          "rights": [
+            "श्रम कानूनों के विरुद्ध काम करते पाए गए बच्चे WCD द्वारा बताए बाल संरक्षण ढाँचे में आते हैं। अधिकारी परिस्थिति और लागू नियमों का आकलन करते हैं।"
+          ],
+          "schemes": [
+            {
+              "name": "मिशन वात्सल्य - जिला बाल संरक्षण",
+              "description": "1098 संकट में बच्चों को आकलन, मौके पर सहायता और उपयुक्त देखभाल या रेफरल के लिए जिला बाल संरक्षण सेवाओं से जोड़ता है।"
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://ncpcr.gov.in/ebaalnidan/",
+            "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+          ]
+        }
+      },
+      "ta": {
+        "name": "குழந்தைத் தொழிலாளர் - பாதுகாப்பு உதவி",
+        "help": {
+          "immediateHelp": [
+            "வேலையில் குழந்தை சுரண்டப்பட்டாலோ பாதுகாப்பு தேவைப்பட்டாலோ 1098-ஐ அழையுங்கள். பணியிடத்தையும் நீங்கள் கவனித்ததையும் கூறுங்கள்.",
+            "மாவட்ட குழந்தைப் பாதுகாப்புப் பணியாளர்கள் தொழிலாளர் துறையுடனும் காவல்துறையுடனும் ஒருங்கிணைக்கலாம். மீட்பு அல்லது நேரடி எதிர்கொள்ளலை அதிகாரிகளிடம் விடுங்கள்.",
+            "உடனடி ஆபத்து அல்லது கடுமையான காயம் இருந்தால் 112-ஐ அழையுங்கள். குழந்தை உரிமைப் புகாரை இ-பால் நிதான் தளத்திலும் அளிக்கலாம்."
+          ],
+          "contacts": [
+            {
+              "name": "குழந்தைகள் உதவி எண்",
+              "number": "1098",
+              "available": "24 மணி நேரம்"
+            },
+            {
+              "name": "அவசர உதவி - உடனடி ஆபத்து",
+              "number": "112",
+              "available": "24 மணி நேரம்"
+            }
+          ],
+          "rights": [
+            "தொழிலாளர் சட்டங்களுக்கு மாறாக வேலை செய்யும் குழந்தைகள் அமைச்சகம் விளக்கும் குழந்தைப் பாதுகாப்புக் கட்டமைப்பில் அடங்குவர். சூழலையும் பொருந்தும் விதிகளையும் அதிகாரிகள் மதிப்பிடுவார்கள்."
+          ],
+          "schemes": [
+            {
+              "name": "மிஷன் வாத்சல்யா - மாவட்ட குழந்தைப் பாதுகாப்பு",
+              "description": "சிரமத்தில் உள்ள குழந்தைகளை மதிப்பீடு, நேரடி உதவி மற்றும் பொருத்தமான பராமரிப்பு அல்லது பரிந்துரைக்காக 1098 மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகளுடன் இணைக்கிறது."
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://ncpcr.gov.in/ebaalnidan/",
+            "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Child Helpline 1098",
+        "url": "https://www.wcd.gov.in/child/child-helpline",
+        "locator": "Brief; district child protection and Mission Vatsalya services",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Child Helpline Standard Operating Procedures",
+        "url": "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf",
+        "locator": "PDF pages 8 and 12: call classification and district outreach",
+        "rawFile": "datasets/real-data/raw/child-support/child_helpline_sop.pdf",
+        "publishedOn": "2023-03-31",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "NCPCR e-BaalNidan",
+        "locator": "Public page redirects to https://ncpcr.gov.in/index_ebaalnidan.php and offers Register Complaint and Track Complaint. No complaint was submitted.",
+        "rawFile": "datasets/real-data/raw/child-support/child_support_reference_summary.txt",
+        "url": "https://ncpcr.gov.in/ebaalnidan/",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response and follow-up are arranged through State and district child-protection services.",
+      "hi": "भारत; स्थानीय सहायता और आगे की कार्रवाई राज्य तथा जिला बाल संरक्षण सेवाओं के माध्यम से होती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவியும் தொடர்நடவடிக்கையும் மாநில மற்றும் மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகள் மூலம் வழங்கப்படுகின்றன."
+    }
+  },
+  {
+    "id": "child-support/missing-or-separated-child",
+    "categoryId": "child-support",
+    "keywords": [
+      "Missing Child"
+    ],
+    "name": "Missing or separated child - urgent reporting",
+    "help": {
+      "immediateHelp": [
+        "Contact the police promptly through 112 if a child is missing or in danger. Provide the last known location and time.",
+        "Call 1098 for a child who is lost, found alone or separated from family so district services can coordinate protection and tracing.",
+        "Give identifying information privately to police or child-protection staff. Do not hand a found child to an unverified person claiming to be a relative."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency response - immediate danger",
+          "number": "112",
+          "available": "24 hours"
+        },
+        {
+          "name": "Child Helpline",
+          "number": "1098",
+          "available": "24 hours"
+        }
+      ],
+      "rights": [
+        "Child Helpline district units support tracing and appropriate care through police and the Child Welfare Committee; response times are not guaranteed."
+      ],
+      "schemes": [
+        {
+          "name": "Mission Vatsalya - district child protection",
+          "description": "1098 connects children in distress with district protection services for assessment, outreach and appropriate care or referral."
+        }
+      ],
+      "sources": [
+        "https://www.wcd.gov.in/child/child-helpline",
+        "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "लापता या परिवार से बिछड़ा बच्चा - तुरंत सूचना दें",
+        "help": {
+          "immediateHelp": [
+            "बच्चा लापता हो या खतरे में हो तो 112 के माध्यम से तुरंत पुलिस से संपर्क करें। आखिरी ज्ञात स्थान और समय बताएँ।",
+            "खोए हुए, अकेले मिले या परिवार से बिछड़े बच्चे के लिए 1098 पर कॉल करें ताकि जिला सेवाएँ सुरक्षा और परिवार की तलाश में समन्वय कर सकें।",
+            "पहचान संबंधी जानकारी पुलिस या बाल संरक्षण कर्मचारियों को निजी रूप से दें। मिले हुए बच्चे को रिश्तेदार होने का दावा करने वाले अप्रमाणित व्यक्ति को न सौंपें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता - तत्काल खतरा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "चाइल्ड हेल्पलाइन",
+              "number": "1098",
+              "available": "24 घंटे"
+            }
+          ],
+          "rights": [
+            "चाइल्ड हेल्पलाइन की जिला इकाइयाँ पुलिस और बाल कल्याण समिति के साथ तलाश तथा उचित देखभाल में मदद करती हैं; सहायता पहुँचने के समय की गारंटी नहीं है।"
+          ],
+          "schemes": [
+            {
+              "name": "मिशन वात्सल्य - जिला बाल संरक्षण",
+              "description": "1098 संकट में बच्चों को आकलन, मौके पर सहायता और उपयुक्त देखभाल या रेफरल के लिए जिला बाल संरक्षण सेवाओं से जोड़ता है।"
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+          ]
+        }
+      },
+      "ta": {
+        "name": "காணாமல் போன அல்லது பிரிந்த குழந்தை - உடனடி தகவல்",
+        "help": {
+          "immediateHelp": [
+            "குழந்தை காணாமல் போயிருந்தாலோ ஆபத்தில் இருந்தாலோ 112 மூலம் காவல்துறையை உடனே தொடர்புகொள்ளுங்கள். கடைசியாக அறிந்த இடத்தையும் நேரத்தையும் கூறுங்கள்.",
+            "வழிதவறிய, தனியாகக் கண்டுபிடிக்கப்பட்ட அல்லது குடும்பத்திலிருந்து பிரிந்த குழந்தைக்காக 1098-ஐ அழையுங்கள்; மாவட்டச் சேவைகள் பாதுகாப்பையும் தேடுதலையும் ஒருங்கிணைக்கலாம்.",
+            "அடையாள விவரங்களை காவல் அல்லது குழந்தைப் பாதுகாப்புப் பணியாளர்களிடம் தனிப்பட்ட முறையில் தெரிவியுங்கள். உறவினர் என்று கூறும் உறுதிப்படுத்தப்படாத நபரிடம் குழந்தையை ஒப்படைக்காதீர்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி - உடனடி ஆபத்து",
+              "number": "112",
+              "available": "24 மணி நேரம்"
+            },
+            {
+              "name": "குழந்தைகள் உதவி எண்",
+              "number": "1098",
+              "available": "24 மணி நேரம்"
+            }
+          ],
+          "rights": [
+            "குழந்தைகள் உதவி எண்ணின் மாவட்ட அலகுகள் காவல்துறையும் குழந்தைகள் நலக் குழுவும் இணைந்து தேடுதலுக்கும் பொருத்தமான பராமரிப்புக்கும் உதவுகின்றன; குறிப்பிட்ட நேரத்தில் உதவி வரும் என்று உறுதியளிக்க முடியாது."
+          ],
+          "schemes": [
+            {
+              "name": "மிஷன் வாத்சல்யா - மாவட்ட குழந்தைப் பாதுகாப்பு",
+              "description": "சிரமத்தில் உள்ள குழந்தைகளை மதிப்பீடு, நேரடி உதவி மற்றும் பொருத்தமான பராமரிப்பு அல்லது பரிந்துரைக்காக 1098 மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகளுடன் இணைக்கிறது."
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Child Helpline 1098",
+        "url": "https://www.wcd.gov.in/child/child-helpline",
+        "locator": "Brief; district child protection and Mission Vatsalya services",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Child Helpline Standard Operating Procedures",
+        "url": "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf",
+        "locator": "PDF pages 8 and 12: call classification and district outreach",
+        "rawFile": "datasets/real-data/raw/child-support/child_helpline_sop.pdf",
+        "publishedOn": "2023-03-31",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Child Helpline SOP: missing and separated children",
+        "url": "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf",
+        "locator": "PDF pages 8, 12-13: missing/lost/found categories, tracing and railway situations",
+        "rawFile": "datasets/real-data/raw/child-support/child_helpline_sop.pdf",
+        "publishedOn": "2023-03-31",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response and follow-up are arranged through State and district child-protection services.",
+      "hi": "भारत; स्थानीय सहायता और आगे की कार्रवाई राज्य तथा जिला बाल संरक्षण सेवाओं के माध्यम से होती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவியும் தொடர்நடவடிக்கையும் மாநில மற்றும் மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகள் மூலம் வழங்கப்படுகின்றன."
+    }
+  },
+  {
+    "id": "child-support/education-access-complaint",
+    "categoryId": "child-support",
+    "keywords": [
+      "Education Denied"
+    ],
+    "name": "School access and education-rights complaint",
+    "help": {
+      "immediateHelp": [
+        "For school admission or attendance problems, note the child’s age, school, location and the reason given for refusal. Ask the school or local education authority for clarification.",
+        "Raise a child-rights complaint on NCPCR e-BaalNidan if education is being denied. Provide the facts and any available school correspondence.",
+        "1098 also handles education-related referrals for children in distress. Keep the complaint ID for tracking on the official portal."
+      ],
+      "contacts": [
+        {
+          "name": "Child Helpline",
+          "number": "1098",
+          "available": "24 hours"
+        }
+      ],
+      "rights": [
+        "The Right to Education Act provides free and compulsory elementary education for children aged 6 to 14. The relevant authority assesses the specific admission or education complaint."
+      ],
+      "schemes": [],
+      "sources": [
+        "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1594531&lang=2&reg=48",
+        "https://ncpcr.gov.in/ebaalnidan/",
+        "https://www.wcd.gov.in/child/child-helpline"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "स्कूल में प्रवेश और शिक्षा अधिकार की शिकायत",
+        "help": {
+          "immediateHelp": [
+            "स्कूल में प्रवेश या उपस्थिति की समस्या में बच्चे की उम्र, स्कूल, स्थान और मना करने का कारण नोट करें। स्कूल या स्थानीय शिक्षा अधिकारी से स्पष्टीकरण माँगें।",
+            "शिक्षा से वंचित किए जाने पर NCPCR के ई-बाल निदान में बाल अधिकारों की शिकायत दें। तथ्य और उपलब्ध स्कूल पत्राचार प्रस्तुत करें।",
+            "1098 संकट में बच्चों के शिक्षा संबंधी रेफरल में भी सहायता करता है। आधिकारिक पोर्टल पर स्थिति देखने के लिए शिकायत संख्या सुरक्षित रखें।"
+          ],
+          "contacts": [
+            {
+              "name": "चाइल्ड हेल्पलाइन",
+              "number": "1098",
+              "available": "24 घंटे"
+            }
+          ],
+          "rights": [
+            "शिक्षा का अधिकार अधिनियम 6 से 14 वर्ष के बच्चों के लिए निःशुल्क और अनिवार्य प्रारंभिक शिक्षा का प्रावधान करता है। संबंधित अधिकारी प्रवेश या शिक्षा की विशिष्ट शिकायत का आकलन करते हैं।"
+          ],
+          "schemes": [],
+          "sources": [
+            "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1594531&lang=2&reg=48",
+            "https://ncpcr.gov.in/ebaalnidan/",
+            "https://www.wcd.gov.in/child/child-helpline"
+          ]
+        }
+      },
+      "ta": {
+        "name": "பள்ளி அணுகல் மற்றும் கல்வி உரிமைப் புகார்",
+        "help": {
+          "immediateHelp": [
+            "பள்ளிச் சேர்க்கை அல்லது வருகையில் சிக்கல் இருந்தால் குழந்தையின் வயது, பள்ளி, இடம் மற்றும் மறுப்புக்குக் கூறப்பட்ட காரணத்தை எழுதிவையுங்கள். பள்ளி அல்லது உள்ளூர் கல்வி அலுவலரிடம் விளக்கம் கேளுங்கள்.",
+            "கல்வி மறுக்கப்பட்டால் இ-பால் நிதான் தளத்தில் குழந்தை உரிமைப் புகாரை அளியுங்கள். உண்மை விவரங்களையும் உள்ள பள்ளிக் கடிதங்களையும் சமர்ப்பியுங்கள்.",
+            "சிரமத்தில் உள்ள குழந்தைகளின் கல்வி சார்ந்த பரிந்துரைகளுக்கும் 1098 உதவுகிறது. அதிகாரப்பூர்வ தளத்தில் நிலையைப் பார்க்க புகார் எண்ணைப் பாதுகாத்து வையுங்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "குழந்தைகள் உதவி எண்",
+              "number": "1098",
+              "available": "24 மணி நேரம்"
+            }
+          ],
+          "rights": [
+            "கல்வி உரிமைச் சட்டம் 6 முதல் 14 வயது குழந்தைகளுக்கு இலவசக் கட்டாய தொடக்கக் கல்வியை வழங்குகிறது. குறிப்பிட்ட சேர்க்கை அல்லது கல்விப் புகாரை உரிய அதிகாரி மதிப்பிடுவார்."
+          ],
+          "schemes": [],
+          "sources": [
+            "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1594531&lang=2&reg=48",
+            "https://ncpcr.gov.in/ebaalnidan/",
+            "https://www.wcd.gov.in/child/child-helpline"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Child Helpline 1098",
+        "url": "https://www.wcd.gov.in/child/child-helpline",
+        "locator": "Brief; district child protection and Mission Vatsalya services",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Child Helpline Standard Operating Procedures",
+        "url": "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf",
+        "locator": "PDF pages 8 and 12: call classification and district outreach",
+        "rawFile": "datasets/real-data/raw/child-support/child_helpline_sop.pdf",
+        "publishedOn": "2023-03-31",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Ministry of Education/PIB: Right to Education entitlement",
+        "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1594531&lang=2&reg=48",
+        "locator": "Opening paragraph confirms free and compulsory elementary education for children aged 6 to 14. Historical explanation of the statutory scope; no scheme amounts or application windows are imported. Replaces the former DSEL PDF URL that returned HTTP 404 during this review.",
+        "publishedOn": "2019-12-02",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "NCPCR e-BaalNidan",
+        "url": "https://ncpcr.gov.in/ebaalnidan/",
+        "locator": "Public Register Complaint and Track Complaint links",
+        "rawFile": "datasets/real-data/raw/child-support/child_support_reference_summary.txt",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response and follow-up are arranged through State and district child-protection services.",
+      "hi": "भारत; स्थानीय सहायता और आगे की कार्रवाई राज्य तथा जिला बाल संरक्षण सेवाओं के माध्यम से होती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவியும் தொடர்நடவடிக்கையும் மாநில மற்றும் மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகள் மூலம் வழங்கப்படுகின்றன."
+    }
+  },
+  {
+    "id": "child-support/abandoned-or-unaccompanied-child",
+    "categoryId": "child-support",
+    "keywords": [
+      "Abandonment"
+    ],
+    "name": "Abandoned or unaccompanied child - care referral",
+    "help": {
+      "immediateHelp": [
+        "Call 1098 when a child appears abandoned or has no safe caregiver. Give the precise location and any urgent health or safety concern.",
+        "For immediate danger or urgent medical help call 112. Stay in a safe public place nearby if it is safe to do so while waiting for guidance.",
+        "Let child-protection authorities assess care and family tracing. Do not arrange a private handover or adoption, or publish the child’s photo and identity."
+      ],
+      "contacts": [
+        {
+          "name": "Child Helpline",
+          "number": "1098",
+          "available": "24 hours"
+        },
+        {
+          "name": "Emergency response - immediate danger",
+          "number": "112",
+          "available": "24 hours"
+        }
+      ],
+      "rights": [
+        "Care arrangements for a child needing protection are assessed through the Child Welfare Committee and district services under the child-protection framework."
+      ],
+      "schemes": [
+        {
+          "name": "Mission Vatsalya - district child protection",
+          "description": "1098 connects children in distress with district protection services for assessment, outreach and appropriate care or referral."
+        }
+      ],
+      "sources": [
+        "https://www.wcd.gov.in/child/child-helpline",
+        "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "छोड़ा गया या अकेला बच्चा - देखभाल सहायता",
+        "help": {
+          "immediateHelp": [
+            "बच्चा छोड़ा गया लगे या कोई सुरक्षित देखभाल करने वाला न हो तो 1098 पर कॉल करें। सही स्थान और तत्काल स्वास्थ्य या सुरक्षा की चिंता बताएँ।",
+            "तत्काल खतरे या जरूरी चिकित्सा सहायता में 112 पर कॉल करें। सुरक्षित हो तो निर्देश की प्रतीक्षा में पास के सुरक्षित सार्वजनिक स्थान पर रहें।",
+            "बाल संरक्षण अधिकारियों को देखभाल और परिवार की तलाश का आकलन करने दें। निजी तौर पर बच्चा सौंपने या गोद देने की व्यवस्था न करें और फोटो या पहचान सार्वजनिक न करें।"
+          ],
+          "contacts": [
+            {
+              "name": "चाइल्ड हेल्पलाइन",
+              "number": "1098",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "आपातकालीन सहायता - तत्काल खतरा",
+              "number": "112",
+              "available": "24 घंटे"
+            }
+          ],
+          "rights": [
+            "संरक्षण की जरूरत वाले बच्चे की देखभाल व्यवस्था का आकलन बाल संरक्षण ढाँचे के तहत बाल कल्याण समिति और जिला सेवाओं द्वारा किया जाता है।"
+          ],
+          "schemes": [
+            {
+              "name": "मिशन वात्सल्य - जिला बाल संरक्षण",
+              "description": "1098 संकट में बच्चों को आकलन, मौके पर सहायता और उपयुक्त देखभाल या रेफरल के लिए जिला बाल संरक्षण सेवाओं से जोड़ता है।"
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+          ]
+        }
+      },
+      "ta": {
+        "name": "கைவிடப்பட்ட அல்லது துணையில்லாத குழந்தை - பராமரிப்பு உதவி",
+        "help": {
+          "immediateHelp": [
+            "குழந்தை கைவிடப்பட்டதாகத் தெரிந்தாலோ பாதுகாப்பான பராமரிப்பாளர் இல்லாவிட்டாலோ 1098-ஐ அழையுங்கள். சரியான இடத்தையும் அவசர உடல்நலம் அல்லது பாதுகாப்பு சிக்கலையும் கூறுங்கள்.",
+            "உடனடி ஆபத்து அல்லது அவசர மருத்துவ உதவிக்கு 112-ஐ அழையுங்கள். பாதுகாப்பாக இருந்தால் வழிகாட்டுதலுக்காக அருகிலுள்ள பாதுகாப்பான பொது இடத்தில் இருங்கள்.",
+            "பராமரிப்பையும் குடும்பத் தேடுதலையும் குழந்தைப் பாதுகாப்பு அதிகாரிகள் மதிப்பிடட்டும். தனிப்பட்ட ஒப்படைப்பு அல்லது தத்தெடுப்பு ஏற்பாடு செய்யாதீர்கள்; குழந்தையின் புகைப்படம் மற்றும் அடையாளத்தை வெளியிடாதீர்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "குழந்தைகள் உதவி எண்",
+              "number": "1098",
+              "available": "24 மணி நேரம்"
+            },
+            {
+              "name": "அவசர உதவி - உடனடி ஆபத்து",
+              "number": "112",
+              "available": "24 மணி நேரம்"
+            }
+          ],
+          "rights": [
+            "பாதுகாப்பு தேவைப்படும் குழந்தையின் பராமரிப்பு ஏற்பாடுகள் குழந்தைப் பாதுகாப்புக் கட்டமைப்பின்கீழ் குழந்தைகள் நலக் குழு மற்றும் மாவட்டச் சேவைகள் மூலம் மதிப்பிடப்படுகின்றன."
+          ],
+          "schemes": [
+            {
+              "name": "மிஷன் வாத்சல்யா - மாவட்ட குழந்தைப் பாதுகாப்பு",
+              "description": "சிரமத்தில் உள்ள குழந்தைகளை மதிப்பீடு, நேரடி உதவி மற்றும் பொருத்தமான பராமரிப்பு அல்லது பரிந்துரைக்காக 1098 மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகளுடன் இணைக்கிறது."
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Child Helpline 1098",
+        "url": "https://www.wcd.gov.in/child/child-helpline",
+        "locator": "Brief; district child protection and Mission Vatsalya services",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Child Helpline Standard Operating Procedures",
+        "url": "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf",
+        "locator": "PDF pages 8 and 12: call classification and district outreach",
+        "rawFile": "datasets/real-data/raw/child-support/child_helpline_sop.pdf",
+        "publishedOn": "2023-03-31",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Child Helpline SOP: abandoned children",
+        "url": "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf",
+        "locator": "PDF pages 12-13: Child Welfare Committee and unaccompanied/abandoned children",
+        "rawFile": "datasets/real-data/raw/child-support/child_helpline_sop.pdf",
+        "publishedOn": "2023-03-31",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response and follow-up are arranged through State and district child-protection services.",
+      "hi": "भारत; स्थानीय सहायता और आगे की कार्रवाई राज्य तथा जिला बाल संरक्षण सेवाओं के माध्यम से होती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவியும் தொடர்நடவடிக்கையும் மாநில மற்றும் மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகள் மூலம் வழங்கப்படுகின்றன."
+    }
+  },
+  {
+    "id": "child-support/suspected-child-trafficking",
+    "categoryId": "child-support",
+    "keywords": [
+      "Trafficking"
+    ],
+    "name": "Suspected child trafficking - urgent referral",
+    "help": {
+      "immediateHelp": [
+        "If a child may be being trafficked or moved into immediate danger, contact police through 112 and give the location and observations.",
+        "Call 1098 for a child-protection referral. If at a station or on a train, tell the operator the station, train and direction if known.",
+        "Do not confront or follow suspected traffickers. Give information privately to the authorities so they can coordinate a safe response."
+      ],
+      "contacts": [
+        {
+          "name": "Emergency response - immediate danger",
+          "number": "112",
+          "available": "24 hours"
+        },
+        {
+          "name": "Child Helpline",
+          "number": "1098",
+          "available": "24 hours"
+        }
+      ],
+      "rights": [
+        "Mission Vatsalya identifies trafficked children as a vulnerable group; police and district child-protection authorities coordinate the assessment and care response."
+      ],
+      "schemes": [
+        {
+          "name": "Mission Vatsalya - district child protection",
+          "description": "1098 connects children in distress with district protection services for assessment, outreach and appropriate care or referral."
+        }
+      ],
+      "sources": [
+        "https://www.wcd.gov.in/child/child-helpline",
+        "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "बच्चे की तस्करी का संदेह - तत्काल सहायता",
+        "help": {
+          "immediateHelp": [
+            "बच्चे की तस्करी या उसे तत्काल खतरे में ले जाने का संदेह हो तो 112 से पुलिस को स्थान और देखी गई जानकारी दें।",
+            "बाल संरक्षण सहायता के लिए 1098 पर कॉल करें। स्टेशन या ट्रेन में हों तो स्टेशन, ट्रेन और दिशा की जानकारी उपलब्ध होने पर बताएँ।",
+            "संदिग्ध तस्करों का सामना या पीछा न करें। सुरक्षित कार्रवाई के लिए जानकारी अधिकारियों को निजी रूप से दें।"
+          ],
+          "contacts": [
+            {
+              "name": "आपातकालीन सहायता - तत्काल खतरा",
+              "number": "112",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "चाइल्ड हेल्पलाइन",
+              "number": "1098",
+              "available": "24 घंटे"
+            }
+          ],
+          "rights": [
+            "मिशन वात्सल्य तस्करी के शिकार बच्चों को संवेदनशील समूह मानता है; पुलिस और जिला बाल संरक्षण अधिकारी आकलन तथा देखभाल में समन्वय करते हैं।"
+          ],
+          "schemes": [
+            {
+              "name": "मिशन वात्सल्य - जिला बाल संरक्षण",
+              "description": "1098 संकट में बच्चों को आकलन, मौके पर सहायता और उपयुक्त देखभाल या रेफरल के लिए जिला बाल संरक्षण सेवाओं से जोड़ता है।"
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+          ]
+        }
+      },
+      "ta": {
+        "name": "குழந்தைக் கடத்தல் சந்தேகம் - அவசர உதவி",
+        "help": {
+          "immediateHelp": [
+            "குழந்தைக் கடத்தல் அல்லது உடனடி ஆபத்தான இடத்திற்குக் கொண்டு செல்லப்படுவது பற்றி சந்தேகம் இருந்தால் 112 மூலம் காவல்துறைக்கு இடத்தையும் கவனித்ததையும் தெரிவியுங்கள்.",
+            "குழந்தைப் பாதுகாப்பு உதவிக்கு 1098-ஐ அழையுங்கள். நிலையம் அல்லது ரயிலில் இருந்தால் தெரிந்த நிலையம், ரயில் மற்றும் பயணத் திசையை கூறுங்கள்.",
+            "சந்தேகத்திற்குரிய கடத்தல்காரர்களை எதிர்கொள்ளவோ பின்தொடரவோ வேண்டாம். பாதுகாப்பான நடவடிக்கைக்காக தகவல்களை அதிகாரிகளிடம் தனிப்பட்ட முறையில் அளியுங்கள்."
+          ],
+          "contacts": [
+            {
+              "name": "அவசர உதவி - உடனடி ஆபத்து",
+              "number": "112",
+              "available": "24 மணி நேரம்"
+            },
+            {
+              "name": "குழந்தைகள் உதவி எண்",
+              "number": "1098",
+              "available": "24 மணி நேரம்"
+            }
+          ],
+          "rights": [
+            "மிஷன் வாத்சல்யா கடத்தப்பட்ட குழந்தைகளை பாதிக்கப்படக்கூடிய குழுவாகக் குறிப்பிடுகிறது; காவல்துறையும் மாவட்ட குழந்தைப் பாதுகாப்பு அதிகாரிகளும் மதிப்பீட்டையும் பராமரிப்பையும் ஒருங்கிணைக்கின்றனர்."
+          ],
+          "schemes": [
+            {
+              "name": "மிஷன் வாத்சல்யா - மாவட்ட குழந்தைப் பாதுகாப்பு",
+              "description": "சிரமத்தில் உள்ள குழந்தைகளை மதிப்பீடு, நேரடி உதவி மற்றும் பொருத்தமான பராமரிப்பு அல்லது பரிந்துரைக்காக 1098 மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகளுடன் இணைக்கிறது."
+            }
+          ],
+          "sources": [
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Child Helpline 1098",
+        "url": "https://www.wcd.gov.in/child/child-helpline",
+        "locator": "Brief; district child protection and Mission Vatsalya services",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Child Helpline Standard Operating Procedures",
+        "url": "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf",
+        "locator": "PDF pages 8 and 12: call classification and district outreach",
+        "rawFile": "datasets/real-data/raw/child-support/child_helpline_sop.pdf",
+        "publishedOn": "2023-03-31",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Child Helpline SOP: trafficking and railway coordination",
+        "url": "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf",
+        "locator": "PDF pages 12-13: district outreach and trafficked children on railways",
+        "rawFile": "datasets/real-data/raw/child-support/child_helpline_sop.pdf",
+        "publishedOn": "2023-03-31",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response and follow-up are arranged through State and district child-protection services.",
+      "hi": "भारत; स्थानीय सहायता और आगे की कार्रवाई राज्य तथा जिला बाल संरक्षण सेवाओं के माध्यम से होती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவியும் தொடர்நடவடிக்கையும் மாநில மற்றும் மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகள் மூலம் வழங்கப்படுகின்றன."
+    }
+  },
+  {
+    "id": "child-support/child-online-safety-and-grooming",
+    "categoryId": "child-support",
+    "keywords": [
+      "Online Danger"
+    ],
+    "name": "Child online safety, grooming and stalking",
+    "help": {
+      "immediateHelp": [
+        "Tell a trusted adult if an online contact asks for secrets, personal photos or a meeting, or makes you uncomfortable. Do not share more personal information.",
+        "Block and report the unsafe account using the platform tools. Keep accounts private and avoid posting your school, location or daily routine.",
+        "For child-protection support call 1098; for immediate danger call 112. A trusted adult can help use the official Cyber Crime Reporting Portal for an online offence."
+      ],
+      "contacts": [
+        {
+          "name": "Child Helpline",
+          "number": "1098",
+          "available": "24 hours"
+        },
+        {
+          "name": "Emergency response - immediate danger",
+          "number": "112",
+          "available": "24 hours"
+        }
+      ],
+      "rights": [
+        "A child-rights concern can also be raised on NCPCR e-BaalNidan. Do not upload a child’s private images or complaint credentials to Bharat Help."
+      ],
+      "schemes": [],
+      "sources": [
+        "https://www.cert-in.org.in/PDF/Cyber_Smart_Kids_Suraksha_Guide.pdf",
+        "https://www.wcd.gov.in/child/child-helpline",
+        "https://cybercrime.gov.in/",
+        "https://ncpcr.gov.in/ebaalnidan/",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287039&lang=1&reg=1"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "बच्चों की ऑनलाइन सुरक्षा, बहलाना और पीछा करना",
+        "help": {
+          "immediateHelp": [
+            "ऑनलाइन कोई राज छिपाने, निजी फोटो भेजने या मिलने के लिए कहे, या असहज करे तो किसी भरोसेमंद वयस्क को बताएँ। और निजी जानकारी साझा न करें।",
+            "असुरक्षित खाते को प्लेटफॉर्म के साधनों से ब्लॉक और रिपोर्ट करें। खाते निजी रखें और स्कूल, स्थान या रोजमर्रा की दिनचर्या पोस्ट न करें।",
+            "बाल संरक्षण सहायता के लिए 1098 और तत्काल खतरे में 112 पर कॉल करें। ऑनलाइन अपराध की आधिकारिक साइबर पोर्टल पर शिकायत देने में भरोसेमंद वयस्क सहायता कर सकता है।"
+          ],
+          "contacts": [
+            {
+              "name": "चाइल्ड हेल्पलाइन",
+              "number": "1098",
+              "available": "24 घंटे"
+            },
+            {
+              "name": "आपातकालीन सहायता - तत्काल खतरा",
+              "number": "112",
+              "available": "24 घंटे"
+            }
+          ],
+          "rights": [
+            "बाल अधिकारों की चिंता NCPCR ई-बाल निदान पर भी दर्ज की जा सकती है। बच्चे की निजी तस्वीरें या शिकायत के लॉगिन विवरण भारत हेल्प पर अपलोड न करें।"
+          ],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/Cyber_Smart_Kids_Suraksha_Guide.pdf",
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://cybercrime.gov.in/",
+            "https://ncpcr.gov.in/ebaalnidan/",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287039&lang=1&reg=1"
+          ]
+        }
+      },
+      "ta": {
+        "name": "குழந்தைகளின் இணையப் பாதுகாப்பு, ஏமாற்றுதல் மற்றும் பின்தொடர்தல்",
+        "help": {
+          "immediateHelp": [
+            "இணையத்தில் யாராவது ரகசியம், தனிப்பட்ட புகைப்படம் அல்லது சந்திப்பு கேட்டாலோ அசௌகரியம் ஏற்படுத்தினாலோ நம்பகமான பெரியவரிடம் கூறுங்கள். மேலும் தனிப்பட்ட தகவல்களைப் பகிராதீர்கள்.",
+            "பாதுகாப்பற்ற கணக்கைத் தளத்தின் கருவிகள் மூலம் தடுத்து புகாரளியுங்கள். கணக்குகளைத் தனிப்பட்டதாக வைத்திருங்கள்; பள்ளி, இருப்பிடம் அல்லது அன்றாட வழக்கத்தைப் பதிவிடாதீர்கள்.",
+            "குழந்தைப் பாதுகாப்பு உதவிக்கு 1098-ஐயும் உடனடி ஆபத்துக்கு 112-ஐயும் அழையுங்கள். இணையக் குற்றத்தை அதிகாரப்பூர்வ சைபர் புகார் தளத்தில் தெரிவிக்க நம்பகமான பெரியவர் உதவலாம்."
+          ],
+          "contacts": [
+            {
+              "name": "குழந்தைகள் உதவி எண்",
+              "number": "1098",
+              "available": "24 மணி நேரம்"
+            },
+            {
+              "name": "அவசர உதவி - உடனடி ஆபத்து",
+              "number": "112",
+              "available": "24 மணி நேரம்"
+            }
+          ],
+          "rights": [
+            "குழந்தை உரிமை தொடர்பான பிரச்சினையை இ-பால் நிதான் தளத்திலும் தெரிவிக்கலாம். குழந்தையின் தனிப்பட்ட படங்களையோ புகார் உள்நுழைவு விவரங்களையோ பாரத் ஹெல்ப்பில் பதிவேற்றாதீர்கள்."
+          ],
+          "schemes": [],
+          "sources": [
+            "https://www.cert-in.org.in/PDF/Cyber_Smart_Kids_Suraksha_Guide.pdf",
+            "https://www.wcd.gov.in/child/child-helpline",
+            "https://cybercrime.gov.in/",
+            "https://ncpcr.gov.in/ebaalnidan/",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287039&lang=1&reg=1"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "WCD: Child Helpline 1098",
+        "url": "https://www.wcd.gov.in/child/child-helpline",
+        "locator": "Brief; district child protection and Mission Vatsalya services",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Child Helpline Standard Operating Procedures",
+        "url": "https://wcd.gov.in/images/uploaded/1709975712_5myVrEa7gd.pdf",
+        "locator": "PDF pages 8 and 12: call classification and district outreach",
+        "rawFile": "datasets/real-data/raw/child-support/child_helpline_sop.pdf",
+        "publishedOn": "2023-03-31",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "CERT-In: Cyber Smart Kids Suraksha Guide (October 2025)",
+        "url": "https://www.cert-in.org.in/PDF/Cyber_Smart_Kids_Suraksha_Guide.pdf",
+        "locator": "PDF pages 4, 6 and 9: privacy, location exposure, cyber grooming and stalking",
+        "rawFile": "datasets/real-data/raw/child-support/cyber_smart_kids_suraksha_guide.pdf",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "NCPCR e-BaalNidan",
+        "url": "https://ncpcr.gov.in/ebaalnidan/",
+        "locator": "Public Register Complaint and Track Complaint links",
+        "rawFile": "datasets/real-data/raw/child-support/child_support_reference_summary.txt",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "National Cyber Crime Reporting Portal",
+        "url": "https://cybercrime.gov.in/",
+        "locator": "Official crime-reporting route; correct category required",
+        "rawFile": "datasets/real-data/raw/cyber-crime/cybercrime_reporting_reference.txt",
+        "reviewedOn": "2026-10-24"
+      },
+      {
+        "title": "Ministry of Home Affairs/PIB: National Cyber Crime Reporting Portal",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287039&lang=1&reg=1",
+        "locator": "Paragraphs on the NCRP public reporting route, focus on women and children, and follow-up by State/UT law-enforcement authorities. Official release opened successfully; no complaint form was submitted.",
+        "publishedOn": "2026-07-21",
+        "reviewedOn": "2026-10-24"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; local response and follow-up are arranged through State and district child-protection services.",
+      "hi": "भारत; स्थानीय सहायता और आगे की कार्रवाई राज्य तथा जिला बाल संरक्षण सेवाओं के माध्यम से होती है।",
+      "ta": "இந்தியா; உள்ளூர் உதவியும் தொடர்நடவடிக்கையும் மாநில மற்றும் மாவட்ட குழந்தைப் பாதுகாப்புச் சேவைகள் மூலம் வழங்கப்படுகின்றன."
+    }
+  }
+]

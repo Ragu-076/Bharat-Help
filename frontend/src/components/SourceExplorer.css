@@ -1,0 +1,17 @@
+.source-explorer { margin: 2rem 0; padding: 1.4rem; background: #fff; border: 1px solid #cdd8e5; border-radius: 14px; text-align: left; }
+.source-explorer h2 { font-size: 1.3rem; color: #173c58; margin-top: 0; }
+.source-explorer-note, .source-status { color: #664e17; font-size: .9rem; line-height: 1.6; }
+.source-filters { display: flex; flex-wrap: wrap; gap: .8rem; align-items: end; margin: 1rem 0; }
+.source-filters label { display: flex; flex: 1 1 170px; flex-direction: column; gap: .4rem; font-size: .92rem; }
+.source-filters select, .source-filters input { width: 100%; min-width: 0; padding: .65rem; border: 1px solid #aebdca; border-radius: 7px; background: #fff; color: #182e40; font: inherit; }
+.source-filters button { margin: 0; }
+.directory-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 1rem; }
+.directory-card { padding: 1rem; border: 1px solid #dbe3ea; border-radius: 9px; overflow-wrap: anywhere; }
+.directory-card h3 { color: #173c58; font-size: 1.05rem; margin-top: 0; }
+.directory-card p { line-height: 1.6; white-space: pre-line; }
+.directory-card details { margin: 1rem 0; }
+.directory-card summary { cursor: pointer; font-weight: 600; }
+.directory-card a { color: #145b8b; }
+.source-pagination { display: flex; gap: 1rem; align-items: center; justify-content: center; margin-top: 1.2rem; flex-wrap: wrap; }
+.source-pagination button { padding: .55rem .8rem; border-radius: 6px; border: 1px solid #abbcc9; background: #edf3f7; cursor: pointer; }
+.source-pagination button:disabled { opacity: .5; cursor: default; }

@@ -1,0 +1,1313 @@
+[
+  {
+    "id": "government-schemes/ab-pmjay",
+    "categoryId": "government-schemes",
+    "keywords": [
+      "Health Insurance"
+    ],
+    "name": "Ayushman Bharat PM-JAY",
+    "help": {
+      "immediateHelp": [
+        "Check your household eligibility on the official beneficiary portal or at an empanelled hospital/CSC; separate enrolment rules cover people aged 70 and above.",
+        "Ask the hospital scheme desk whether the proposed treatment is covered before admission."
+      ],
+      "contacts": [
+        {
+          "name": "PM-JAY beneficiary portal",
+          "number": "https://beneficiary.nha.gov.in/",
+          "available": "Online information; follow the administering authority's application process."
+        }
+      ],
+      "rights": [],
+      "schemes": [
+        {
+          "name": "Ayushman Bharat PM-JAY",
+          "description": "Eligible families receive cashless cover up to ₹5 lakh per family per year for covered secondary/tertiary hospitalisation at empanelled hospitals; eligibility and package rules apply."
+        }
+      ],
+      "sources": [
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2110780&lang=2&reg=3",
+        "https://nha.gov.in/img/resources/Press_Release.pdf",
+        "https://www.myscheme.gov.in/schemes/ab-pmjay"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "आयुष्मान भारत पीएम-जय",
+        "help": {
+          "immediateHelp": [
+            "आधिकारिक लाभार्थी पोर्टल या सूचीबद्ध अस्पताल/सीएससी पर परिवार की पात्रता जाँचें; 70 वर्ष और अधिक आयु वालों के लिए अलग नामांकन नियम हैं।",
+            "भर्ती से पहले अस्पताल के योजना सहायता केंद्र से पूछें कि प्रस्तावित उपचार योजना में शामिल है या नहीं।"
+          ],
+          "contacts": [
+            {
+              "name": "पीएम-जय लाभार्थी पोर्टल",
+              "number": "https://beneficiary.nha.gov.in/",
+              "available": "ऑनलाइन जानकारी; योजना चलाने वाले प्राधिकरण की आवेदन प्रक्रिया अपनाएँ।"
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "आयुष्मान भारत पीएम-जय",
+              "description": "पात्र परिवारों को सूचीबद्ध अस्पतालों में शामिल द्वितीयक/तृतीयक भर्ती उपचार के लिए प्रति परिवार प्रति वर्ष ₹5 लाख तक नकदरहित कवर मिलता है; पात्रता और पैकेज नियम लागू हैं।"
+            }
+          ],
+          "sources": [
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2110780&lang=2&reg=3",
+            "https://nha.gov.in/img/resources/Press_Release.pdf",
+            "https://www.myscheme.gov.in/schemes/ab-pmjay"
+          ]
+        }
+      },
+      "ta": {
+        "name": "ஆயுஷ்மான் பாரத் பிஎம்-ஜேஏஒய்",
+        "help": {
+          "immediateHelp": [
+            "அதிகாரப்பூர்வ பயனாளர் தளத்தில் அல்லது அங்கீகரிக்கப்பட்ட மருத்துவமனை/பொது சேவை மையத்தில் குடும்பத் தகுதியைச் சரிபார்க்கவும்; 70 வயது மற்றும் அதற்கு மேற்பட்டோருக்குத் தனிப் பதிவு விதிகள் உள்ளன.",
+            "அனுமதிக்கு முன் குறிப்பிட்ட சிகிச்சை திட்டத்தில் உள்ளதா என்று மருத்துவமனைத் திட்ட உதவி மையத்தில் கேட்கவும்."
+          ],
+          "contacts": [
+            {
+              "name": "பிஎம்-ஜேஏஒய் பயனாளர் தளம்",
+              "number": "https://beneficiary.nha.gov.in/",
+              "available": "இணையத் தகவல்; திட்டத்தைச் செயல்படுத்தும் அதிகாரியின் விண்ணப்ப நடைமுறையைப் பின்பற்றவும்."
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "ஆயுஷ்மான் பாரத் பிஎம்-ஜேஏஒய்",
+              "description": "தகுதியுள்ள குடும்பங்களுக்கு அங்கீகரிக்கப்பட்ட மருத்துவமனைகளில் திட்டத்தில் உள்ள இரண்டாம்/மூன்றாம் நிலை உள்நோயாளர் சிகிச்சைக்கு ஆண்டுக்கு குடும்பம் ஒன்றுக்கு ₹5 லட்சம் வரை பணமில்லா காப்பு; தகுதி மற்றும் சிகிச்சைத் தொகுப்பு விதிகள் பொருந்தும்."
+            }
+          ],
+          "sources": [
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2110780&lang=2&reg=3",
+            "https://nha.gov.in/img/resources/Press_Release.pdf",
+            "https://www.myscheme.gov.in/schemes/ab-pmjay"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "Social Justice Ministry parliamentary reply: PM-JAY cover and senior-citizen enrolment",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2110780&lang=2&reg=3",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "Family hospitalisation cover and separate 70-plus enrolment route."
+        ],
+        "publishedOn": "2025-03-12"
+      },
+      {
+        "title": "National Health Authority: senior citizen cover",
+        "url": "https://nha.gov.in/img/resources/Press_Release.pdf"
+      },
+      {
+        "title": "myScheme scheme page; selected from the downloaded community snapshot",
+        "url": "https://www.myscheme.gov.in/schemes/ab-pmjay",
+        "rawFile": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+        "locator": "slug=ab-pmjay; CSV data record 490 (header excluded; not a physical line number)",
+        "rawRow": 490,
+        "rawName": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "Participating states/UTs; household/card eligibility must be verified officially.",
+      "hi": "भाग लेने वाले राज्य/केंद्रशासित प्रदेश; परिवार/कार्ड की पात्रता का आधिकारिक सत्यापन आवश्यक है।",
+      "ta": "பங்கேற்கும் மாநிலங்கள்/யூனியன் பிரதேசங்கள்; குடும்பம்/அட்டைத் தகுதியை அதிகாரப்பூர்வமாகச் சரிபார்க்க வேண்டும்."
+    }
+  },
+  {
+    "id": "government-schemes/cmchis",
+    "categoryId": "government-schemes",
+    "keywords": [
+      "Health Insurance"
+    ],
+    "name": "Tamil Nadu Chief Minister's Comprehensive Health Insurance Scheme",
+    "help": {
+      "immediateHelp": [
+        "For the general category, check Tamil Nadu residence, family-card membership and annual family income below ₹1,20,000; special categories have separate rules.",
+        "Take the income certificate, family ration card and Aadhaar to the card-issuing centre at the District Collector's Office for verification."
+      ],
+      "contacts": [
+        {
+          "name": "CMCHIS eligibility and enrolment information",
+          "number": "https://cmchistn.com/eligibility",
+          "available": "Online information; follow the administering authority's application process."
+        }
+      ],
+      "rights": [],
+      "schemes": [
+        {
+          "name": "Tamil Nadu Chief Minister's Comprehensive Health Insurance Scheme",
+          "description": "Hospital-treatment assistance for eligible Tamil Nadu families; check the covered procedures and empanelled hospital before treatment."
+        }
+      ],
+      "sources": [
+        "https://cmchistn.com/eligibility",
+        "https://www.cmchistn.com/",
+        "https://www.myscheme.gov.in/schemes/cmchis",
+        "https://www.cmchistn.com/Tender%20document%202022.pdf"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "तमिलनाडु मुख्यमंत्री व्यापक स्वास्थ्य बीमा योजना",
+        "help": {
+          "immediateHelp": [
+            "सामान्य श्रेणी में तमिलनाडु निवास, परिवार राशन कार्ड में नाम और ₹1,20,000 से कम वार्षिक पारिवारिक आय की शर्त जाँचें; विशेष श्रेणियों के अलग नियम हैं।",
+            "आय प्रमाणपत्र, परिवार राशन कार्ड और आधार लेकर जिला कलेक्टर कार्यालय के कार्ड जारी करने वाले केंद्र पर सत्यापन कराएँ।"
+          ],
+          "contacts": [
+            {
+              "name": "सीएमसीएचआईएस पात्रता और नामांकन जानकारी",
+              "number": "https://cmchistn.com/eligibility",
+              "available": "ऑनलाइन जानकारी; योजना चलाने वाले प्राधिकरण की आवेदन प्रक्रिया अपनाएँ।"
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "तमिलनाडु मुख्यमंत्री व्यापक स्वास्थ्य बीमा योजना",
+              "description": "पात्र तमिलनाडु परिवारों के लिए अस्पताल उपचार सहायता; उपचार से पहले शामिल प्रक्रियाएँ और सूचीबद्ध अस्पताल जाँचें।"
+            }
+          ],
+          "sources": [
+            "https://cmchistn.com/eligibility",
+            "https://www.cmchistn.com/",
+            "https://www.myscheme.gov.in/schemes/cmchis",
+            "https://www.cmchistn.com/Tender%20document%202022.pdf"
+          ]
+        }
+      },
+      "ta": {
+        "name": "தமிழ்நாடு முதலமைச்சரின் விரிவான மருத்துவக் காப்பீட்டுத் திட்டம்",
+        "help": {
+          "immediateHelp": [
+            "பொதுப் பிரிவுக்கு தமிழ்நாடு வசிப்பிடம், குடும்ப அட்டையில் பெயர் மற்றும் ஆண்டுக் குடும்ப வருமானம் ₹1,20,000-க்கும் குறைவாக உள்ளதா எனச் சரிபார்க்கவும்; சிறப்புப் பிரிவுகளுக்குத் தனி விதிகள் உள்ளன.",
+            "வருமானச் சான்றிதழ், குடும்ப அட்டை மற்றும் ஆதாருடன் மாவட்ட ஆட்சியர் அலுவலக அட்டை வழங்கும் மையத்தில் சரிபார்ப்புக்குச் செல்லவும்."
+          ],
+          "contacts": [
+            {
+              "name": "மருத்துவக் காப்பீட்டுத் தகுதி மற்றும் பதிவு விவரம்",
+              "number": "https://cmchistn.com/eligibility",
+              "available": "இணையத் தகவல்; திட்டத்தைச் செயல்படுத்தும் அதிகாரியின் விண்ணப்ப நடைமுறையைப் பின்பற்றவும்."
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "தமிழ்நாடு முதலமைச்சரின் விரிவான மருத்துவக் காப்பீட்டுத் திட்டம்",
+              "description": "தகுதியுள்ள தமிழ்நாடு குடும்பங்களுக்கு மருத்துவமனைச் சிகிச்சை உதவி; சிகிச்சைக்கு முன் திட்டத்தில் உள்ள சிகிச்சைகளையும் அங்கீகரிக்கப்பட்ட மருத்துவமனையையும் சரிபார்க்கவும்."
+            }
+          ],
+          "sources": [
+            "https://cmchistn.com/eligibility",
+            "https://www.cmchistn.com/",
+            "https://www.myscheme.gov.in/schemes/cmchis",
+            "https://www.cmchistn.com/Tender%20document%202022.pdf"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "CMCHIS official general-category eligibility and enrolment",
+        "url": "https://cmchistn.com/eligibility",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "General-category income threshold, residence/family-card evidence and enrolment documents."
+        ],
+        "verificationNote": "Official eligibility page is JavaScript-only in the text reader; criteria corroborated by the official 2022 scheme guidelines indexed on the same domain."
+      },
+      {
+        "title": "CMCHIS official scheme portal",
+        "url": "https://www.cmchistn.com/"
+      },
+      {
+        "title": "myScheme scheme page; selected from the downloaded community snapshot",
+        "url": "https://www.myscheme.gov.in/schemes/cmchis",
+        "rawFile": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+        "locator": "slug=cmchis; CSV data record 716 (header excluded; not a physical line number)",
+        "rawRow": 716,
+        "rawName": "Chief Minister's Comprehensive Health Insurance Scheme"
+      },
+      {
+        "title": "Government of Tamil Nadu: CMCHIS Guidelines 2022, enclosure 2, clause 3",
+        "url": "https://www.cmchistn.com/Tender%20document%202022.pdf",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "Tamil Nadu resident identification and general-category annual family income below ₹1,20,000."
+        ],
+        "verificationNote": "Official document text available in the search index; direct text extraction returned an empty body."
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "Tamil Nadu only; general-category guidance, with separate special-category rules.",
+      "hi": "केवल तमिलनाडु; सामान्य श्रेणी की जानकारी, विशेष श्रेणियों के अलग नियम।",
+      "ta": "தமிழ்நாட்டிற்கு மட்டும்; பொதுப் பிரிவு வழிகாட்டல், சிறப்புப் பிரிவுகளுக்குத் தனி விதிகள்."
+    }
+  },
+  {
+    "id": "government-schemes/csss-cus",
+    "categoryId": "government-schemes",
+    "keywords": [
+      "Education"
+    ],
+    "name": "PM-USP scholarship for college and university students",
+    "help": {
+      "immediateHelp": [
+        "Check the Class XII board-stream percentile requirement (above the 80th percentile), regular recognised degree course and family income up to ₹4.5 lakh per year.",
+        "Use the National Scholarship Portal OTR/student process during its application window; check current scholarship-combination rules and arrange institute verification."
+      ],
+      "contacts": [
+        {
+          "name": "National Scholarship Portal",
+          "number": "https://scholarships.gov.in/Students",
+          "available": "Online information; follow the administering authority's application process."
+        }
+      ],
+      "rights": [],
+      "schemes": [
+        {
+          "name": "PM-USP scholarship for college and university students",
+          "description": "Merit-based study support: ₹12,000 a year for the first three undergraduate years; higher-course/year rates and renewal conditions vary. Selection is subject to verification and available slots."
+        }
+      ],
+      "sources": [
+        "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+        "https://scholarships.gov.in/",
+        "https://www.myscheme.gov.in/schemes/csss-cus"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "कॉलेज और विश्वविद्यालय विद्यार्थियों के लिए पीएम-यूएसपी छात्रवृत्ति",
+        "help": {
+          "immediateHelp": [
+            "कक्षा 12 की संबंधित बोर्ड-स्ट्रीम में 80वें पर्सेंटाइल से ऊपर परिणाम, मान्य नियमित डिग्री पाठ्यक्रम और ₹4.5 लाख तक वार्षिक पारिवारिक आय की शर्त जाँचें।",
+            "आवेदन अवधि में राष्ट्रीय छात्रवृत्ति पोर्टल की ओटीआर/विद्यार्थी प्रक्रिया अपनाएँ; अन्य छात्रवृत्तियों के वर्तमान नियम जाँचें और संस्थान का सत्यापन कराएँ।"
+          ],
+          "contacts": [
+            {
+              "name": "राष्ट्रीय छात्रवृत्ति पोर्टल",
+              "number": "https://scholarships.gov.in/Students",
+              "available": "ऑनलाइन जानकारी; योजना चलाने वाले प्राधिकरण की आवेदन प्रक्रिया अपनाएँ।"
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "कॉलेज और विश्वविद्यालय विद्यार्थियों के लिए पीएम-यूएसपी छात्रवृत्ति",
+              "description": "योग्यता आधारित अध्ययन सहायता: स्नातक के पहले तीन वर्षों में ₹12,000 प्रति वर्ष; अन्य वर्ष/उच्च पाठ्यक्रम की दरें और नवीनीकरण शर्तें अलग हैं। चयन सत्यापन और उपलब्ध स्थानों पर निर्भर है।"
+            }
+          ],
+          "sources": [
+            "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+            "https://scholarships.gov.in/",
+            "https://www.myscheme.gov.in/schemes/csss-cus"
+          ]
+        }
+      },
+      "ta": {
+        "name": "கல்லூரி மற்றும் பல்கலைக்கழக மாணவர்களுக்கான பிஎம்-யுஎஸ்பி உதவித்தொகை",
+        "help": {
+          "immediateHelp": [
+            "12-ஆம் வகுப்பில் தொடர்புடைய வாரியப் பாடப்பிரிவில் 80-வது பெர்சென்டைலுக்கு மேல் முடிவு, அங்கீகரிக்கப்பட்ட வழக்கமான பட்டப்படிப்பு மற்றும் ஆண்டுக் குடும்ப வருமானம் ₹4.5 லட்சம் வரை உள்ளதா எனச் சரிபார்க்கவும்.",
+            "விண்ணப்பக் காலத்தில் தேசிய உதவித்தொகைத் தளத்தின் ஓடிஆர்/மாணவர் நடைமுறையைப் பின்பற்றவும்; பிற உதவித்தொகைகளுடன் பெறுவதற்கான தற்போதைய விதிகளையும் நிறுவனச் சரிபார்ப்பையும் கவனிக்கவும்."
+          ],
+          "contacts": [
+            {
+              "name": "தேசிய உதவித்தொகைத் தளம்",
+              "number": "https://scholarships.gov.in/Students",
+              "available": "இணையத் தகவல்; திட்டத்தைச் செயல்படுத்தும் அதிகாரியின் விண்ணப்ப நடைமுறையைப் பின்பற்றவும்."
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "கல்லூரி மற்றும் பல்கலைக்கழக மாணவர்களுக்கான பிஎம்-யுஎஸ்பி உதவித்தொகை",
+              "description": "தகுதி அடிப்படையிலான படிப்பு உதவி: பட்டப்படிப்பின் முதல் மூன்று ஆண்டுகளுக்கு ஆண்டுக்கு ₹12,000; பிற ஆண்டு/மேற்படிப்பு விகிதங்களும் புதுப்பிப்பு விதிகளும் வேறுபடும். தேர்வு சரிபார்ப்பு மற்றும் கிடைக்கும் இடங்களைச் சார்ந்தது."
+            }
+          ],
+          "sources": [
+            "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+            "https://scholarships.gov.in/",
+            "https://www.myscheme.gov.in/schemes/csss-cus"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "PM-USP CSSS guidelines on the National Scholarship Portal",
+        "url": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "Class XII percentile, regular course, family-income ceiling and scholarship rates."
+        ]
+      },
+      {
+        "title": "NSP current academic-year application instructions",
+        "url": "https://scholarships.gov.in/"
+      },
+      {
+        "title": "myScheme scheme page; selected from the downloaded community snapshot",
+        "url": "https://www.myscheme.gov.in/schemes/csss-cus",
+        "rawFile": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+        "locator": "slug=csss-cus; CSV data record 3279 (header excluded; not a physical line number)",
+        "rawRow": 3279,
+        "rawName": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University students"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; scheme conditions and local verification apply.",
+      "hi": "भारत; योजना की शर्तें और स्थानीय सत्यापन लागू हैं।",
+      "ta": "இந்தியா; திட்ட நிபந்தனைகளும் உள்ளூர் சரிபார்ப்பும் பொருந்தும்."
+    }
+  },
+  {
+    "id": "government-schemes/pmay-g",
+    "categoryId": "government-schemes",
+    "keywords": [
+      "Housing"
+    ],
+    "name": "PMAY-G rural housing assistance",
+    "help": {
+      "immediateHelp": [
+        "If your rural household is houseless or lives in a qualifying kutcha/dilapidated house, ask the Gram Panchayat or Block office about PMAY-G eligibility and the current survey/list.",
+        "Ask about AwaasPlus survey access and required records; Gram Sabha and authority verification apply, and a survey entry is not a housing sanction."
+      ],
+      "contacts": [
+        {
+          "name": "PMAY-G official survey information",
+          "number": "https://pmayg.nic.in/netiay/infoapp.html",
+          "available": "Online information; follow the administering authority's application process."
+        }
+      ],
+      "rights": [],
+      "schemes": [
+        {
+          "name": "PMAY-G rural housing assistance",
+          "description": "Construction assistance for eligible rural households selected through verified housing-deprivation lists and applicable exclusions; this is the rural scheme."
+        }
+      ],
+      "sources": [
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+        "https://pmayg.dord.gov.in/netiay/writereaddata/Circulars/SOP_AwaasPlus2024.pdf",
+        "https://www.myscheme.gov.in/schemes/pmay-g"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "पीएमएवाई-जी ग्रामीण आवास सहायता",
+        "help": {
+          "immediateHelp": [
+            "यदि ग्रामीण परिवार बेघर है या पात्र कच्चे/जर्जर घर में रहता है, तो ग्राम पंचायत या ब्लॉक कार्यालय से पीएमएवाई-जी पात्रता और वर्तमान सर्वेक्षण/सूची के बारे में पूछें।",
+            "आवासप्लस सर्वेक्षण और आवश्यक दस्तावेजों की जानकारी लें; ग्राम सभा और अधिकारी सत्यापन लागू है, सर्वेक्षण में नाम होना आवास स्वीकृति नहीं है।"
+          ],
+          "contacts": [
+            {
+              "name": "पीएमएवाई-जी आधिकारिक सर्वेक्षण जानकारी",
+              "number": "https://pmayg.nic.in/netiay/infoapp.html",
+              "available": "ऑनलाइन जानकारी; योजना चलाने वाले प्राधिकरण की आवेदन प्रक्रिया अपनाएँ।"
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "पीएमएवाई-जी ग्रामीण आवास सहायता",
+              "description": "सत्यापित आवास-वंचना सूची और लागू अपवर्जनों के आधार पर चुने गए पात्र ग्रामीण परिवारों के लिए निर्माण सहायता; यह ग्रामीण योजना है।"
+            }
+          ],
+          "sources": [
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+            "https://pmayg.dord.gov.in/netiay/writereaddata/Circulars/SOP_AwaasPlus2024.pdf",
+            "https://www.myscheme.gov.in/schemes/pmay-g"
+          ]
+        }
+      },
+      "ta": {
+        "name": "பிஎம்ஏஒய்-ஜி ஊரக வீட்டு உதவி",
+        "help": {
+          "immediateHelp": [
+            "கிராமப்புறத்தில் வீடின்றி அல்லது தகுதியான கச்சா/சிதிலமடைந்த வீட்டில் வசித்தால், ஊராட்சி அல்லது வட்டார அலுவலகத்தில் பிஎம்ஏஒய்-ஜி தகுதி மற்றும் தற்போதைய கணக்கெடுப்பு/பட்டியலைக் கேட்கவும்.",
+            "ஆவாஸ்பிளஸ் கணக்கெடுப்பு மற்றும் தேவையான ஆவணங்கள் குறித்துக் கேட்கவும்; கிராம சபை மற்றும் அதிகாரிகளின் சரிபார்ப்பு தேவை. கணக்கெடுப்பில் பதிவு செய்தல் வீடு ஒப்புதல் அல்ல."
+          ],
+          "contacts": [
+            {
+              "name": "பிஎம்ஏஒய்-ஜி அதிகாரப்பூர்வ கணக்கெடுப்பு விவரம்",
+              "number": "https://pmayg.nic.in/netiay/infoapp.html",
+              "available": "இணையத் தகவல்; திட்டத்தைச் செயல்படுத்தும் அதிகாரியின் விண்ணப்ப நடைமுறையைப் பின்பற்றவும்."
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "பிஎம்ஏஒய்-ஜி ஊரக வீட்டு உதவி",
+              "description": "சரிபார்க்கப்பட்ட வீட்டு வசதியின்மை பட்டியல் மற்றும் விலக்கு விதிகளின் அடிப்படையில் தேர்ந்தெடுக்கப்படும் தகுதியுள்ள கிராமப்புறக் குடும்பங்களுக்கு வீடு கட்ட உதவி; இது ஊரகத் திட்டம்."
+            }
+          ],
+          "sources": [
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+            "https://pmayg.dord.gov.in/netiay/writereaddata/Circulars/SOP_AwaasPlus2024.pdf",
+            "https://www.myscheme.gov.in/schemes/pmay-g"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "Rural Development: PMAY-G scope and current programme",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+        "publishedOn": "2026-01-01",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "Rural housing scope; survey inclusion is subject to eligibility and verification."
+        ]
+      },
+      {
+        "title": "Department of Rural Development AwaasPlus survey and verification SOP",
+        "url": "https://pmayg.dord.gov.in/netiay/writereaddata/Circulars/SOP_AwaasPlus2024.pdf"
+      },
+      {
+        "title": "myScheme scheme page; selected from the downloaded community snapshot",
+        "url": "https://www.myscheme.gov.in/schemes/pmay-g",
+        "rawFile": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+        "locator": "slug=pmay-g; CSV data record 3223 (header excluded; not a physical line number)",
+        "rawRow": 3223,
+        "rawName": "Pradhan Mantri Awaas Yojana - Gramin"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; scheme conditions and local verification apply.",
+      "hi": "भारत; योजना की शर्तें और स्थानीय सत्यापन लागू हैं।",
+      "ta": "இந்தியா; திட்ட நிபந்தனைகளும் உள்ளூர் சரிபார்ப்பும் பொருந்தும்."
+    }
+  },
+  {
+    "id": "government-schemes/pmkvy-stt",
+    "categoryId": "government-schemes",
+    "keywords": [
+      "Employment"
+    ],
+    "name": "PMKVY 4.0 skills and employment guidance",
+    "help": {
+      "immediateHelp": [
+        "Check Skill India Digital for available approved training batches, course prerequisites and enrolment; short-term training normally covers Indian nationals aged 15–45 with Aadhaar.",
+        "For job search, register on the free National Career Service portal. Training or registration does not guarantee a job; do not pay recruitment fees."
+      ],
+      "contacts": [
+        {
+          "name": "Skill India Digital",
+          "number": "https://www.skillindiadigital.gov.in/",
+          "available": "Online information; follow the administering authority's application process."
+        },
+        {
+          "name": "National Career Service: free job search",
+          "number": "https://www.ncs.gov.in/",
+          "available": "Online information; follow the administering authority's application process."
+        }
+      ],
+      "rights": [],
+      "schemes": [
+        {
+          "name": "PMKVY 4.0 skills and employment guidance",
+          "description": "Approved skill training, assessment and certification subject to course eligibility and available batches; use NCS separately to find vacancies and career support."
+        }
+      ],
+      "sources": [
+        "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2297203&lang=2&reg=48",
+        "https://www.ncs.gov.in/",
+        "https://www.myscheme.gov.in/schemes/pmkvy-stt"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "पीएमकेवीवाई 4.0 कौशल और रोजगार मार्गदर्शन",
+        "help": {
+          "immediateHelp": [
+            "स्किल इंडिया डिजिटल पर उपलब्ध स्वीकृत प्रशिक्षण बैच, पाठ्यक्रम की शर्तें और नामांकन जाँचें; अल्पकालिक प्रशिक्षण सामान्यतः आधार वाले 15–45 वर्ष के भारतीय नागरिकों के लिए है।",
+            "नौकरी खोजने के लिए निःशुल्क राष्ट्रीय करियर सेवा पोर्टल पर पंजीकरण करें। प्रशिक्षण या पंजीकरण नौकरी की गारंटी नहीं है; भर्ती शुल्क न दें।"
+          ],
+          "contacts": [
+            {
+              "name": "स्किल इंडिया डिजिटल",
+              "number": "https://www.skillindiadigital.gov.in/",
+              "available": "ऑनलाइन जानकारी; योजना चलाने वाले प्राधिकरण की आवेदन प्रक्रिया अपनाएँ।"
+            },
+            {
+              "name": "राष्ट्रीय करियर सेवा: निःशुल्क नौकरी खोज",
+              "number": "https://www.ncs.gov.in/",
+              "available": "ऑनलाइन जानकारी; योजना चलाने वाले प्राधिकरण की आवेदन प्रक्रिया अपनाएँ।"
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "पीएमकेवीवाई 4.0 कौशल और रोजगार मार्गदर्शन",
+              "description": "पाठ्यक्रम की पात्रता और उपलब्ध बैचों के अनुसार स्वीकृत कौशल प्रशिक्षण, मूल्यांकन और प्रमाणन; रिक्तियाँ और करियर सहायता खोजने के लिए एनसीएस का उपयोग करें।"
+            }
+          ],
+          "sources": [
+            "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2297203&lang=2&reg=48",
+            "https://www.ncs.gov.in/",
+            "https://www.myscheme.gov.in/schemes/pmkvy-stt"
+          ]
+        }
+      },
+      "ta": {
+        "name": "பிஎம்கேவிஒய் 4.0 திறன் மற்றும் வேலைவாய்ப்பு வழிகாட்டல்",
+        "help": {
+          "immediateHelp": [
+            "ஸ்கில் இந்தியா டிஜிட்டலில் கிடைக்கும் அங்கீகரிக்கப்பட்ட பயிற்சி வகுப்புகள், பாடத் தகுதிகள் மற்றும் பதிவைச் சரிபார்க்கவும்; குறுகியகாலப் பயிற்சி பொதுவாக ஆதாருடன் 15–45 வயதுடைய இந்தியர்களுக்கானது.",
+            "வேலை தேட இலவச தேசிய தொழில் சேவைத் தளத்தில் பதிவு செய்யவும். பயிற்சி அல்லது பதிவு வேலைக்கு உத்தரவாதம் அளிக்காது; ஆட்சேர்ப்புக் கட்டணம் செலுத்த வேண்டாம்."
+          ],
+          "contacts": [
+            {
+              "name": "ஸ்கில் இந்தியா டிஜிட்டல்",
+              "number": "https://www.skillindiadigital.gov.in/",
+              "available": "இணையத் தகவல்; திட்டத்தைச் செயல்படுத்தும் அதிகாரியின் விண்ணப்ப நடைமுறையைப் பின்பற்றவும்."
+            },
+            {
+              "name": "தேசிய தொழில் சேவை: இலவச வேலை தேடல்",
+              "number": "https://www.ncs.gov.in/",
+              "available": "இணையத் தகவல்; திட்டத்தைச் செயல்படுத்தும் அதிகாரியின் விண்ணப்ப நடைமுறையைப் பின்பற்றவும்."
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "பிஎம்கேவிஒய் 4.0 திறன் மற்றும் வேலைவாய்ப்பு வழிகாட்டல்",
+              "description": "பாடத் தகுதி மற்றும் கிடைக்கும் வகுப்புகளின் அடிப்படையில் அங்கீகரிக்கப்பட்ட திறன் பயிற்சி, மதிப்பீடு மற்றும் சான்றிதழ்; காலிப்பணியிடங்கள் மற்றும் தொழில் வழிகாட்டலுக்கு என்சிஎஸ் தளத்தைப் பயன்படுத்தவும்."
+            }
+          ],
+          "sources": [
+            "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2297203&lang=2&reg=48",
+            "https://www.ncs.gov.in/",
+            "https://www.myscheme.gov.in/schemes/pmkvy-stt"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "MSDE PMKVY 4.0 guidelines",
+        "url": "https://www.msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "Short-term training age range, Aadhaar and job-role prerequisites."
+        ]
+      },
+      {
+        "title": "MSDE: PMKVY implementation and FY2026-27 funding",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2297203&lang=2&reg=48",
+        "publishedOn": "2026-08-10"
+      },
+      {
+        "title": "Ministry of Labour National Career Service",
+        "url": "https://www.ncs.gov.in/",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "NCS registration, job application and interview processing are free; users should not pay employers."
+        ]
+      },
+      {
+        "title": "myScheme scheme page; selected from the downloaded community snapshot",
+        "url": "https://www.myscheme.gov.in/schemes/pmkvy-stt",
+        "rawFile": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+        "locator": "slug=pmkvy-stt; CSV data record 3239 (header excluded; not a physical line number)",
+        "rawRow": 3239,
+        "rawName": "Pradhan Mantri Kaushal Vikas Yojana 4.0 - Short-Term Training"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; scheme conditions and local verification apply.",
+      "hi": "भारत; योजना की शर्तें और स्थानीय सत्यापन लागू हैं।",
+      "ta": "இந்தியா; திட்ட நிபந்தனைகளும் உள்ளூர் சரிபார்ப்பும் பொருந்தும்."
+    }
+  },
+  {
+    "id": "government-schemes/pm-kisan",
+    "categoryId": "government-schemes",
+    "keywords": [
+      "Agriculture"
+    ],
+    "name": "PM-KISAN farmer income support",
+    "help": {
+      "immediateHelp": [
+        "Check whether your landholding farmer family qualifies; income-tax payers, institutional landholders and specified higher-income/professional categories are excluded.",
+        "Use the official portal for registration/status and e-KYC; ask your local agriculture office/CSC for help with land records and Aadhaar-linked bank details."
+      ],
+      "contacts": [
+        {
+          "name": "PM-KISAN official portal",
+          "number": "https://pmkisan.gov.in/",
+          "available": "Online information; follow the administering authority's application process."
+        }
+      ],
+      "rights": [],
+      "schemes": [
+        {
+          "name": "PM-KISAN farmer income support",
+          "description": "Eligible verified farmer families receive ₹6,000 per year in three ₹2,000 instalments. Land records, e-KYC, exclusions and government verification apply; this is not assistance for every applicant."
+        }
+      ],
+      "sources": [
+        "https://www.pmkisan.gov.in/",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275744&lang=1&reg=3",
+        "https://www.myscheme.gov.in/schemes/pm-kisan",
+        "https://www.nic.gov.in/project/pm-kisan/"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "पीएम-किसान किसान आय सहायता",
+        "help": {
+          "immediateHelp": [
+            "जाँचें कि भूमि धारक किसान परिवार पात्र है या नहीं; आयकरदाता, संस्थागत भूमिधारक और निर्दिष्ट उच्च-आय/पेशेवर श्रेणियाँ अपात्र हैं।",
+            "पंजीकरण/स्थिति और ई-केवाईसी के लिए आधिकारिक पोर्टल का उपयोग करें; भूमि रिकॉर्ड और आधार से जुड़े बैंक विवरण के लिए कृषि कार्यालय/सीएससी से मदद लें।"
+          ],
+          "contacts": [
+            {
+              "name": "पीएम-किसान आधिकारिक पोर्टल",
+              "number": "https://pmkisan.gov.in/",
+              "available": "ऑनलाइन जानकारी; योजना चलाने वाले प्राधिकरण की आवेदन प्रक्रिया अपनाएँ।"
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "पीएम-किसान किसान आय सहायता",
+              "description": "सत्यापित पात्र किसान परिवारों को वर्ष में ₹2,000 की तीन किस्तों में ₹6,000 मिलते हैं। भूमि रिकॉर्ड, ई-केवाईसी, अपवर्जन और सरकारी सत्यापन लागू हैं; हर आवेदक पात्र नहीं है।"
+            }
+          ],
+          "sources": [
+            "https://www.pmkisan.gov.in/",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275744&lang=1&reg=3",
+            "https://www.myscheme.gov.in/schemes/pm-kisan",
+            "https://www.nic.gov.in/project/pm-kisan/"
+          ]
+        }
+      },
+      "ta": {
+        "name": "பிஎம்-கிசான் விவசாய வருமான உதவி",
+        "help": {
+          "immediateHelp": [
+            "நிலமுடைய விவசாயக் குடும்பம் தகுதியுள்ளதா எனச் சரிபார்க்கவும்; வருமான வரி செலுத்துவோர், நிறுவன நில உரிமையாளர்கள் மற்றும் குறிப்பிட்ட உயர் வருமான/தொழில்முறைப் பிரிவினர் விலக்கப்படுகின்றனர்.",
+            "பதிவு/நிலை மற்றும் மின்னணு கேஒய்சிக்கு அதிகாரப்பூர்வ தளத்தைப் பயன்படுத்தவும்; நில ஆவணங்கள் மற்றும் ஆதார் இணைந்த வங்கித் தகவல்களுக்கு வேளாண் அலுவலகம்/பொது சேவை மைய உதவியை நாடவும்."
+          ],
+          "contacts": [
+            {
+              "name": "பிஎம்-கிசான் அதிகாரப்பூர்வ தளம்",
+              "number": "https://pmkisan.gov.in/",
+              "available": "இணையத் தகவல்; திட்டத்தைச் செயல்படுத்தும் அதிகாரியின் விண்ணப்ப நடைமுறையைப் பின்பற்றவும்."
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "பிஎம்-கிசான் விவசாய வருமான உதவி",
+              "description": "சரிபார்க்கப்பட்ட தகுதியுள்ள விவசாயக் குடும்பங்களுக்கு ஆண்டுக்கு ₹2,000 வீதம் மூன்று தவணைகளில் ₹6,000. நில ஆவணங்கள், மின்னணு கேஒய்சி, விலக்கு விதிகள் மற்றும் அரசு சரிபார்ப்பு பொருந்தும்; எல்லா விண்ணப்பதாரர்களுக்கும் உதவி கிடைக்காது."
+            }
+          ],
+          "sources": [
+            "https://www.pmkisan.gov.in/",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275744&lang=1&reg=3",
+            "https://www.myscheme.gov.in/schemes/pm-kisan",
+            "https://www.nic.gov.in/project/pm-kisan/"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "Department of Agriculture PM-KISAN eligibility and exclusions",
+        "url": "https://www.pmkisan.gov.in/",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "Landholding-family income support, annual instalments and verification requirements."
+        ],
+        "verificationNote": "Current benefit, e-KYC and land-record checks corroborated by the Agriculture Ministry release dated 20 June 2026; individual approval remains with the state authority."
+      },
+      {
+        "title": "Agriculture Ministry: PM-KISAN benefit and verification requirements",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275744&lang=1&reg=3",
+        "publishedOn": "2026-06-20",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "₹6,000 annually in three instalments; land records, Aadhaar-linked banking and e-KYC verification."
+        ]
+      },
+      {
+        "title": "myScheme scheme page; selected from the downloaded community snapshot",
+        "url": "https://www.myscheme.gov.in/schemes/pm-kisan",
+        "rawFile": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+        "locator": "slug=pm-kisan; CSV data record 3242 (header excluded; not a physical line number)",
+        "rawRow": 3242,
+        "rawName": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)"
+      },
+      {
+        "title": "PM-KISAN farmer income support — supplementary official source check",
+        "url": "https://www.nic.gov.in/project/pm-kisan/",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "Annual benefit, instalments and e-KYC; exclusions checked against official PM-KISAN indexed content."
+        ]
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; scheme conditions and local verification apply.",
+      "hi": "भारत; योजना की शर्तें और स्थानीय सत्यापन लागू हैं।",
+      "ta": "இந்தியா; திட்ட நிபந்தனைகளும் உள்ளூர் சரிபார்ப்பும் பொருந்தும்."
+    }
+  },
+  {
+    "id": "government-schemes/pm-sym",
+    "categoryId": "government-schemes",
+    "keywords": [
+      "Pension"
+    ],
+    "name": "PM-SYM contributory pension for unorganised workers",
+    "help": {
+      "immediateHelp": [
+        "Check entry age 18–40, monthly income up to ₹15,000, unorganised work and exclusions such as EPFO/ESIC/NPS coverage and income tax.",
+        "Ask a CSC about enrolment with Aadhaar and a savings/Jan-Dhan account; review the age-based monthly contribution and auto-debit before joining."
+      ],
+      "contacts": [
+        {
+          "name": "Labour Ministry PM-SYM FAQ",
+          "number": "https://labour.gov.in/FAQ-0",
+          "available": "Online information; follow the administering authority's application process."
+        }
+      ],
+      "rights": [],
+      "schemes": [
+        {
+          "name": "PM-SYM contributory pension for unorganised workers",
+          "description": "Voluntary contributory scheme with a minimum ₹3,000 monthly pension from age 60, subject to scheme conditions and contributions; it is not an immediate free pension."
+        }
+      ],
+      "sources": [
+        "https://labour.gov.in/FAQ-0",
+        "https://eshram.gov.in/social-security-welfare-schemes?change_theme=1",
+        "https://www.myscheme.gov.in/schemes/pm-sym",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2293891&lang=1&reg=3"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "असंगठित श्रमिकों के लिए पीएम-एसवाईएम अंशदायी पेंशन",
+        "help": {
+          "immediateHelp": [
+            "प्रवेश आयु 18–40 वर्ष, ₹15,000 तक मासिक आय, असंगठित कार्य और ईपीएफओ/ईएसआईसी/एनपीएस व आयकर संबंधी अपवर्जन जाँचें।",
+            "आधार और बचत/जन-धन खाते के साथ नामांकन के लिए सीएससी से पूछें; जुड़ने से पहले आयु-आधारित मासिक अंशदान और ऑटो-डेबिट समझें।"
+          ],
+          "contacts": [
+            {
+              "name": "श्रम मंत्रालय पीएम-एसवाईएम प्रश्नोत्तर",
+              "number": "https://labour.gov.in/FAQ-0",
+              "available": "ऑनलाइन जानकारी; योजना चलाने वाले प्राधिकरण की आवेदन प्रक्रिया अपनाएँ।"
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "असंगठित श्रमिकों के लिए पीएम-एसवाईएम अंशदायी पेंशन",
+              "description": "स्वैच्छिक अंशदायी योजना में शर्तों और अंशदान के अनुसार 60 वर्ष की आयु से न्यूनतम ₹3,000 मासिक पेंशन; यह तत्काल मिलने वाली निःशुल्क पेंशन नहीं है।"
+            }
+          ],
+          "sources": [
+            "https://labour.gov.in/FAQ-0",
+            "https://eshram.gov.in/social-security-welfare-schemes?change_theme=1",
+            "https://www.myscheme.gov.in/schemes/pm-sym",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2293891&lang=1&reg=3"
+          ]
+        }
+      },
+      "ta": {
+        "name": "அமைப்புசாரா தொழிலாளர்களுக்கான பிஎம்-எஸ்ஒய்எம் பங்களிப்பு ஓய்வூதியம்",
+        "help": {
+          "immediateHelp": [
+            "சேரும் வயது 18–40, மாத வருமானம் ₹15,000 வரை, அமைப்புசாரா வேலை மற்றும் ஈபிஎஃப்ஓ/ஈஎஸ்ஐசி/என்பிஎஸ், வருமானவரி தொடர்பான விலக்குகளைச் சரிபார்க்கவும்.",
+            "ஆதார் மற்றும் சேமிப்பு/ஜன்தன் கணக்குடன் சேர்வது குறித்துப் பொது சேவை மையத்தில் கேட்கவும்; சேரும் முன் வயதிற்கேற்ற மாதப் பங்களிப்பு மற்றும் தானியங்கிப் பிடித்தத்தைப் புரிந்துகொள்ளவும்."
+          ],
+          "contacts": [
+            {
+              "name": "தொழிலாளர் அமைச்சக பிஎம்-எஸ்ஒய்எம் கேள்வி பதில்கள்",
+              "number": "https://labour.gov.in/FAQ-0",
+              "available": "இணையத் தகவல்; திட்டத்தைச் செயல்படுத்தும் அதிகாரியின் விண்ணப்ப நடைமுறையைப் பின்பற்றவும்."
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "அமைப்புசாரா தொழிலாளர்களுக்கான பிஎம்-எஸ்ஒய்எம் பங்களிப்பு ஓய்வூதியம்",
+              "description": "விதிகள் மற்றும் பங்களிப்புகளின் அடிப்படையில் 60 வயதிலிருந்து குறைந்தபட்சம் மாதம் ₹3,000 ஓய்வூதியம் வழங்கும் விருப்பப் பங்களிப்புத் திட்டம்; இது உடனடி இலவச ஓய்வூதியம் அல்ல."
+            }
+          ],
+          "sources": [
+            "https://labour.gov.in/FAQ-0",
+            "https://eshram.gov.in/social-security-welfare-schemes?change_theme=1",
+            "https://www.myscheme.gov.in/schemes/pm-sym",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2293891&lang=1&reg=3"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "Labour Ministry PM-SYM eligibility, enrolment and contributions FAQ",
+        "url": "https://labour.gov.in/FAQ-0",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "Entry age and income limits, exclusions and contributory pension structure."
+        ],
+        "verificationNote": "The Ministry FAQ text was readable in the official search index; its direct page returned no extractable body."
+      },
+      {
+        "title": "e-Shram social-security welfare schemes",
+        "url": "https://eshram.gov.in/social-security-welfare-schemes?change_theme=1"
+      },
+      {
+        "title": "myScheme scheme page; selected from the downloaded community snapshot",
+        "url": "https://www.myscheme.gov.in/schemes/pm-sym",
+        "rawFile": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+        "locator": "slug=pm-sym; CSV data record 3275 (header excluded; not a physical line number)",
+        "rawRow": 3275,
+        "rawName": "Pradhan Mantri Shram Yogi Maan-dhan"
+      },
+      {
+        "title": "PM-SYM contributory pension for unorganised workers — supplementary official source check",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2293891&lang=1&reg=3",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "August 2026 eligibility, contributory nature, future pension and CSC/self-enrolment."
+        ]
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; scheme conditions and local verification apply.",
+      "hi": "भारत; योजना की शर्तें और स्थानीय सत्यापन लागू हैं।",
+      "ta": "இந்தியா; திட்ட நிபந்தனைகளும் உள்ளூர் சரிபார்ப்பும் பொருந்தும்."
+    }
+  },
+  {
+    "id": "government-schemes/nsap-ignoaps",
+    "categoryId": "government-schemes",
+    "keywords": [
+      "Pension"
+    ],
+    "name": "IGNOAPS old-age social assistance",
+    "help": {
+      "immediateHelp": [
+        "People aged 60 or above in a recognised Below Poverty Line household can ask the Gram Panchayat/municipality or state social-welfare/revenue office about the applicable pension process.",
+        "Ask which age, household and bank records are required, and request an application acknowledgement; eligibility is verified locally."
+      ],
+      "contacts": [
+        {
+          "name": "NSAP official information",
+          "number": "https://nsap.nic.in/",
+          "available": "Online information; follow the administering authority's application process."
+        }
+      ],
+      "rights": [],
+      "schemes": [
+        {
+          "name": "IGNOAPS old-age social assistance",
+          "description": "Central pension assistance is ₹200/month at ages 60–79 and ₹500/month from age 80. State additions and implementation rules determine the total amount."
+        }
+      ],
+      "sources": [
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+        "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+        "https://narmadapuram.nic.in/en/scheme/indira-gandhi-national-old-age-pension-scheme/",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226202&lang=1&reg=1",
+        "https://www.myscheme.gov.in/schemes/nsap-ignoaps"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन",
+        "help": {
+          "immediateHelp": [
+            "मान्य गरीबी रेखा से नीचे परिवार के 60 वर्ष या अधिक आयु के व्यक्ति ग्राम पंचायत/नगरपालिका या राज्य समाज कल्याण/राजस्व कार्यालय से लागू पेंशन प्रक्रिया पूछें।",
+            "आयु, परिवार और बैंक के आवश्यक दस्तावेज पूछें तथा आवेदन की पावती लें; पात्रता का स्थानीय सत्यापन होता है।"
+          ],
+          "contacts": [
+            {
+              "name": "एनएसएपी आधिकारिक जानकारी",
+              "number": "https://nsap.nic.in/",
+              "available": "ऑनलाइन जानकारी; योजना चलाने वाले प्राधिकरण की आवेदन प्रक्रिया अपनाएँ।"
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन",
+              "description": "केंद्रीय पेंशन अंश 60–79 वर्ष में ₹200/माह और 80 वर्ष से ₹500/माह है। कुल राशि राज्य के अतिरिक्त अंश और कार्यान्वयन नियमों पर निर्भर है।"
+            }
+          ],
+          "sources": [
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+            "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+            "https://narmadapuram.nic.in/en/scheme/indira-gandhi-national-old-age-pension-scheme/",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226202&lang=1&reg=1",
+            "https://www.myscheme.gov.in/schemes/nsap-ignoaps"
+          ]
+        }
+      },
+      "ta": {
+        "name": "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதியம்",
+        "help": {
+          "immediateHelp": [
+            "அங்கீகரிக்கப்பட்ட வறுமைக்கோட்டிற்குக் கீழுள்ள குடும்பத்தைச் சேர்ந்த 60 வயது அல்லது அதற்கு மேற்பட்டோர், ஊராட்சி/நகராட்சி அல்லது மாநில சமூகநல/வருவாய் அலுவலகத்தில் ஓய்வூதிய நடைமுறையைக் கேட்கலாம்.",
+            "தேவையான வயது, குடும்பம் மற்றும் வங்கி ஆவணங்களைக் கேட்டு விண்ணப்ப ஒப்புகையைப் பெறவும்; தகுதி உள்ளூரில் சரிபார்க்கப்படும்."
+          ],
+          "contacts": [
+            {
+              "name": "என்எஸ்ஏபி அதிகாரப்பூர்வ விவரம்",
+              "number": "https://nsap.nic.in/",
+              "available": "இணையத் தகவல்; திட்டத்தைச் செயல்படுத்தும் அதிகாரியின் விண்ணப்ப நடைமுறையைப் பின்பற்றவும்."
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதியம்",
+              "description": "மத்திய ஓய்வூதியப் பங்கு 60–79 வயதில் மாதம் ₹200; 80 வயதிலிருந்து மாதம் ₹500. மொத்தத் தொகை மாநிலக் கூடுதல் பங்கு மற்றும் நடைமுறை விதிகளைச் சார்ந்தது."
+            }
+          ],
+          "sources": [
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+            "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+            "https://narmadapuram.nic.in/en/scheme/indira-gandhi-national-old-age-pension-scheme/",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226202&lang=1&reg=1",
+            "https://www.myscheme.gov.in/schemes/nsap-ignoaps"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "Rural Development: current NSAP eligibility and central contributions",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+        "publishedOn": "2026-01-01",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "BPL age criteria and central pension contribution; state top-ups vary."
+        ]
+      },
+      {
+        "title": "Nagaland Social Welfare: national NSAP component eligibility",
+        "url": "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/"
+      },
+      {
+        "title": "Narmadapuram district: example of local pension application route",
+        "url": "https://narmadapuram.nic.in/en/scheme/indira-gandhi-national-old-age-pension-scheme/"
+      },
+      {
+        "title": "Social Justice Ministry: current IGNOAPS central pension amounts",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226202&lang=1&reg=1",
+        "publishedOn": "2026-02-11"
+      },
+      {
+        "title": "myScheme scheme page; selected from the downloaded community snapshot",
+        "url": "https://www.myscheme.gov.in/schemes/nsap-ignoaps",
+        "rawFile": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+        "locator": "slug=nsap-ignoaps; CSV data record 2940 (header excluded; not a physical line number)",
+        "rawRow": 2940,
+        "rawName": "NSAP - Indira Gandhi National Old Age Pension Scheme"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; scheme conditions and local verification apply.",
+      "hi": "भारत; योजना की शर्तें और स्थानीय सत्यापन लागू हैं।",
+      "ta": "இந்தியா; திட்ட நிபந்தனைகளும் உள்ளூர் சரிபார்ப்பும் பொருந்தும்."
+    }
+  },
+  {
+    "id": "government-schemes/igndps",
+    "categoryId": "government-schemes",
+    "keywords": [
+      "Disability Support"
+    ],
+    "name": "IGNDPS disability social assistance",
+    "help": {
+      "immediateHelp": [
+        "Ask the local social-welfare/revenue office about IGNDPS if you are aged 18 or above, belong to a recognised Below Poverty Line household and meet the severe/multiple disability criteria (80% disability).",
+        "Carry the disability certificate and ask about required household, age and bank records; other state disability schemes may have different eligibility."
+      ],
+      "contacts": [
+        {
+          "name": "NSAP official information",
+          "number": "https://nsap.nic.in/",
+          "available": "Online information; follow the administering authority's application process."
+        }
+      ],
+      "rights": [],
+      "schemes": [
+        {
+          "name": "IGNDPS disability social assistance",
+          "description": "Central disability pension contribution is ₹300/month at ages 18–79 and ₹500/month from age 80; state additions and verification apply. Not every disability certificate qualifies for this specific scheme."
+        }
+      ],
+      "sources": [
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+        "https://saiindia.gov.in/webroot/uploads/download_audit_report/2024/AG-Report-NSAP-Eng-067f8b2d369c876.27877078.pdf",
+        "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+        "https://www.myscheme.gov.in/schemes/igndps"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "इंदिरा गांधी राष्ट्रीय दिव्यांग पेंशन",
+        "help": {
+          "immediateHelp": [
+            "18 वर्ष या अधिक आयु, मान्य गरीबी रेखा से नीचे परिवार और गंभीर/बहु-दिव्यांगता की 80% शर्त पूरी होने पर स्थानीय समाज कल्याण/राजस्व कार्यालय से आईजीएनडीपीएस के बारे में पूछें।",
+            "दिव्यांगता प्रमाणपत्र लेकर जाएँ तथा परिवार, आयु और बैंक के आवश्यक दस्तावेज पूछें; राज्य की अन्य दिव्यांग योजनाओं की पात्रता अलग हो सकती है।"
+          ],
+          "contacts": [
+            {
+              "name": "एनएसएपी आधिकारिक जानकारी",
+              "number": "https://nsap.nic.in/",
+              "available": "ऑनलाइन जानकारी; योजना चलाने वाले प्राधिकरण की आवेदन प्रक्रिया अपनाएँ।"
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "इंदिरा गांधी राष्ट्रीय दिव्यांग पेंशन",
+              "description": "केंद्रीय दिव्यांग पेंशन अंश 18–79 वर्ष में ₹300/माह और 80 वर्ष से ₹500/माह है; राज्य का अतिरिक्त अंश और सत्यापन लागू है। हर दिव्यांगता प्रमाणपत्र इस योजना के लिए पर्याप्त नहीं है।"
+            }
+          ],
+          "sources": [
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+            "https://saiindia.gov.in/webroot/uploads/download_audit_report/2024/AG-Report-NSAP-Eng-067f8b2d369c876.27877078.pdf",
+            "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+            "https://www.myscheme.gov.in/schemes/igndps"
+          ]
+        }
+      },
+      "ta": {
+        "name": "இந்திரா காந்தி தேசிய மாற்றுத்திறனாளிகள் ஓய்வூதியம்",
+        "help": {
+          "immediateHelp": [
+            "18 வயது அல்லது அதற்கு மேல், அங்கீகரிக்கப்பட்ட வறுமைக்கோட்டிற்குக் கீழுள்ள குடும்பம் மற்றும் கடுமையான/பலவகை மாற்றுத்திறன் விதிகளின் 80% அளவைக் கொண்டிருந்தால், உள்ளூர் சமூகநல/வருவாய் அலுவலகத்தில் இத்திட்டம் பற்றிக் கேட்கவும்.",
+            "மாற்றுத்திறன் சான்றிதழுடன் சென்று தேவையான குடும்பம், வயது மற்றும் வங்கி ஆவணங்களைக் கேட்கவும்; மாநிலத்தின் பிற மாற்றுத்திறனாளர் திட்டங்களின் தகுதி வேறுபடலாம்."
+          ],
+          "contacts": [
+            {
+              "name": "என்எஸ்ஏபி அதிகாரப்பூர்வ விவரம்",
+              "number": "https://nsap.nic.in/",
+              "available": "இணையத் தகவல்; திட்டத்தைச் செயல்படுத்தும் அதிகாரியின் விண்ணப்ப நடைமுறையைப் பின்பற்றவும்."
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "இந்திரா காந்தி தேசிய மாற்றுத்திறனாளிகள் ஓய்வூதியம்",
+              "description": "மத்திய மாற்றுத்திறனாளர் ஓய்வூதியப் பங்கு 18–79 வயதில் மாதம் ₹300; 80 வயதிலிருந்து மாதம் ₹500. மாநிலக் கூடுதல் பங்கு மற்றும் சரிபார்ப்பு பொருந்தும். எல்லா மாற்றுத்திறன் சான்றிதழ்களும் இத்திட்டத்திற்குத் தகுதி அளிக்காது."
+            }
+          ],
+          "sources": [
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+            "https://saiindia.gov.in/webroot/uploads/download_audit_report/2024/AG-Report-NSAP-Eng-067f8b2d369c876.27877078.pdf",
+            "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+            "https://www.myscheme.gov.in/schemes/igndps"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "Rural Development: current NSAP disability pension rules",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+        "publishedOn": "2026-01-01",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "BPL disability and age criteria; central contribution varies by age."
+        ]
+      },
+      {
+        "title": "CAG: audit of NSAP implementation and benefit eligibility",
+        "url": "https://saiindia.gov.in/webroot/uploads/download_audit_report/2024/AG-Report-NSAP-Eng-067f8b2d369c876.27877078.pdf"
+      },
+      {
+        "title": "Nagaland Social Welfare: national disability pension component eligibility",
+        "url": "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/"
+      },
+      {
+        "title": "myScheme scheme page; selected from the downloaded community snapshot",
+        "url": "https://www.myscheme.gov.in/schemes/igndps",
+        "rawFile": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+        "locator": "slug=igndps; CSV data record 1852 (header excluded; not a physical line number)",
+        "rawRow": 1852,
+        "rawName": "Indira Gandhi National Disability Pension Scheme"
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; scheme conditions and local verification apply.",
+      "hi": "भारत; योजना की शर्तें और स्थानीय सत्यापन लागू हैं।",
+      "ta": "இந்தியா; திட்ட நிபந்தனைகளும் உள்ளூர் சரிபார்ப்பும் பொருந்தும்."
+    }
+  },
+  {
+    "id": "government-schemes/nfbs",
+    "categoryId": "government-schemes",
+    "keywords": [
+      "Financial Aid"
+    ],
+    "name": "National Family Benefit Scheme: bereavement assistance",
+    "help": {
+      "immediateHelp": [
+        "This specific aid is for a recognised Below Poverty Line family after the death of its primary breadwinner aged 18–59; it is not a general cash benefit for all financial problems.",
+        "Ask the Gram Panchayat/municipality or state social-welfare/revenue office about the NFBS application, death certificate, age and household records; approval requires verification."
+      ],
+      "contacts": [
+        {
+          "name": "NSAP official information",
+          "number": "https://nsap.nic.in/",
+          "available": "Online information; follow the administering authority's application process."
+        }
+      ],
+      "rights": [],
+      "schemes": [
+        {
+          "name": "National Family Benefit Scheme: bereavement assistance",
+          "description": "One-time ₹20,000 assistance to the eligible surviving household head after the death of the primary breadwinner, under NFBS conditions."
+        }
+      ],
+      "sources": [
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+        "https://saiindia.gov.in/webroot/uploads/download_audit_report/2024/AG-Report-NSAP-Eng-067f8b2d369c876.27877078.pdf",
+        "https://sjsa.maharashtra.gov.in/en/scheme/national-family-benefit-scheme/",
+        "https://patan.nic.in/scheme/national-family-benefit-scheme-nfbs-sankatmochan/",
+        "https://www.myscheme.gov.in/schemes/nfbs",
+        "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=155928&id=155928&lang=2&reg=3"
+      ]
+    },
+    "translations": {
+      "hi": {
+        "name": "राष्ट्रीय पारिवारिक लाभ योजना: मृत्यु के बाद सहायता",
+        "help": {
+          "immediateHelp": [
+            "यह सहायता मान्य गरीबी रेखा से नीचे परिवार के 18–59 वर्ष के मुख्य कमाने वाले की मृत्यु पर है; यह हर आर्थिक समस्या के लिए सामान्य नकद लाभ नहीं है।",
+            "ग्राम पंचायत/नगरपालिका या राज्य समाज कल्याण/राजस्व कार्यालय से एनएफबीएस आवेदन, मृत्यु प्रमाणपत्र, आयु और परिवार के दस्तावेज पूछें; स्वीकृति सत्यापन पर निर्भर है।"
+          ],
+          "contacts": [
+            {
+              "name": "एनएसएपी आधिकारिक जानकारी",
+              "number": "https://nsap.nic.in/",
+              "available": "ऑनलाइन जानकारी; योजना चलाने वाले प्राधिकरण की आवेदन प्रक्रिया अपनाएँ।"
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "राष्ट्रीय पारिवारिक लाभ योजना: मृत्यु के बाद सहायता",
+              "description": "एनएफबीएस की शर्तों के अनुसार मुख्य कमाने वाले की मृत्यु के बाद परिवार के पात्र जीवित मुखिया को एक बार ₹20,000 सहायता।"
+            }
+          ],
+          "sources": [
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+            "https://saiindia.gov.in/webroot/uploads/download_audit_report/2024/AG-Report-NSAP-Eng-067f8b2d369c876.27877078.pdf",
+            "https://sjsa.maharashtra.gov.in/en/scheme/national-family-benefit-scheme/",
+            "https://patan.nic.in/scheme/national-family-benefit-scheme-nfbs-sankatmochan/",
+            "https://www.myscheme.gov.in/schemes/nfbs",
+            "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=155928&id=155928&lang=2&reg=3"
+          ]
+        }
+      },
+      "ta": {
+        "name": "தேசிய குடும்ப நலத் திட்டம்: குடும்ப வருவாய் ஈட்டுபவர் இறப்புக்கான உதவி",
+        "help": {
+          "immediateHelp": [
+            "அங்கீகரிக்கப்பட்ட வறுமைக்கோட்டிற்குக் கீழுள்ள குடும்பத்தின் 18–59 வயதுடைய முதன்மை வருவாய் ஈட்டுபவர் இறந்தால் வழங்கப்படும் குறிப்பிட்ட உதவி; எல்லாப் பணப் பிரச்சினைகளுக்குமான பொதுவான தொகை அல்ல.",
+            "ஊராட்சி/நகராட்சி அல்லது மாநில சமூகநல/வருவாய் அலுவலகத்தில் விண்ணப்பம், இறப்புச் சான்றிதழ், வயது மற்றும் குடும்ப ஆவணங்களைக் கேட்கவும்; ஒப்புதலுக்குச் சரிபார்ப்பு தேவை."
+          ],
+          "contacts": [
+            {
+              "name": "என்எஸ்ஏபி அதிகாரப்பூர்வ விவரம்",
+              "number": "https://nsap.nic.in/",
+              "available": "இணையத் தகவல்; திட்டத்தைச் செயல்படுத்தும் அதிகாரியின் விண்ணப்ப நடைமுறையைப் பின்பற்றவும்."
+            }
+          ],
+          "rights": [],
+          "schemes": [
+            {
+              "name": "தேசிய குடும்ப நலத் திட்டம்: குடும்ப வருவாய் ஈட்டுபவர் இறப்புக்கான உதவி",
+              "description": "என்எஃப்பிஎஸ் விதிகளின்படி முதன்மை வருவாய் ஈட்டுபவர் இறந்தபின் குடும்பத்தின் தகுதியுள்ள உயிருடன் இருக்கும் தலைவருக்கு ஒருமுறை ₹20,000 உதவி."
+            }
+          ],
+          "sources": [
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+            "https://saiindia.gov.in/webroot/uploads/download_audit_report/2024/AG-Report-NSAP-Eng-067f8b2d369c876.27877078.pdf",
+            "https://sjsa.maharashtra.gov.in/en/scheme/national-family-benefit-scheme/",
+            "https://patan.nic.in/scheme/national-family-benefit-scheme-nfbs-sankatmochan/",
+            "https://www.myscheme.gov.in/schemes/nfbs",
+            "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=155928&id=155928&lang=2&reg=3"
+          ]
+        }
+      }
+    },
+    "sourceDetails": [
+      {
+        "title": "Rural Development: NFBS amount and eligible household circumstances",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210378&lang=1&reg=1",
+        "publishedOn": "2026-01-01",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "Bereaved BPL household criteria, breadwinner age and one-time benefit."
+        ]
+      },
+      {
+        "title": "CAG: National Family Benefit Scheme eligibility and implementation",
+        "url": "https://saiindia.gov.in/webroot/uploads/download_audit_report/2024/AG-Report-NSAP-Eng-067f8b2d369c876.27877078.pdf"
+      },
+      {
+        "title": "Maharashtra Social Justice: NFBS national benefit and age criteria",
+        "url": "https://sjsa.maharashtra.gov.in/en/scheme/national-family-benefit-scheme/"
+      },
+      {
+        "title": "Patan district: National Family Benefit Scheme eligibility and one-time assistance",
+        "url": "https://patan.nic.in/scheme/national-family-benefit-scheme-nfbs-sankatmochan/"
+      },
+      {
+        "title": "myScheme scheme page; selected from the downloaded community snapshot",
+        "url": "https://www.myscheme.gov.in/schemes/nfbs",
+        "rawFile": "datasets/real-data/raw/government-schemes/government_schemes_unverified.csv",
+        "locator": "slug=nfbs; CSV data record 2807 (header excluded; not a physical line number)",
+        "rawRow": 2807,
+        "rawName": "National Family Benefit Scheme"
+      },
+      {
+        "title": "National Family Benefit Scheme: bereavement assistance — supplementary official source check",
+        "url": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=155928&id=155928&lang=2&reg=3",
+        "reviewedOn": "2026-10-24",
+        "checkedFacts": [
+          "Bereavement circumstances, breadwinner age and one-time support; local documents require authority confirmation."
+        ]
+      }
+    ],
+    "reviewedOn": "2026-10-24",
+    "coverage": {
+      "en": "India; scheme conditions and local verification apply.",
+      "hi": "भारत; योजना की शर्तें और स्थानीय सत्यापन लागू हैं।",
+      "ta": "இந்தியா; திட்ட நிபந்தனைகளும் உள்ளூர் சரிபார்ப்பும் பொருந்தும்."
+    }
+  }
+]
